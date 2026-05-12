@@ -1,0 +1,285 @@
+.wrap {
+  display: grid;
+  gap: 12px;
+}
+
+.top {
+  display: grid;
+  gap: 10px;
+}
+
+.titleRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.3px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.controls {
+  padding: 12px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 900px) {
+  .row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.label {
+  display: grid;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.select {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+}
+
+.rateRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.toggleRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.toggleHint {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.card {
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.cardTop {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.badge {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 90%, var(--primary-weak));
+}
+
+.badgeSoft {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px dashed var(--border);
+  color: var(--muted);
+}
+
+.tts {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.qBlock {
+  display: grid;
+  gap: 10px;
+}
+
+.qTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.qZh {
+  font-size: 18px;
+}
+
+.qRu {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 520px) {
+  .options {
+    grid-template-columns: 1fr;
+  }
+}
+
+.option {
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px;
+  background: var(--card);
+  cursor: pointer;
+  display: grid;
+  gap: 6px;
+}
+
+.optMainRow {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+}
+
+.optPrefix {
+  font-size: 12px;
+  color: var(--muted);
+  min-width: 20px;
+}
+
+.optZh {
+  font-weight: 850;
+  font-size: 18px;
+  letter-spacing: 0.1px;
+}
+
+.optSub {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.optionChosen {
+  border-color: color-mix(in oklab, var(--primary) 45%, var(--border));
+}
+
+.optionOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 10%, var(--card));
+}
+
+.optionBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.feedbackOk,
+.feedbackBad {
+  border-radius: 16px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  font-size: 14px;
+  display: grid;
+  gap: 6px;
+}
+
+.feedbackOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 10%, var(--card));
+}
+
+.feedbackBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.feedbackMeta {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.afterRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.afterHint {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.textBlock {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  display: grid;
+  gap: 8px;
+}
+
+.textTitle {
+  font-weight: 850;
+}
+
+.textZh {
+  font-size: 16px;
+}
+
+.dialogue {
+  margin: 0;
+  font-size: 15px;
+  white-space: pre-wrap;
+}
+
+.dialoguePinyin {
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
+  white-space: pre-wrap;
+}
+
+.nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.empty {
+  color: var(--muted);
+  font-size: 13px;
+}
+

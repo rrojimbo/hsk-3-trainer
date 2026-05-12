@@ -1,0 +1,76 @@
+.button {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px 16px;
+  cursor: pointer;
+  background: var(--card);
+  color: var(--fg);
+  font-weight: 600;
+  transition: transform 0.05s ease, background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.button:hover:not(:disabled) {
+  box-shadow: 0 8px 20px color-mix(in oklab, var(--primary) 20%, transparent);
+}
+
+.button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+/* Размеры */
+.md {
+  padding: 10px 16px;
+  font-size: 14px;
+}
+
+.sm {
+  padding: 6px 12px;
+  font-size: 13px;
+  border-radius: 10px;
+}
+
+/* Варианты */
+.primary {
+  background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 65%, #9b7cff));
+  color: #fff;
+  border-color: var(--primary-hover);
+}
+
+.primary:hover:not(:disabled) {
+  background: var(--primary-hover);
+}
+
+.ghost {
+  background: transparent;
+  border-color: transparent;
+}
+
+.ghost:hover:not(:disabled) {
+  background: var(--primary-weak);
+  border-color: var(--border);
+}
+
+.good {
+  background: var(--good);
+  border-color: color-mix(in oklab, var(--good) 70%, #000);
+  color: #fff;
+}
+
+.bad {
+  background: var(--bad);
+  border-color: color-mix(in oklab, var(--bad) 70%, #000);
+  color: #fff;
+}
+
+/* Золотой акцент — для выделенных действий */
+.gold {
+  background: var(--gold);
+  border-color: color-mix(in oklab, var(--gold) 70%, #000);
+  color: #18100c;
+  font-weight: 700;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HSK 3 Тренажер",
+  "short_name": "HSK 3",
+  "description": "Онлайн-тренажер для подготовки к HSK 3 и HSKK на русском языке.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1024",
+  "theme_color": "#6d4aff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

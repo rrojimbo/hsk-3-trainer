@@ -1,0 +1,289 @@
+.wrap {
+  display: grid;
+  gap: 12px;
+}
+
+.top {
+  display: grid;
+  gap: 10px;
+}
+
+.titleRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.3px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.filters {
+  padding: 12px;
+  display: grid;
+  gap: 10px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 860px) {
+  .row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.label {
+  display: grid;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.select {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+}
+
+.modeRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.session {
+  padding: 14px;
+}
+
+.sessionTop {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.badge {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 90%, var(--primary-weak));
+}
+
+.badgeSoft {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px dashed var(--border);
+  color: var(--muted);
+}
+
+.cardMode,
+.quizMode,
+.pinyinMode {
+  display: grid;
+  gap: 12px;
+}
+
+.cardFace {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: linear-gradient(180deg, color-mix(in oklab, var(--card) 92%, transparent), var(--card));
+  padding: 18px 14px;
+  cursor: pointer;
+}
+
+.hanzi {
+  font-size: 44px;
+}
+
+.tapHint {
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.reveal {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  display: grid;
+  gap: 10px;
+}
+
+.translation {
+  font-size: 18px;
+  font-weight: 850;
+}
+
+.classifiers {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.example {
+  display: grid;
+  gap: 6px;
+}
+
+.exampleRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+
+.exampleZh {
+  font-size: 16px;
+}
+
+.exampleRu {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.exampleEmpty {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.prompt {
+  text-align: center;
+  display: grid;
+  gap: 6px;
+  padding: 10px 0;
+}
+
+.promptSub {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 520px) {
+  .options {
+    grid-template-columns: 1fr;
+  }
+}
+
+.option {
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px;
+  background: var(--card);
+  cursor: pointer;
+}
+
+.optionLocked {
+  cursor: default;
+}
+
+.optionOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 12%, var(--card));
+}
+
+.optionBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.pinyinRow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+}
+
+.pinyinInput {
+  height: 44px;
+  padding: 0 12px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+}
+
+.feedbackOk,
+.feedbackBad {
+  border-radius: 16px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.feedbackOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 10%, var(--card));
+}
+
+.feedbackBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.feedbackMeta {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.code {
+  font-family: var(--mono);
+  font-size: 12px;
+}
+
+.empty {
+  padding: 22px 10px;
+  text-align: center;
+}
+
+.emptyHint {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+}
+

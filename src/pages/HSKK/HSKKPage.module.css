@@ -1,0 +1,144 @@
+.layout {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sidebar {
+  padding: 12px;
+  position: sticky;
+  top: 92px;
+  height: calc(100svh - 110px);
+  overflow: auto;
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    position: static;
+    height: auto;
+  }
+}
+
+.sideTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.sideMeta {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.list {
+  margin-top: 10px;
+  display: grid;
+  gap: 6px;
+}
+
+.item {
+  width: 100%;
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px;
+  background: var(--card);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.itemActive {
+  border-color: color-mix(in oklab, var(--primary) 55%, var(--border));
+  background: color-mix(in oklab, var(--primary-weak) 70%, var(--card));
+}
+
+.code {
+  font-weight: 900;
+}
+
+.files {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.content {
+  display: grid;
+  gap: 12px;
+}
+
+.topCard {
+  padding: 12px;
+  display: grid;
+  gap: 12px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.title {
+  font-weight: 950;
+  font-size: 18px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.audioBlock {
+  display: grid;
+  gap: 8px;
+}
+
+.audioTitle {
+  font-weight: 850;
+}
+
+.audioRow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  align-items: center;
+}
+
+.audio {
+  width: 100%;
+}
+
+.dl {
+  font-size: 12px;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.viewer {
+  padding: 0;
+  overflow: hidden;
+}
+
+.iframe {
+  width: 100%;
+  height: min(78svh, 900px);
+  border: 0;
+}
+

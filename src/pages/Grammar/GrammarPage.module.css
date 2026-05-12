@@ -1,0 +1,328 @@
+.layout {
+  display: grid;
+  grid-template-columns: 360px minmax(0, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sidebar {
+  padding: 12px;
+  position: sticky;
+  top: 92px;
+  height: calc(100svh - 110px);
+  overflow: auto;
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    position: static;
+    height: auto;
+  }
+}
+
+.sideTop {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.sideTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.sideMeta {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.list {
+  display: grid;
+  gap: 6px;
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 10px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  width: 100%;
+  text-align: left;
+  border: 1px solid var(--border);
+  background: var(--card);
+  border-radius: 14px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.itemActive {
+  border-color: color-mix(in oklab, var(--primary) 55%, var(--border));
+  background: color-mix(in oklab, var(--primary-weak) 70%, var(--card));
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  margin-top: 3px;
+}
+
+.dotTodo {
+  background: color-mix(in oklab, var(--border) 80%, transparent);
+  border: 1px solid var(--border);
+}
+
+.dotDone {
+  background: var(--good);
+}
+
+.itemMain {
+  display: grid;
+  gap: 2px;
+}
+
+.pattern {
+  font-weight: 850;
+}
+
+.name {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.content {
+  display: grid;
+  gap: 12px;
+}
+
+.header {
+  padding: 14px;
+  display: grid;
+  gap: 10px;
+}
+
+.hRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: start;
+}
+
+.hPattern {
+  font-weight: 950;
+  font-size: 22px;
+  letter-spacing: -0.3px;
+}
+
+.hName {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 2px;
+}
+
+.hActions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.expl {
+  font-size: 14px;
+}
+
+.examples {
+  display: grid;
+  gap: 10px;
+}
+
+.example {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  display: grid;
+  gap: 6px;
+}
+
+.exZhRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.exZh {
+  font-size: 16px;
+}
+
+.exRu {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.exerciseCard {
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.exTop {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.exTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.exNav {
+  display: flex;
+  gap: 8px;
+}
+
+.exBody {
+  display: grid;
+  gap: 12px;
+}
+
+.exType {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.zhRow {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.zhSentence {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.blank {
+  width: 78px;
+  height: 34px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0 10px;
+  margin: 0 6px;
+  background: var(--card);
+  color: var(--fg);
+  text-align: center;
+}
+
+.hints {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 13px;
+  background: var(--card);
+}
+
+.chipBtn,
+.chipBtnPicked {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 10px;
+  background: var(--card);
+  cursor: pointer;
+}
+
+.chipBtnPicked {
+  background: color-mix(in oklab, var(--primary-weak) 70%, var(--card));
+  border-color: color-mix(in oklab, var(--primary) 35%, var(--border));
+}
+
+.builder {
+  min-height: 44px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.builderHint {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.feedbackOk,
+.feedbackBad {
+  border-radius: 16px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.feedbackOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 10%, var(--card));
+}
+
+.feedbackBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.translateRu {
+  font-size: 15px;
+}
+
+.textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px 12px;
+  background: var(--card);
+  color: var(--fg);
+  resize: vertical;
+}
+
+.selfCheck {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+}
+
+.selfTitle {
+  font-weight: 850;
+}
+
+.selfHint {
+  margin-top: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.exEmpty {
+  color: var(--muted);
+  font-size: 13px;
+}
+

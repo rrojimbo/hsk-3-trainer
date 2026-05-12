@@ -1,0 +1,166 @@
+.app {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Шапка ── */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(10px);
+  background: color-mix(in oklab, var(--card) 86%, transparent);
+  border-bottom: 1px solid var(--border);
+}
+
+@media (prefers-color-scheme: dark) {
+  .header {
+    background: color-mix(in oklab, var(--card) 80%, transparent);
+  }
+}
+
+/* ── Бренд ── */
+.brand {
+  padding: 12px 16px 6px;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  max-width: 1120px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 18px;
+  letter-spacing: -0.35px;
+  color: var(--fg);
+}
+
+/* Декоративный иероглиф рядом с названием */
+.title::before {
+  content: '汉';
+  margin-right: 8px;
+  font-size: 20px;
+  color: var(--primary);
+  opacity: 0.95;
+  letter-spacing: 0;
+}
+
+.subtitle {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* ── Навигация ── */
+.nav {
+  display: flex;
+  gap: 4px;
+  overflow: auto;
+  padding: 8px 12px 10px;
+  max-width: 1120px;
+  margin: 0 auto;
+  scrollbar-width: none;
+}
+
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+.link,
+.linkActive {
+  white-space: nowrap;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  color: var(--muted);
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.link:hover {
+  background: var(--primary-weak);
+  border-color: color-mix(in oklab, var(--primary) 35%, var(--border));
+  color: var(--fg);
+}
+
+.linkActive {
+  background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 65%, #9b7cff));
+  border-color: color-mix(in oklab, var(--primary) 75%, black);
+  color: #fff;
+  font-weight: 700;
+}
+
+/* ── Контент ── */
+.main {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 18px 12px 38px;
+  flex: 1;
+}
+
+@media (max-width: 760px) {
+  .main {
+    padding-bottom: 84px;
+  }
+}
+
+/* ── Футер ── */
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 14px 12px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+  background: color-mix(in oklab, var(--card) 95%, transparent);
+}
+
+.mobileBar {
+  position: fixed;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  z-index: 20;
+  display: none;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+  padding: 7px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: color-mix(in oklab, var(--card) 88%, transparent);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 12px 28px rgba(12, 18, 55, 0.24);
+}
+
+.mobileLink {
+  text-decoration: none;
+  border-radius: 12px;
+  min-height: 50px;
+  display: grid;
+  place-items: center;
+  gap: 2px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+  background: transparent;
+}
+
+.mobileEmoji {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.mobileLinkActive {
+  color: #fff;
+  background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 70%, #a087ff));
+}
+
+@media (max-width: 760px) {
+  .mobileBar {
+    display: grid;
+  }
+}

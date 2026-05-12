@@ -1,0 +1,367 @@
+{
+  "generated_at": "2026-04-21T12:01:20.996Z",
+  "items": [
+    {
+      "code": "H31001",
+      "pdf_main": "/official/HSK%203%20Tests/H31001/H31001%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31001/H31001%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31001/H31001%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31001/H31001%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31001/H31001%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31001/H31001%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31001/H31001%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31001/H31001%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31002",
+      "pdf_main": "/official/HSK%203%20Tests/H31002/H31002%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31002/H31002%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31002/H31002%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31002/H31002%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31002/H31002%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31002/H31002%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31002/H31002%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31002/H31002%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31003",
+      "pdf_main": "/official/HSK%203%20Tests/H31003/H31003%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31003/H31003%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31003/H31003%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31003/H31003%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31003/H31003%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31003/H31003%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31003/H31003%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31003/H31003%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31004",
+      "pdf_main": "/official/HSK%203%20Tests/H31004/H31004.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31004/H31004.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31004/H31004%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H31005",
+      "pdf_main": "/official/HSK%203%20Tests/H31005/H31005.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31005/H31005.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31005/H31005%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H31006",
+      "pdf_main": "/official/HSK%203%20Tests/H31006/H31006.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31006/H31006.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31006/H31006%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H31007",
+      "pdf_main": "/official/HSK%203%20Tests/H31007/H31007.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31007/H31007.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31007/H31007%E5%90%AC%E5%8A%9B.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H31008",
+      "pdf_main": "/official/HSK%203%20Tests/H31008/H31008%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31008/H31008%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31008/H31008%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31008/H31008%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31008/H31008%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31008/H31008%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31008/H31008%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31008/H31008%E5%90%AC%E5%8A%9B.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31009",
+      "pdf_main": "/official/HSK%203%20Tests/H31009/H31009%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31009/H31009%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31009/H31009%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31009/H31009%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31009/H31009%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31009/H31009%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31009/H31009%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31009/H31009%E5%90%AC%E5%8A%9B.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31110",
+      "pdf_main": "/official/HSK%203%20Tests/H31110/H31110%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31110/H31110%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31110/H31110%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31110/H31110%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31110/H31110%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31110/H31110%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31110/H31110%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31110/H31110%E5%90%AC%E5%8A%9B.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31111",
+      "pdf_main": "/official/HSK%203%20Tests/H31111/H31111%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSK%203%20Tests/H31111/H31111%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31111/H31111%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31111/H31111%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31111/H31111%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31111/H31111%E7%AD%94%E6%A1%88.pdf",
+        "/official/HSK%203%20Tests/H31111/H31111%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31111/H31111%E5%90%AC%E5%8A%9B.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31218",
+      "pdf_main": "/official/HSK%203%20Tests/H31218/H31218.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31218/H31218%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31218/H31218%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31218/H31218.pdf",
+        "/official/HSK%203%20Tests/H31218/H31218%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31218/H31218%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31218/H31218.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31219",
+      "pdf_main": "/official/HSK%203%20Tests/H31219/H31219.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31219/H31219%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31219/H31219%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31219/H31219.pdf",
+        "/official/HSK%203%20Tests/H31219/H31219%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31219/H31219%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31219/H31219.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31220",
+      "pdf_main": "/official/HSK%203%20Tests/H31220/H31220.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31220/H31220%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31220/H31220%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31220/H31220.pdf",
+        "/official/HSK%203%20Tests/H31220/H31220%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31220/H31220%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31220/H31220.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31221",
+      "pdf_main": "/official/HSK%203%20Tests/H31221/H31221.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31221/H31221%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31221/H31221%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31221/H31221.pdf",
+        "/official/HSK%203%20Tests/H31221/H31221%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31221/H31221%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31221/H31221.wma"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31327",
+      "pdf_main": "/official/HSK%203%20Tests/H31327/H31327.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31327/H31327%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31327/H31327%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31327/H31327.pdf",
+        "/official/HSK%203%20Tests/H31327/H31327%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31327/H31327%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31327/H31327.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31328",
+      "pdf_main": "/official/HSK%203%20Tests/H31328/H31328.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31328/H31328%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31328/H31328%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31328/H31328.pdf",
+        "/official/HSK%203%20Tests/H31328/H31328%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31328/H31328%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31328/H31328.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31329",
+      "pdf_main": "/official/HSK%203%20Tests/H31329/H31329.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": "/official/HSK%203%20Tests/H31329/H31329%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+      "pdf_answers": "/official/HSK%203%20Tests/H31329/H31329%E7%AD%94%E6%A1%88.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31329/H31329.pdf",
+        "/official/HSK%203%20Tests/H31329/H31329%E5%90%AC%E5%8A%9B%E6%9D%90%E6%96%99.pdf",
+        "/official/HSK%203%20Tests/H31329/H31329%E7%AD%94%E6%A1%88.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31329/H31329.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31330",
+      "pdf_main": "/official/HSK%203%20Tests/H31330/H31330.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": "/official/HSK%203%20Tests/H31330/H31330_Loesung.pdf",
+      "pdf_transcript": "/official/HSK%203%20Tests/H31330/H31330_Transkript.pdf",
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31330/H31330.pdf",
+        "/official/HSK%203%20Tests/H31330/H31330_Loesung.pdf",
+        "/official/HSK%203%20Tests/H31330/H31330_Transkript.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31330/H31330.mp3"
+      ],
+      "files_count": 4
+    },
+    {
+      "code": "H31331",
+      "pdf_main": "/official/HSK%203%20Tests/H31331/H31331.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31331/H31331.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31331/H31331.mp3"
+      ],
+      "files_count": 7
+    },
+    {
+      "code": "H31332",
+      "pdf_main": "/official/HSK%203%20Tests/H31332/H31332.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": "/official/HSK%203%20Tests/H31332/H31332_Loesung.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31332/H31332.pdf",
+        "/official/HSK%203%20Tests/H31332/H31332_Loesung.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31332/H31332.mp3"
+      ],
+      "files_count": 3
+    },
+    {
+      "code": "H31333",
+      "pdf_main": "/official/HSK%203%20Tests/H31333/H31333.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": "/official/HSK%203%20Tests/H31333/H31333_Loesung.pdf",
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSK%203%20Tests/H31333/H31333.pdf",
+        "/official/HSK%203%20Tests/H31333/H31333_Loesung.pdf"
+      ],
+      "audio": [
+        "/official/HSK%203%20Tests/H31333/H31333.mp3"
+      ],
+      "files_count": 3
+    }
+  ]
+}

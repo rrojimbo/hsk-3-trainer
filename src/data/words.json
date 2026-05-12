@@ -1,0 +1,7643 @@
+[
+  {
+    "id": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "translation": "любовь",
+    "hsk_level": 1,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很爱。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn ài 。",
+    "example_ru": "Услышав эту новость, я очень любовь.",
+    "classifiers": []
+  },
+  {
+    "id": 2,
+    "hanzi": "八",
+    "pinyin": "bā",
+    "translation": "восемь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是八。",
+    "example_pinyin": "zhè shì bā 。",
+    "example_ru": "Это: восемь.",
+    "classifiers": []
+  },
+  {
+    "id": 3,
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "translation": "папа",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一个爸爸。",
+    "example_pinyin": "wǒ yǒu yí gè bà ba 。",
+    "example_ru": "У меня есть один/одна: папа.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 4,
+    "hanzi": "杯子",
+    "pinyin": "bēi zi",
+    "translation": "стакан, чашка",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一个杯子。",
+    "example_pinyin": "wǒ yǒu yí gè bēi zi 。",
+    "example_ru": "У меня есть один/одна: стакан, чашка.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 5,
+    "hanzi": "北京",
+    "pinyin": "Běi jīng",
+    "translation": "Пекин",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是北京。",
+    "example_pinyin": "zhè shì běi jīng 。",
+    "example_ru": "Это: Пекин.",
+    "classifiers": []
+  },
+  {
+    "id": 6,
+    "hanzi": "本",
+    "pinyin": "běn",
+    "translation": "счётное слово для книг/журналов/тетрадей",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一本书。",
+    "example_pinyin": "wǒ yǒu yì běn shū 。",
+    "example_ru": "У меня есть одна книга. (本 — для книг)",
+    "classifiers": []
+  },
+  {
+    "id": 7,
+    "hanzi": "不客气",
+    "pinyin": "bù kè qi",
+    "translation": "пожалуйста, не стоит благодарности",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得不客气很重要。",
+    "example_pinyin": "wǒ jué de bú kè qì hěn zhòng yào 。",
+    "example_ru": "Я считаю, что пожалуйста, не стоит благодарности очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 8,
+    "hanzi": "不",
+    "pinyin": "bù",
+    "translation": "не",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是不。",
+    "example_pinyin": "zhè shì bù 。",
+    "example_ru": "Это: не.",
+    "classifiers": []
+  },
+  {
+    "id": 9,
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "translation": "овощи",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一盘菜。",
+    "example_pinyin": "wǒ yǒu yì pán cài 。",
+    "example_ru": "У меня есть один/одна: овощи.",
+    "classifiers": [
+      "盘"
+    ]
+  },
+  {
+    "id": 10,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "translation": "чай",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一杯茶。",
+    "example_pinyin": "wǒ yǒu yì bēi chá 。",
+    "example_ru": "У меня есть один/одна: чай.",
+    "classifiers": [
+      "杯"
+    ]
+  },
+  {
+    "id": 11,
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "translation": "есть",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想吃一下，你等我。",
+    "example_pinyin": "wǒ xiǎng chī yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу есть немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 12,
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "translation": "такси",
+    "hsk_level": 1,
+    "topic": "транспорт",
+    "example_zh": "我常常坐出租车去上班。",
+    "example_pinyin": "wǒ cháng cháng zuò chū zū chē qù shàng bān 。",
+    "example_ru": "Я часто езжу на такси на работу.",
+    "classifiers": []
+  },
+  {
+    "id": 13,
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "translation": "звонить по телефону",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是打电话。",
+    "example_pinyin": "zhè shì dǎ diàn huà 。",
+    "example_ru": "Это: звонить по телефону.",
+    "classifiers": []
+  },
+  {
+    "id": 14,
+    "hanzi": "大",
+    "pinyin": "dà",
+    "translation": "большой",
+    "hsk_level": 1,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要大。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào dà 。",
+    "example_ru": "Мне нехорошо, мне нужно: большой.",
+    "classifiers": []
+  },
+  {
+    "id": 15,
+    "hanzi": "的",
+    "pinyin": "de",
+    "translation": "притяжательная частица",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们的见面吧。",
+    "example_pinyin": "wǒ men de jiàn miàn ba 。",
+    "example_ru": "Давай встретимся притяжательная частица.",
+    "classifiers": []
+  },
+  {
+    "id": 16,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "translation": "немного, капля",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得点很重要。",
+    "example_pinyin": "wǒ jué de diǎn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что немного, капля очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 17,
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "translation": "компьютер",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一台电脑。",
+    "example_pinyin": "wǒ yǒu yì tái diàn nǎo 。",
+    "example_ru": "У меня есть один/одна: компьютер.",
+    "classifiers": [
+      "台 (tái)"
+    ]
+  },
+  {
+    "id": 18,
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "translation": "телевидение, телевизор",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一个电视。",
+    "example_pinyin": "wǒ yǒu yí gè diàn shì 。",
+    "example_ru": "У меня есть один/одна: телевидение, телевизор.",
+    "classifiers": [
+      "个 (ge)",
+      "台"
+    ]
+  },
+  {
+    "id": 19,
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "translation": "фильм, кино",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一部电影。",
+    "example_pinyin": "wǒ yǒu yí bù diàn yǐng 。",
+    "example_ru": "У меня есть один/одна: фильм, кино.",
+    "classifiers": [
+      "部"
+    ]
+  },
+  {
+    "id": 20,
+    "hanzi": "东西",
+    "pinyin": "dōng xi",
+    "translation": "вещь, вещи, предмет",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个东西。",
+    "example_pinyin": "wǒ yǒu yí gè dōng xī 。",
+    "example_ru": "У меня есть один/одна: вещь, вещи, предмет.",
+    "classifiers": [
+      "个 (ge)",
+      "件 (ji)"
+    ]
+  },
+  {
+    "id": 21,
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "translation": "все",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是都。",
+    "example_pinyin": "zhè shì dōu 。",
+    "example_ru": "Это: все.",
+    "classifiers": []
+  },
+  {
+    "id": 22,
+    "hanzi": "读",
+    "pinyin": "dú",
+    "translation": "читать",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想读一下，你等我。",
+    "example_pinyin": "wǒ xiǎng dú yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу читать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 23,
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "translation": "виноват",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得对不起很重要。",
+    "example_pinyin": "wǒ jué de duì bù qǐ hěn zhòng yào 。",
+    "example_ru": "Я считаю, что виноват очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 24,
+    "hanzi": "多",
+    "pinyin": "duō",
+    "translation": "много",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得多很重要。",
+    "example_pinyin": "wǒ jué de duō hěn zhòng yào 。",
+    "example_ru": "Я считаю, что много очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 25,
+    "hanzi": "多少",
+    "pinyin": "duō shao",
+    "translation": "сколько?",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得多少很重要。",
+    "example_pinyin": "wǒ jué de duō shǎo hěn zhòng yào 。",
+    "example_ru": "Я считаю, что сколько? очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 26,
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "translation": "сын",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是儿子。",
+    "example_pinyin": "zhè shì ér zi 。",
+    "example_ru": "Это: сын.",
+    "classifiers": []
+  },
+  {
+    "id": 27,
+    "hanzi": "二",
+    "pinyin": "èr",
+    "translation": "два",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是二。",
+    "example_pinyin": "zhè shì èr 。",
+    "example_ru": "Это: два.",
+    "classifiers": []
+  },
+  {
+    "id": 28,
+    "hanzi": "饭馆",
+    "pinyin": "fàn guǎn",
+    "translation": "кафе, ресторан, бистро",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一家饭馆。",
+    "example_pinyin": "wǒ yǒu yì jiā fàn guǎn 。",
+    "example_ru": "У меня есть один/одна: кафе, ресторан, бистро.",
+    "classifiers": [
+      "家 (jiā)",
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 29,
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "translation": "самолет",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一架飞机。",
+    "example_pinyin": "wǒ yǒu yí jià fēi jī 。",
+    "example_ru": "У меня есть один/одна: самолет.",
+    "classifiers": [
+      "架 (jià)"
+    ]
+  },
+  {
+    "id": 30,
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "translation": "минута",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们分钟见面吧。",
+    "example_pinyin": "wǒ men fēn zhōng jiàn miàn ba 。",
+    "example_ru": "Давай встретимся минута.",
+    "classifiers": []
+  },
+  {
+    "id": 31,
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "translation": "радостный",
+    "hsk_level": 1,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很高兴。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn gāo xìng 。",
+    "example_ru": "Услышав эту новость, я очень радостный.",
+    "classifiers": []
+  },
+  {
+    "id": 32,
+    "hanzi": "个",
+    "pinyin": "gè",
+    "translation": "универсальное счётное слово",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我买了一个苹果。",
+    "example_pinyin": "wǒ mǎi le yí gè píng guǒ 。",
+    "example_ru": "Я купил(а) одно яблоко. (个 — счётное слово)",
+    "classifiers": []
+  },
+  {
+    "id": 33,
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "translation": "работать",
+    "hsk_level": 1,
+    "topic": "работа",
+    "example_zh": "我有一个工作。",
+    "example_pinyin": "wǒ yǒu yí gè gōng zuò 。",
+    "example_ru": "У меня есть один/одна: работать.",
+    "classifiers": [
+      "个 (ge)",
+      "项 (xi)"
+    ]
+  },
+  {
+    "id": 34,
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "translation": "собака",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一只狗。",
+    "example_pinyin": "wǒ yǒu yì zhī gǒu 。",
+    "example_ru": "У меня есть один/одна: собака.",
+    "classifiers": [
+      "只 (zh)",
+      "条 (ti)"
+    ]
+  },
+  {
+    "id": 35,
+    "hanzi": "汉语",
+    "pinyin": "Hàn yǔ",
+    "translation": "китайский язык",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一门汉语。",
+    "example_pinyin": "wǒ yǒu yì mén hàn yǔ 。",
+    "example_ru": "У меня есть один/одна: китайский язык.",
+    "classifiers": [
+      "门 (mén)"
+    ]
+  },
+  {
+    "id": 36,
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "translation": "хорошо",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是好。",
+    "example_pinyin": "zhè shì hǎo 。",
+    "example_ru": "Это: хорошо.",
+    "classifiers": []
+  },
+  {
+    "id": 37,
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "translation": "пить",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想喝一下，你等我。",
+    "example_pinyin": "wǒ xiǎng hē yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу пить немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 38,
+    "hanzi": "和",
+    "pinyin": "hé",
+    "translation": "гармония",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是和。",
+    "example_pinyin": "zhè shì hé 。",
+    "example_ru": "Это: гармония.",
+    "classifiers": []
+  },
+  {
+    "id": 39,
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "translation": "очень",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是很。",
+    "example_pinyin": "zhè shì hěn 。",
+    "example_ru": "Это: очень.",
+    "classifiers": []
+  },
+  {
+    "id": 40,
+    "hanzi": "后面",
+    "pinyin": "hòu mian",
+    "translation": "за",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是后面。",
+    "example_pinyin": "zhè shì hòu miàn 。",
+    "example_ru": "Это: за.",
+    "classifiers": []
+  },
+  {
+    "id": 41,
+    "hanzi": "回",
+    "pinyin": "huí",
+    "translation": "возвращаться",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得回很重要。",
+    "example_pinyin": "wǒ jué de huí hěn zhòng yào 。",
+    "example_ru": "Я считаю, что возвращаться очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 42,
+    "hanzi": "会",
+    "pinyin": "huì",
+    "translation": "уметь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个会。",
+    "example_pinyin": "wǒ yǒu yí gè huì 。",
+    "example_ru": "У меня есть один/одна: уметь.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 43,
+    "hanzi": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "translation": "ж/д возкал, станция",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我去火车站。",
+    "example_pinyin": "wǒ qù huǒ chē zhàn 。",
+    "example_ru": "Я иду в/на: ж/д возкал, станция.",
+    "classifiers": []
+  },
+  {
+    "id": 44,
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "translation": "несколько",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是几。",
+    "example_pinyin": "zhè shì jǐ 。",
+    "example_ru": "Это: несколько.",
+    "classifiers": []
+  },
+  {
+    "id": 45,
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "translation": "семья",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个家。",
+    "example_pinyin": "wǒ yǒu yí gè jiā 。",
+    "example_ru": "У меня есть один/одна: семья.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 46,
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "translation": "звать",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是叫。",
+    "example_pinyin": "zhè shì jiào 。",
+    "example_ru": "Это: звать.",
+    "classifiers": []
+  },
+  {
+    "id": 47,
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "translation": "сегодня",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们今天见面吧。",
+    "example_pinyin": "wǒ men jīn tiān jiàn miàn ba 。",
+    "example_ru": "Давай встретимся сегодня.",
+    "classifiers": []
+  },
+  {
+    "id": 48,
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "translation": "девять",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是九。",
+    "example_pinyin": "zhè shì jiǔ 。",
+    "example_ru": "Это: девять.",
+    "classifiers": []
+  },
+  {
+    "id": 49,
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "translation": "включать",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一尔文开。",
+    "example_pinyin": "wǒ yǒu yì ěr wén kāi 。",
+    "example_ru": "У меня есть один/одна: включать.",
+    "classifiers": [
+      "尔文 (degrees)"
+    ]
+  },
+  {
+    "id": 50,
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "translation": "читать",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想看一下，你等我。",
+    "example_pinyin": "wǒ xiǎng kàn yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу читать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 51,
+    "hanzi": "看见",
+    "pinyin": "kàn jiàn",
+    "translation": "видеть",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是看见。",
+    "example_pinyin": "zhè shì kàn jiàn 。",
+    "example_ru": "Это: видеть.",
+    "classifiers": []
+  },
+  {
+    "id": 52,
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "translation": "единица к-л валюты",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是块。",
+    "example_pinyin": "zhè shì kuài 。",
+    "example_ru": "Это: единица к-л валюты.",
+    "classifiers": []
+  },
+  {
+    "id": 53,
+    "hanzi": "来",
+    "pinyin": "lái",
+    "translation": "приходить",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是来。",
+    "example_pinyin": "zhè shì lái 。",
+    "example_ru": "Это: приходить.",
+    "classifiers": []
+  },
+  {
+    "id": 54,
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "translation": "учитель",
+    "hsk_level": 1,
+    "topic": "образование",
+    "example_zh": "我有一个老师。",
+    "example_pinyin": "wǒ yǒu yí gè lǎo shī 。",
+    "example_ru": "У меня есть один/одна: учитель.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 55,
+    "hanzi": "了",
+    "pinyin": "le",
+    "translation": "после гл. или прилагательного означает завершение/совершение действия или перемену состояния",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得了很重要。",
+    "example_pinyin": "wǒ jué de le hěn zhòng yào 。",
+    "example_ru": "Я считаю, что после гл. или прилагательного означает завершение/совершение действия или перемену состояния очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 56,
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "translation": "холодно",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得冷很重要。",
+    "example_pinyin": "wǒ jué de lěng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что холодно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 57,
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "translation": "в",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是里。",
+    "example_pinyin": "zhè shì lǐ 。",
+    "example_ru": "Это: в.",
+    "classifiers": []
+  },
+  {
+    "id": 58,
+    "hanzi": "零",
+    "pinyin": "líng",
+    "translation": "ноль",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是零。",
+    "example_pinyin": "zhè shì líng 。",
+    "example_ru": "Это: ноль.",
+    "classifiers": []
+  },
+  {
+    "id": 59,
+    "hanzi": "六",
+    "pinyin": "liù",
+    "translation": "шесть",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是六。",
+    "example_pinyin": "zhè shì liù 。",
+    "example_ru": "Это: шесть.",
+    "classifiers": []
+  },
+  {
+    "id": 60,
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "translation": "мама",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个妈妈。",
+    "example_pinyin": "wǒ yǒu yí gè mā ma 。",
+    "example_ru": "У меня есть один/одна: мама.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 61,
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "translation": "вопросительная частица",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们吗见面吧。",
+    "example_pinyin": "wǒ men ma jiàn miàn ba 。",
+    "example_ru": "Давай встретимся вопросительная частица.",
+    "classifiers": []
+  },
+  {
+    "id": 62,
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "translation": "покупать",
+    "hsk_level": 1,
+    "topic": "покупки",
+    "example_zh": "我想买这个。",
+    "example_pinyin": "wǒ xiǎng mǎi zhè ge 。",
+    "example_ru": "Я хочу купить это.",
+    "classifiers": []
+  },
+  {
+    "id": 63,
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "translation": "кошка",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一只猫。",
+    "example_pinyin": "wǒ yǒu yì zhī māo 。",
+    "example_ru": "У меня есть один/одна: кошка.",
+    "classifiers": [
+      "只 (zhī)"
+    ]
+  },
+  {
+    "id": 64,
+    "hanzi": "没",
+    "pinyin": "méi",
+    "translation": "нет, отсутствует",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是没。",
+    "example_pinyin": "zhè shì méi 。",
+    "example_ru": "Это: нет, отсутствует.",
+    "classifiers": []
+  },
+  {
+    "id": 65,
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "translation": "ничего страшного",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得没关系很重要。",
+    "example_pinyin": "wǒ jué de méi guān xì hěn zhòng yào 。",
+    "example_ru": "Я считаю, что ничего страшного очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 66,
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "translation": "рис",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得米饭很重要。",
+    "example_pinyin": "wǒ jué de mǐ fàn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что рис очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 67,
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "translation": "завтра",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们明天见面吧。",
+    "example_pinyin": "wǒ men míng tiān jiàn miàn ba 。",
+    "example_ru": "Давай встретимся завтра.",
+    "classifiers": []
+  },
+  {
+    "id": 68,
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "translation": "имя",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个名字。",
+    "example_pinyin": "wǒ yǒu yí gè míng zì 。",
+    "example_ru": "У меня есть один/одна: имя.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 69,
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "translation": "который?",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得哪很重要。",
+    "example_pinyin": "wǒ jué de nǎ hěn zhòng yào 。",
+    "example_ru": "Я считаю, что который? очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 70,
+    "hanzi": "那",
+    "pinyin": "nà",
+    "translation": "тот, та, то",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得那很重要。",
+    "example_pinyin": "wǒ jué de nà hěn zhòng yào 。",
+    "example_ru": "Я считаю, что тот, та, то очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 71,
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "translation": "частица",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们呢见面吧。",
+    "example_pinyin": "wǒ men ne jiàn miàn ba 。",
+    "example_ru": "Давай встретимся частица.",
+    "classifiers": []
+  },
+  {
+    "id": 72,
+    "hanzi": "能",
+    "pinyin": "néng",
+    "translation": "мочь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是能。",
+    "example_pinyin": "zhè shì néng 。",
+    "example_ru": "Это: мочь.",
+    "classifiers": []
+  },
+  {
+    "id": 73,
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "translation": "ты",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是你。",
+    "example_pinyin": "zhè shì nǐ 。",
+    "example_ru": "Это: ты.",
+    "classifiers": []
+  },
+  {
+    "id": 74,
+    "hanzi": "年",
+    "pinyin": "nián",
+    "translation": "год",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我有一个年。",
+    "example_pinyin": "wǒ yǒu yí gè nián 。",
+    "example_ru": "У меня есть один/одна: год.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 75,
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "translation": "дочь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是女儿。",
+    "example_pinyin": "zhè shì nǚ ér 。",
+    "example_ru": "Это: дочь.",
+    "classifiers": []
+  },
+  {
+    "id": 76,
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "translation": "друг",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个朋友。",
+    "example_pinyin": "wǒ yǒu yí gè péng yǒu 。",
+    "example_ru": "У меня есть один/одна: друг.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 77,
+    "hanzi": "漂亮",
+    "pinyin": "piào liang",
+    "translation": "красивый",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是漂亮。",
+    "example_pinyin": "zhè shì piào liang 。",
+    "example_ru": "Это: красивый.",
+    "classifiers": []
+  },
+  {
+    "id": 78,
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "translation": "яблоко",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个苹果。",
+    "example_pinyin": "wǒ yǒu yí gè píng guǒ 。",
+    "example_ru": "У меня есть один/одна: яблоко.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 79,
+    "hanzi": "七",
+    "pinyin": "qī",
+    "translation": "семь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是七。",
+    "example_pinyin": "zhè shì qī 。",
+    "example_ru": "Это: семь.",
+    "classifiers": []
+  },
+  {
+    "id": 80,
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "translation": "деньги",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我有一块钱。",
+    "example_pinyin": "wǒ yǒu yí kuài qián 。",
+    "example_ru": "У меня есть один/одна: деньги.",
+    "classifiers": [
+      "块 (ku)",
+      "笔 (bǐ)"
+    ]
+  },
+  {
+    "id": 81,
+    "hanzi": "前面",
+    "pinyin": "qián miàn",
+    "translation": "перед",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是前面。",
+    "example_pinyin": "zhè shì qián miàn 。",
+    "example_ru": "Это: перед.",
+    "classifiers": []
+  },
+  {
+    "id": 82,
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "translation": "просить",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是请。",
+    "example_pinyin": "zhè shì qǐng 。",
+    "example_ru": "Это: просить.",
+    "classifiers": []
+  },
+  {
+    "id": 83,
+    "hanzi": "去",
+    "pinyin": "qù",
+    "translation": "идти, уходить",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得去很重要。",
+    "example_pinyin": "wǒ jué de qù hěn zhòng yào 。",
+    "example_ru": "Я считаю, что идти, уходить очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 84,
+    "hanzi": "热",
+    "pinyin": "rè",
+    "translation": "горячий",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是热。",
+    "example_pinyin": "zhè shì rè 。",
+    "example_ru": "Это: горячий.",
+    "classifiers": []
+  },
+  {
+    "id": 85,
+    "hanzi": "人",
+    "pinyin": "rén",
+    "translation": "человек",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个人。",
+    "example_pinyin": "wǒ yǒu yí gè rén 。",
+    "example_ru": "У меня есть один/одна: человек.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 86,
+    "hanzi": "认识",
+    "pinyin": "rèn shi",
+    "translation": "познание, понимание",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是认识。",
+    "example_pinyin": "zhè shì rèn shi 。",
+    "example_ru": "Это: познание, понимание.",
+    "classifiers": []
+  },
+  {
+    "id": 87,
+    "hanzi": "日",
+    "pinyin": "rì",
+    "translation": "день, дата",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一日本日。",
+    "example_pinyin": "wǒ yǒu yí rì běn rì 。",
+    "example_ru": "У меня есть один/одна: день, дата.",
+    "classifiers": [
+      "日本 (Japan)"
+    ]
+  },
+  {
+    "id": 88,
+    "hanzi": "三",
+    "pinyin": "sān",
+    "translation": "три",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是三。",
+    "example_pinyin": "zhè shì sān 。",
+    "example_ru": "Это: три.",
+    "classifiers": []
+  },
+  {
+    "id": 89,
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "translation": "магазин",
+    "hsk_level": 1,
+    "topic": "покупки",
+    "example_zh": "我有一家商店。",
+    "example_pinyin": "wǒ yǒu yì jiā shāng diàn 。",
+    "example_ru": "У меня есть один/одна: магазин.",
+    "classifiers": [
+      "家 (ji)",
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 90,
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "translation": "на",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是上。",
+    "example_pinyin": "zhè shì shàng 。",
+    "example_ru": "Это: на.",
+    "classifiers": []
+  },
+  {
+    "id": 91,
+    "hanzi": "上午",
+    "pinyin": "shàng wǔ",
+    "translation": "утро, первая половина дня, до обеда",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我有一个上午。",
+    "example_pinyin": "wǒ yǒu yí gè shàng wǔ 。",
+    "example_ru": "У меня есть один/одна: утро, первая половина дня, до обеда.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 92,
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "translation": "мало, меньше",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是少。",
+    "example_pinyin": "zhè shì shǎo 。",
+    "example_ru": "Это: мало, меньше.",
+    "classifiers": []
+  },
+  {
+    "id": 93,
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "translation": "кто?",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得谁很重要。",
+    "example_pinyin": "wǒ jué de shuí hěn zhòng yào 。",
+    "example_ru": "Я считаю, что кто? очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 94,
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "translation": "что? какой?",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得什么很重要。",
+    "example_pinyin": "wǒ jué de shén me hěn zhòng yào 。",
+    "example_ru": "Я считаю, что что? какой? очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 95,
+    "hanzi": "十",
+    "pinyin": "shí",
+    "translation": "десять",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是十。",
+    "example_pinyin": "zhè shì shí 。",
+    "example_ru": "Это: десять.",
+    "classifiers": []
+  },
+  {
+    "id": 96,
+    "hanzi": "时候",
+    "pinyin": "shí hou",
+    "translation": "время",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们时候见面吧。",
+    "example_pinyin": "wǒ men shí hòu jiàn miàn ba 。",
+    "example_ru": "Давай встретимся время.",
+    "classifiers": []
+  },
+  {
+    "id": 97,
+    "hanzi": "是",
+    "pinyin": "shì",
+    "translation": "да",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是是。",
+    "example_pinyin": "zhè shì shì 。",
+    "example_ru": "Это: да.",
+    "classifiers": []
+  },
+  {
+    "id": 98,
+    "hanzi": "书",
+    "pinyin": "shū",
+    "translation": "книга",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我想买一本书。",
+    "example_pinyin": "wǒ xiǎng mǎi yì běn shū 。",
+    "example_ru": "Я хочу купить один/одну: книга.",
+    "classifiers": [
+      "本",
+      "书经 (Book)"
+    ]
+  },
+  {
+    "id": 99,
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "translation": "вода",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是水。",
+    "example_pinyin": "zhè shì shuǐ 。",
+    "example_ru": "Это: вода.",
+    "classifiers": []
+  },
+  {
+    "id": 100,
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "translation": "фрукт",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个水果。",
+    "example_pinyin": "wǒ yǒu yí gè shuǐ guǒ 。",
+    "example_ru": "У меня есть один/одна: фрукт.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 101,
+    "hanzi": "睡觉",
+    "pinyin": "shuì jiào",
+    "translation": "спать",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是睡觉。",
+    "example_pinyin": "zhè shì shuì jiào 。",
+    "example_ru": "Это: спать.",
+    "classifiers": []
+  },
+  {
+    "id": 102,
+    "hanzi": "说话",
+    "pinyin": "shuō huà",
+    "translation": "говорить, разговаривать, рассказывать",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想说话一下，你等我。",
+    "example_pinyin": "wǒ xiǎng shuō huà yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу говорить, разговаривать, рассказывать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 103,
+    "hanzi": "四",
+    "pinyin": "sì",
+    "translation": "четыре",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是四。",
+    "example_pinyin": "zhè shì sì 。",
+    "example_ru": "Это: четыре.",
+    "classifiers": []
+  },
+  {
+    "id": 104,
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "translation": "год, лет",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们岁见面吧。",
+    "example_pinyin": "wǒ men suì jiàn miàn ba 。",
+    "example_ru": "Давай встретимся год, лет.",
+    "classifiers": []
+  },
+  {
+    "id": 105,
+    "hanzi": "他",
+    "pinyin": "tā",
+    "translation": "он",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是他。",
+    "example_pinyin": "zhè shì tā 。",
+    "example_ru": "Это: он.",
+    "classifiers": []
+  },
+  {
+    "id": 106,
+    "hanzi": "她",
+    "pinyin": "tā",
+    "translation": "она",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是她。",
+    "example_pinyin": "zhè shì tā 。",
+    "example_ru": "Это: она.",
+    "classifiers": []
+  },
+  {
+    "id": 107,
+    "hanzi": "太",
+    "pinyin": "tài",
+    "translation": "слишком",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是太。",
+    "example_pinyin": "zhè shì tài 。",
+    "example_ru": "Это: слишком.",
+    "classifiers": []
+  },
+  {
+    "id": 108,
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "translation": "погода",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们天气见面吧。",
+    "example_pinyin": "wǒ men tiān qì jiàn miàn ba 。",
+    "example_ru": "Давай встретимся погода.",
+    "classifiers": []
+  },
+  {
+    "id": 109,
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "translation": "слушаться",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是听。",
+    "example_pinyin": "zhè shì tīng 。",
+    "example_ru": "Это: слушаться.",
+    "classifiers": []
+  },
+  {
+    "id": 110,
+    "hanzi": "同学",
+    "pinyin": "tóng xué",
+    "translation": "сч. 个 , 位 è",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个同学。",
+    "example_pinyin": "wǒ yǒu yí gè tóng xué 。",
+    "example_ru": "У меня есть один/одна: сч. 个 , 位 è.",
+    "classifiers": [
+      "个 (ge)",
+      "位"
+    ]
+  },
+  {
+    "id": 111,
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "translation": "алло",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是喂。",
+    "example_pinyin": "zhè shì wèi 。",
+    "example_ru": "Это: алло.",
+    "classifiers": []
+  },
+  {
+    "id": 112,
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "translation": "я",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是我。",
+    "example_pinyin": "zhè shì wǒ 。",
+    "example_ru": "Это: я.",
+    "classifiers": []
+  },
+  {
+    "id": 113,
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "translation": "мы",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是我们。",
+    "example_pinyin": "zhè shì wǒ men 。",
+    "example_ru": "Это: мы.",
+    "classifiers": []
+  },
+  {
+    "id": 114,
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "translation": "пять",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是五。",
+    "example_pinyin": "zhè shì wǔ 。",
+    "example_ru": "Это: пять.",
+    "classifiers": []
+  },
+  {
+    "id": 115,
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huan",
+    "translation": "любить ч-л делать",
+    "hsk_level": 1,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很喜欢。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn xǐ huan 。",
+    "example_ru": "Услышав эту новость, я очень любить ч-л делать.",
+    "classifiers": []
+  },
+  {
+    "id": 116,
+    "hanzi": "下",
+    "pinyin": "xià",
+    "translation": "под",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是下。",
+    "example_pinyin": "zhè shì xià 。",
+    "example_ru": "Это: под.",
+    "classifiers": []
+  },
+  {
+    "id": 117,
+    "hanzi": "下午",
+    "pinyin": "xià wǔ",
+    "translation": "после обеда, днем",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个下午。",
+    "example_pinyin": "wǒ yǒu yí gè xià wǔ 。",
+    "example_ru": "У меня есть один/одна: после обеда, днем.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 118,
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "translation": "идет дождь",
+    "hsk_level": 1,
+    "topic": "природа",
+    "example_zh": "今天下雨很好，我们出去走走吧。",
+    "example_pinyin": "jīn tiān xià yǔ hěn hǎo ， wǒ men chū qù zǒu zǒu ba 。",
+    "example_ru": "Сегодня идет дождь хорошая, давай выйдем погулять.",
+    "classifiers": []
+  },
+  {
+    "id": 119,
+    "hanzi": "先生",
+    "pinyin": "xiān sheng",
+    "translation": "господин, мистер",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一位先生。",
+    "example_pinyin": "wǒ yǒu yí wèi xiān shēng 。",
+    "example_ru": "У меня есть один/одна: господин, мистер.",
+    "classifiers": [
+      "位 (wèi)"
+    ]
+  },
+  {
+    "id": 120,
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "translation": "сейчас",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们现在见面吧。",
+    "example_pinyin": "wǒ men xiàn zài jiàn miàn ba 。",
+    "example_ru": "Давай встретимся сейчас.",
+    "classifiers": []
+  },
+  {
+    "id": 121,
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "translation": "хотеть",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是想。",
+    "example_pinyin": "zhè shì xiǎng 。",
+    "example_ru": "Это: хотеть.",
+    "classifiers": []
+  },
+  {
+    "id": 122,
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "translation": "молодой",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是小。",
+    "example_pinyin": "zhè shì xiǎo 。",
+    "example_ru": "Это: молодой.",
+    "classifiers": []
+  },
+  {
+    "id": 123,
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jie",
+    "translation": "мисс, девушка",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个小姐。",
+    "example_pinyin": "wǒ yǒu yí gè xiǎo jiě 。",
+    "example_ru": "У меня есть один/одна: мисс, девушка.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 124,
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "translation": "некоторые, несколько",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得些很重要。",
+    "example_pinyin": "wǒ jué de xiē hěn zhòng yào 。",
+    "example_ru": "Я считаю, что некоторые, несколько очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 125,
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "translation": "писать",
+    "hsk_level": 1,
+    "topic": "действия",
+    "example_zh": "我想写一下，你等我。",
+    "example_pinyin": "wǒ xiǎng xiě yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу писать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 126,
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "translation": "спасибо",
+    "hsk_level": 1,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很谢谢。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn xiè xiè 。",
+    "example_ru": "Услышав эту новость, я очень спасибо.",
+    "classifiers": []
+  },
+  {
+    "id": 127,
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "translation": "неделя",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我有一个星期。",
+    "example_pinyin": "wǒ yǒu yí gè xīng qī 。",
+    "example_ru": "У меня есть один/одна: неделя.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 128,
+    "hanzi": "学生",
+    "pinyin": "xué sheng",
+    "translation": "студент, ученик",
+    "hsk_level": 1,
+    "topic": "образование",
+    "example_zh": "我有一个学生。",
+    "example_pinyin": "wǒ yǒu yí gè xué shēng 。",
+    "example_ru": "У меня есть один/одна: студент, ученик.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 129,
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "translation": "учеба",
+    "hsk_level": 1,
+    "topic": "образование",
+    "example_zh": "我每天学习中文，也会复习学习。",
+    "example_pinyin": "wǒ měi tiān xué xí zhōng wén ， yě huì fù xí xué xí 。",
+    "example_ru": "Я каждый день учу китайский и повторяю учеба.",
+    "classifiers": []
+  },
+  {
+    "id": 130,
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "translation": "школа, учебное заведение",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一所学校。",
+    "example_pinyin": "wǒ yǒu yì suǒ xué xiào 。",
+    "example_ru": "У меня есть один/одна: школа, учебное заведение.",
+    "classifiers": [
+      "所 (suǒ)"
+    ]
+  },
+  {
+    "id": 131,
+    "hanzi": "一",
+    "pinyin": "yī",
+    "translation": "один",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是一。",
+    "example_pinyin": "zhè shì yī 。",
+    "example_ru": "Это: один.",
+    "classifiers": []
+  },
+  {
+    "id": 132,
+    "hanzi": "衣服",
+    "pinyin": "yī fu",
+    "translation": "одежда",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一件衣服。",
+    "example_pinyin": "wǒ yǒu yí jiàn yī fu 。",
+    "example_ru": "У меня есть один/одна: одежда.",
+    "classifiers": [
+      "件 (ji)"
+    ]
+  },
+  {
+    "id": 133,
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "translation": "врач, доктор",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一个医生。",
+    "example_pinyin": "wǒ yǒu yí gè yī shēng 。",
+    "example_ru": "У меня есть один/одна: врач, доктор.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 134,
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "translation": "больница",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我不舒服，去医院看看。",
+    "example_pinyin": "wǒ bù shū fú ， qù yī yuàn kàn kàn 。",
+    "example_ru": "Мне нехорошо, схожу в больницу.",
+    "classifiers": [
+      "所 (su)",
+      "家 (ji)"
+    ]
+  },
+  {
+    "id": 135,
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "translation": "стул",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一把椅子。",
+    "example_pinyin": "wǒ yǒu yì bǎ yǐ zi 。",
+    "example_ru": "У меня есть один/одна: стул.",
+    "classifiers": [
+      "把"
+    ]
+  },
+  {
+    "id": 136,
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "translation": "иметь",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是有。",
+    "example_pinyin": "zhè shì yǒu 。",
+    "example_ru": "Это: иметь.",
+    "classifiers": []
+  },
+  {
+    "id": 137,
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "translation": "месяц",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我有一个月。",
+    "example_pinyin": "wǒ yǒu yí gè yuè 。",
+    "example_ru": "У меня есть один/одна: месяц.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 138,
+    "hanzi": "在",
+    "pinyin": "zài",
+    "translation": "находиться",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是在。",
+    "example_pinyin": "zhè shì zài 。",
+    "example_ru": "Это: находиться.",
+    "classifiers": []
+  },
+  {
+    "id": 139,
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "translation": "до свидания",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得再见很重要。",
+    "example_pinyin": "wǒ jué de zài jiàn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что до свидания очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 140,
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "translation": "как? каким образом?",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是怎么。",
+    "example_pinyin": "zhè shì zěn me 。",
+    "example_ru": "Это: как? каким образом?.",
+    "classifiers": []
+  },
+  {
+    "id": 141,
+    "hanzi": "怎么样",
+    "pinyin": "zěn me yàng",
+    "translation": "как? каким образом? как дела?",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是怎么样。",
+    "example_pinyin": "zhè shì zěn me yàng 。",
+    "example_ru": "Это: как? каким образом? как дела?.",
+    "classifiers": []
+  },
+  {
+    "id": 142,
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "translation": "это, этот",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得这很重要。",
+    "example_pinyin": "wǒ jué de zhè hěn zhòng yào 。",
+    "example_ru": "Я считаю, что это, этот очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 143,
+    "hanzi": "中国",
+    "pinyin": "Zhōng guó",
+    "translation": "Китай",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是中国。",
+    "example_pinyin": "zhè shì zhōng guó 。",
+    "example_ru": "Это: Китай.",
+    "classifiers": []
+  },
+  {
+    "id": 144,
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "translation": "полдень",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个中午。",
+    "example_pinyin": "wǒ yǒu yí gè zhōng wǔ 。",
+    "example_ru": "У меня есть один/одна: полдень.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 145,
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "translation": "жить, проживать",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得住很重要。",
+    "example_pinyin": "wǒ jué de zhù hěn zhòng yào 。",
+    "example_ru": "Я считаю, что жить, проживать очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 146,
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "translation": "стол",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我有一张桌子。",
+    "example_pinyin": "wǒ yǒu yì zhāng zhuō zi 。",
+    "example_ru": "У меня есть один/одна: стол.",
+    "classifiers": [
+      "张 (zh)"
+    ]
+  },
+  {
+    "id": 147,
+    "hanzi": "字",
+    "pinyin": "zì",
+    "translation": "иероглиф, знак",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "我有一个字。",
+    "example_pinyin": "wǒ yǒu yí gè zì 。",
+    "example_ru": "У меня есть один/одна: иероглиф, знак.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 148,
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "translation": "вчера",
+    "hsk_level": 1,
+    "topic": "время",
+    "example_zh": "我们昨天见面吧。",
+    "example_pinyin": "wǒ men zuó tiān jiàn miàn ba 。",
+    "example_ru": "Давай встретимся вчера.",
+    "classifiers": []
+  },
+  {
+    "id": 149,
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "translation": "сидеть, садить",
+    "hsk_level": 1,
+    "topic": "бытовое",
+    "example_zh": "这是坐。",
+    "example_pinyin": "zhè shì zuò 。",
+    "example_ru": "Это: сидеть, садить.",
+    "classifiers": []
+  },
+  {
+    "id": 150,
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "translation": "делать, готовить",
+    "hsk_level": 1,
+    "topic": "союзы",
+    "example_zh": "我觉得做很重要。",
+    "example_pinyin": "wǒ jué de zuò hěn zhòng yào 。",
+    "example_ru": "Я считаю, что делать, готовить очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 151,
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "translation": "частица",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我们吧见面吧。",
+    "example_pinyin": "wǒ men ba jiàn miàn ba 。",
+    "example_ru": "Давай встретимся частица.",
+    "classifiers": []
+  },
+  {
+    "id": 152,
+    "hanzi": "白",
+    "pinyin": "bái",
+    "translation": "белый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是白。",
+    "example_pinyin": "zhè shì bái 。",
+    "example_ru": "Это: белый.",
+    "classifiers": []
+  },
+  {
+    "id": 153,
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "translation": "сто",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是百。",
+    "example_pinyin": "zhè shì bǎi 。",
+    "example_ru": "Это: сто.",
+    "classifiers": []
+  },
+  {
+    "id": 154,
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "translation": "помощь",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是帮助。",
+    "example_pinyin": "zhè shì bāng zhù 。",
+    "example_ru": "Это: помощь.",
+    "classifiers": []
+  },
+  {
+    "id": 155,
+    "hanzi": "报纸",
+    "pinyin": "bào zhǐ",
+    "translation": "газета",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一张报纸。",
+    "example_pinyin": "wǒ yǒu yì zhāng bào zhǐ 。",
+    "example_ru": "У меня есть один/одна: газета.",
+    "classifiers": [
+      "张 (zh)",
+      "份"
+    ]
+  },
+  {
+    "id": 156,
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "translation": "сравнивать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是比。",
+    "example_pinyin": "zhè shì bǐ 。",
+    "example_ru": "Это: сравнивать.",
+    "classifiers": []
+  },
+  {
+    "id": 157,
+    "hanzi": "别",
+    "pinyin": "bié",
+    "translation": "другие",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "他是别。",
+    "example_pinyin": "tā shì bié 。",
+    "example_ru": "Он: другие.",
+    "classifiers": []
+  },
+  {
+    "id": 158,
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "translation": "главный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是长。",
+    "example_pinyin": "zhè shì cháng 。",
+    "example_ru": "Это: главный.",
+    "classifiers": []
+  },
+  {
+    "id": 159,
+    "hanzi": "唱歌",
+    "pinyin": "chàng gē",
+    "translation": "петь",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是唱歌。",
+    "example_pinyin": "zhè shì chàng gē 。",
+    "example_ru": "Это: петь.",
+    "classifiers": []
+  },
+  {
+    "id": 160,
+    "hanzi": "出",
+    "pinyin": "chū",
+    "translation": "выходить",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是出。",
+    "example_pinyin": "zhè shì chū 。",
+    "example_ru": "Это: выходить.",
+    "classifiers": []
+  },
+  {
+    "id": 161,
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "translation": "носить, надевать",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得穿很重要。",
+    "example_pinyin": "wǒ jué de chuān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что носить, надевать очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 162,
+    "hanzi": "船",
+    "pinyin": "chuán",
+    "translation": "корабль, лодка",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一只船。",
+    "example_pinyin": "wǒ yǒu yì zhī chuán 。",
+    "example_ru": "У меня есть один/одна: корабль, лодка.",
+    "classifiers": [
+      "只 (zh)",
+      "条"
+    ]
+  },
+  {
+    "id": 163,
+    "hanzi": "次",
+    "pinyin": "cì",
+    "translation": "следующий",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是次。",
+    "example_pinyin": "zhè shì cì 。",
+    "example_ru": "Это: следующий.",
+    "classifiers": []
+  },
+  {
+    "id": 164,
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "translation": "из",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是从。",
+    "example_pinyin": "zhè shì cóng 。",
+    "example_ru": "Это: из.",
+    "classifiers": []
+  },
+  {
+    "id": 165,
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "translation": "ошибка",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是错。",
+    "example_pinyin": "zhè shì cuò 。",
+    "example_ru": "Это: ошибка.",
+    "classifiers": []
+  },
+  {
+    "id": 166,
+    "hanzi": "打篮球",
+    "pinyin": "dá lán qiú",
+    "translation": "играть в баскетбол",
+    "hsk_level": 2,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要打篮球。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào dǎ lán qiú 。",
+    "example_ru": "Мне нехорошо, мне нужно: играть в баскетбол.",
+    "classifiers": []
+  },
+  {
+    "id": 167,
+    "hanzi": "大家",
+    "pinyin": "dà jiā",
+    "translation": "все",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是大家。",
+    "example_pinyin": "zhè shì dà jiā 。",
+    "example_ru": "Это: все.",
+    "classifiers": []
+  },
+  {
+    "id": 168,
+    "hanzi": "但是",
+    "pinyin": "dàn shì",
+    "translation": "но...",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我想去，但是没时间。",
+    "example_pinyin": "wǒ xiǎng qù ， dàn shì méi shí jiān 。",
+    "example_ru": "Я хочу пойти, но нет времени.",
+    "classifiers": []
+  },
+  {
+    "id": 169,
+    "hanzi": "到",
+    "pinyin": "dào",
+    "translation": "достигать, добираться",
+    "hsk_level": 2,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要到。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào dào 。",
+    "example_ru": "Мне нехорошо, мне нужно: достигать, добираться.",
+    "classifiers": []
+  },
+  {
+    "id": 170,
+    "hanzi": "得",
+    "pinyin": "de",
+    "translation": "получать",
+    "hsk_level": 2,
+    "topic": "образование",
+    "example_zh": "我每天学习中文，也会复习得。",
+    "example_pinyin": "wǒ měi tiān xué xí zhōng wén ， yě huì fù xí dé 。",
+    "example_ru": "Я каждый день учу китайский и повторяю получать.",
+    "classifiers": []
+  },
+  {
+    "id": 171,
+    "hanzi": "得",
+    "pinyin": "děi",
+    "translation": "получать",
+    "hsk_level": 2,
+    "topic": "образование",
+    "example_zh": "这个得不太难。",
+    "example_pinyin": "zhè ge dé bú tài nán 。",
+    "example_ru": "Это получать не очень сложно.",
+    "classifiers": []
+  },
+  {
+    "id": 172,
+    "hanzi": "弟弟",
+    "pinyin": "dì di",
+    "translation": "младший брат",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个弟弟。",
+    "example_pinyin": "wǒ yǒu yí gè dì di 。",
+    "example_ru": "У меня есть один/одна: младший брат.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 173,
+    "hanzi": "第一",
+    "pinyin": "dì yī",
+    "translation": "первый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是第一。",
+    "example_pinyin": "zhè shì dì yī 。",
+    "example_ru": "Это: первый.",
+    "classifiers": []
+  },
+  {
+    "id": 174,
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "translation": "понимать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是懂。",
+    "example_pinyin": "zhè shì dǒng 。",
+    "example_ru": "Это: понимать.",
+    "classifiers": []
+  },
+  {
+    "id": 175,
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "translation": "комната",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一间房间。",
+    "example_pinyin": "wǒ yǒu yì jiān fáng jiān 。",
+    "example_ru": "У меня есть один/одна: комната.",
+    "classifiers": [
+      "间 (jiān)"
+    ]
+  },
+  {
+    "id": 176,
+    "hanzi": "非常",
+    "pinyin": "fēi cháng",
+    "translation": "очень, крайне",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得非常很重要。",
+    "example_pinyin": "wǒ jué de fēi cháng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что очень, крайне очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 177,
+    "hanzi": "服务员",
+    "pinyin": "fú wù yuán",
+    "translation": "официант",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个服务员。",
+    "example_pinyin": "wǒ yǒu yí gè fú wù yuán 。",
+    "example_ru": "У меня есть один/одна: официант.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 178,
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "translation": "высокий",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是高。",
+    "example_pinyin": "zhè shì gāo 。",
+    "example_ru": "Это: высокий.",
+    "classifiers": []
+  },
+  {
+    "id": 179,
+    "hanzi": "告诉",
+    "pinyin": "gào su",
+    "translation": "проинформировать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是告诉。",
+    "example_pinyin": "zhè shì gào sù 。",
+    "example_ru": "Это: проинформировать.",
+    "classifiers": []
+  },
+  {
+    "id": 180,
+    "hanzi": "哥哥",
+    "pinyin": "gē ge",
+    "translation": "старший брат",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个哥哥。",
+    "example_pinyin": "wǒ yǒu yí gè gē ge 。",
+    "example_ru": "У меня есть один/одна: старший брат.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 181,
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "translation": "давать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是给。",
+    "example_pinyin": "zhè shì gěi 。",
+    "example_ru": "Это: давать.",
+    "classifiers": []
+  },
+  {
+    "id": 182,
+    "hanzi": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "translation": "общественный автобус",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一辆公共汽车。",
+    "example_pinyin": "wǒ yǒu yí liàng gōng gòng qì chē 。",
+    "example_ru": "У меня есть один/одна: общественный автобус.",
+    "classifiers": [
+      "辆 (li)"
+    ]
+  },
+  {
+    "id": 183,
+    "hanzi": "公斤",
+    "pinyin": "gōng jīn",
+    "translation": "килограмм",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是公斤。",
+    "example_pinyin": "zhè shì gōng jīn 。",
+    "example_ru": "Это: килограмм.",
+    "classifiers": []
+  },
+  {
+    "id": 184,
+    "hanzi": "公司",
+    "pinyin": "gōng sī",
+    "translation": "фирма, компания",
+    "hsk_level": 2,
+    "topic": "работа",
+    "example_zh": "我有一家公司。",
+    "example_pinyin": "wǒ yǒu yì jiā gōng sī 。",
+    "example_ru": "У меня есть один/одна: фирма, компания.",
+    "classifiers": [
+      "家 (jiā)"
+    ]
+  },
+  {
+    "id": 185,
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "translation": "дорогой",
+    "hsk_level": 2,
+    "topic": "транспорт",
+    "example_zh": "我常常坐贵去上班。",
+    "example_pinyin": "wǒ cháng cháng zuò guì qù shàng bān 。",
+    "example_ru": "Я часто езжу на дорогой на работу.",
+    "classifiers": []
+  },
+  {
+    "id": 186,
+    "hanzi": "还",
+    "pinyin": "hái",
+    "translation": "возвращать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是还。",
+    "example_pinyin": "zhè shì hái 。",
+    "example_ru": "Это: возвращать.",
+    "classifiers": []
+  },
+  {
+    "id": 187,
+    "hanzi": "孩子",
+    "pinyin": "hái zi",
+    "translation": "ребенок",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我有一个孩子。",
+    "example_pinyin": "wǒ yǒu yí gè hái zi 。",
+    "example_ru": "У меня есть один/одна: ребенок.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 188,
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "translation": "вкусный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是好吃。",
+    "example_pinyin": "zhè shì hǎo chī 。",
+    "example_ru": "Это: вкусный.",
+    "classifiers": []
+  },
+  {
+    "id": 189,
+    "hanzi": "号",
+    "pinyin": "hào",
+    "translation": "число, день",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我们号见面吧。",
+    "example_pinyin": "wǒ men hào jiàn miàn ba 。",
+    "example_ru": "Давай встретимся число, день.",
+    "classifiers": []
+  },
+  {
+    "id": 190,
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "translation": "черный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是黑。",
+    "example_pinyin": "zhè shì hēi 。",
+    "example_ru": "Это: черный.",
+    "classifiers": []
+  },
+  {
+    "id": 191,
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "translation": "красный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是红。",
+    "example_pinyin": "zhè shì hóng 。",
+    "example_ru": "Это: красный.",
+    "classifiers": []
+  },
+  {
+    "id": 192,
+    "hanzi": "欢迎",
+    "pinyin": "huān yíng",
+    "translation": "добро пожаловать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是欢迎。",
+    "example_pinyin": "zhè shì huān yíng 。",
+    "example_ru": "Это: добро пожаловать.",
+    "classifiers": []
+  },
+  {
+    "id": 193,
+    "hanzi": "还",
+    "pinyin": "huán",
+    "translation": "возвращать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我喜欢这个还。",
+    "example_pinyin": "wǒ xǐ huan zhè ge hái 。",
+    "example_ru": "Мне нравится этот/эта: возвращать.",
+    "classifiers": []
+  },
+  {
+    "id": 194,
+    "hanzi": "回答",
+    "pinyin": "huí dá",
+    "translation": "ответ",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个回答。",
+    "example_pinyin": "wǒ yǒu yí gè huí dá 。",
+    "example_ru": "У меня есть один/одна: ответ.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 195,
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "translation": "аэропорт",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一座机场。",
+    "example_pinyin": "wǒ yǒu yí zuò jī chǎng 。",
+    "example_ru": "У меня есть один/одна: аэропорт.",
+    "classifiers": [
+      "座 (zu)",
+      "家"
+    ]
+  },
+  {
+    "id": 196,
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "translation": "куриное яйцо",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个鸡蛋。",
+    "example_pinyin": "wǒ yǒu yí gè jī dàn 。",
+    "example_ru": "У меня есть один/одна: куриное яйцо.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 197,
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "translation": "счётное слово для одежды/дел/предметов",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我买了一件衣服。",
+    "example_pinyin": "wǒ mǎi le yí jiàn yī fu 。",
+    "example_ru": "Я купил(а) одну вещь одежды. (件 — для одежды/дел)",
+    "classifiers": []
+  },
+  {
+    "id": 198,
+    "hanzi": "教室",
+    "pinyin": "jiào shì",
+    "translation": "аудитория, класс",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一间教室。",
+    "example_pinyin": "wǒ yǒu yì jiān jiào shì 。",
+    "example_ru": "У меня есть один/одна: аудитория, класс.",
+    "classifiers": [
+      "间 (jiān)"
+    ]
+  },
+  {
+    "id": 199,
+    "hanzi": "姐姐",
+    "pinyin": "jiě jie",
+    "translation": "старшая сестра",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个姐姐。",
+    "example_pinyin": "wǒ yǒu yí gè jiě jie 。",
+    "example_ru": "У меня есть один/одна: старшая сестра.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 200,
+    "hanzi": "介绍",
+    "pinyin": "jiè shào",
+    "translation": "знакомить с кем-либо/чем-либо",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得介绍很重要。",
+    "example_pinyin": "wǒ jué de jiè shào hěn zhòng yào 。",
+    "example_ru": "Я считаю, что знакомить с кем-либо/чем-либо очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 201,
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "translation": "входить",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是进。",
+    "example_pinyin": "zhè shì jìn 。",
+    "example_ru": "Это: входить.",
+    "classifiers": []
+  },
+  {
+    "id": 202,
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "translation": "ближний",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是近。",
+    "example_pinyin": "zhè shì jìn 。",
+    "example_ru": "Это: ближний.",
+    "classifiers": []
+  },
+  {
+    "id": 203,
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "translation": "сразу же, именно, тотчас, и...",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我一到家就睡觉了。",
+    "example_pinyin": "wǒ yí dào jiā jiù shuì jiào le 。",
+    "example_ru": "Как только я пришёл(пришла) домой, сразу уснул(а).",
+    "classifiers": []
+  },
+  {
+    "id": 204,
+    "hanzi": "觉得",
+    "pinyin": "jué de",
+    "translation": "думать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是觉得。",
+    "example_pinyin": "zhè shì jué de 。",
+    "example_ru": "Это: думать.",
+    "classifiers": []
+  },
+  {
+    "id": 205,
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "translation": "кофе",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一杯咖啡。",
+    "example_pinyin": "wǒ yǒu yì bēi kā fēi 。",
+    "example_ru": "У меня есть один/одна: кофе.",
+    "classifiers": [
+      "杯 (bēi)"
+    ]
+  },
+  {
+    "id": 206,
+    "hanzi": "开始",
+    "pinyin": "kāi shǐ",
+    "translation": "начало",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个开始。",
+    "example_pinyin": "wǒ yǒu yí gè kāi shǐ 。",
+    "example_ru": "У меня есть один/одна: начало.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 207,
+    "hanzi": "考试",
+    "pinyin": "kǎo shì",
+    "translation": "экзамен",
+    "hsk_level": 2,
+    "topic": "образование",
+    "example_zh": "我有一次考试。",
+    "example_pinyin": "wǒ yǒu yí cì kǎo shì 。",
+    "example_ru": "У меня есть один/одна: экзамен.",
+    "classifiers": [
+      "次 (cì)"
+    ]
+  },
+  {
+    "id": 208,
+    "hanzi": "可能",
+    "pinyin": "kě néng",
+    "translation": "мочь",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个可能。",
+    "example_pinyin": "wǒ yǒu yí gè kě néng 。",
+    "example_ru": "У меня есть один/одна: мочь.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 209,
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "translation": "мочь, иметь возможность",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得可以很重要。",
+    "example_pinyin": "wǒ jué de kě yǐ hěn zhòng yào 。",
+    "example_ru": "Я считаю, что мочь, иметь возможность очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 210,
+    "hanzi": "课",
+    "pinyin": "kè",
+    "translation": "урок",
+    "hsk_level": 2,
+    "topic": "образование",
+    "example_zh": "我有一节课。",
+    "example_pinyin": "wǒ yǒu yì jié kè 。",
+    "example_ru": "У меня есть один/одна: урок.",
+    "classifiers": [
+      "节 (ji)",
+      "门 (mén)",
+      "堂"
+    ]
+  },
+  {
+    "id": 211,
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "translation": "быстрый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是快。",
+    "example_pinyin": "zhè shì kuài 。",
+    "example_ru": "Это: быстрый.",
+    "classifiers": []
+  },
+  {
+    "id": 212,
+    "hanzi": "快乐",
+    "pinyin": "kuài lè",
+    "translation": "веселый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是快乐。",
+    "example_pinyin": "zhè shì kuài lè 。",
+    "example_ru": "Это: веселый.",
+    "classifiers": []
+  },
+  {
+    "id": 213,
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "translation": "уставший",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是累。",
+    "example_pinyin": "zhè shì lèi 。",
+    "example_ru": "Это: уставший.",
+    "classifiers": []
+  },
+  {
+    "id": 214,
+    "hanzi": "离",
+    "pinyin": "lí",
+    "translation": "покидать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是离。",
+    "example_pinyin": "zhè shì lí 。",
+    "example_ru": "Это: покидать.",
+    "classifiers": []
+  },
+  {
+    "id": 215,
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "translation": "два, пара",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是两。",
+    "example_pinyin": "zhè shì liǎng 。",
+    "example_ru": "Это: два, пара.",
+    "classifiers": []
+  },
+  {
+    "id": 216,
+    "hanzi": "路",
+    "pinyin": "lù",
+    "translation": "дорога, путь",
+    "hsk_level": 2,
+    "topic": "транспорт",
+    "example_zh": "我有一条路。",
+    "example_pinyin": "wǒ yǒu yì tiáo lù 。",
+    "example_ru": "У меня есть один/одна: дорога, путь.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 217,
+    "hanzi": "旅游",
+    "pinyin": "lǚ yóu",
+    "translation": "путешествие",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是旅游。",
+    "example_pinyin": "zhè shì lǚ yóu 。",
+    "example_ru": "Это: путешествие.",
+    "classifiers": []
+  },
+  {
+    "id": 218,
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "translation": "продавать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这家店卖水果。",
+    "example_pinyin": "zhè jiā diàn mài shuǐ guǒ 。",
+    "example_ru": "В этом магазине продают фрукты.",
+    "classifiers": []
+  },
+  {
+    "id": 219,
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "translation": "медленный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是慢。",
+    "example_pinyin": "zhè shì màn 。",
+    "example_ru": "Это: медленный.",
+    "classifiers": []
+  },
+  {
+    "id": 220,
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "translation": "занятой",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得忙很重要。",
+    "example_pinyin": "wǒ jué de máng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что занятой очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 221,
+    "hanzi": "每",
+    "pinyin": "měi",
+    "translation": "каждый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是每。",
+    "example_pinyin": "zhè shì měi 。",
+    "example_ru": "Это: каждый.",
+    "classifiers": []
+  },
+  {
+    "id": 222,
+    "hanzi": "妹妹",
+    "pinyin": "mèi mei",
+    "translation": "младшая сестра",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个妹妹。",
+    "example_pinyin": "wǒ yǒu yí gè mèi mei 。",
+    "example_ru": "У меня есть один/одна: младшая сестра.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 223,
+    "hanzi": "门",
+    "pinyin": "mén",
+    "translation": "дверь, ворота",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一扇门。",
+    "example_pinyin": "wǒ yǒu yí shàn mén 。",
+    "example_ru": "У меня есть один/одна: дверь, ворота.",
+    "classifiers": [
+      "扇 (shàn)",
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 224,
+    "hanzi": "男人",
+    "pinyin": "nán rén",
+    "translation": "мужчина",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "他是男人。",
+    "example_pinyin": "tā shì nán rén 。",
+    "example_ru": "Он мужчина.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 225,
+    "hanzi": "您",
+    "pinyin": "nín",
+    "translation": "Вы",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是您。",
+    "example_pinyin": "zhè shì nín 。",
+    "example_ru": "Это: Вы.",
+    "classifiers": []
+  },
+  {
+    "id": 226,
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "translation": "коровье молоко",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一瓶牛奶。",
+    "example_pinyin": "wǒ yǒu yì píng niú nǎi 。",
+    "example_ru": "У меня есть один/одна: коровье молоко.",
+    "classifiers": [
+      "瓶"
+    ]
+  },
+  {
+    "id": 227,
+    "hanzi": "女人",
+    "pinyin": "nǚ rén",
+    "translation": "женщина",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "她是女人。",
+    "example_pinyin": "tā shì nǚ rén 。",
+    "example_ru": "Она женщина.",
+    "classifiers": []
+  },
+  {
+    "id": 228,
+    "hanzi": "旁边",
+    "pinyin": "páng biān",
+    "translation": "рядом, сбоку",
+    "hsk_level": 2,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很旁边。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn páng biān 。",
+    "example_ru": "Услышав эту новость, я очень рядом, сбоку.",
+    "classifiers": []
+  },
+  {
+    "id": 229,
+    "hanzi": "跑步",
+    "pinyin": "pǎo bù",
+    "translation": "бегать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是跑步。",
+    "example_pinyin": "zhè shì pǎo bù 。",
+    "example_ru": "Это: бегать.",
+    "classifiers": []
+  },
+  {
+    "id": 230,
+    "hanzi": "便宜",
+    "pinyin": "pián yi",
+    "translation": "дешевый",
+    "hsk_level": 2,
+    "topic": "покупки",
+    "example_zh": "我想买便宜。",
+    "example_pinyin": "wǒ xiǎng mǎi pián yi 。",
+    "example_ru": "Я хочу купить: дешевый.",
+    "classifiers": []
+  },
+  {
+    "id": 231,
+    "hanzi": "票",
+    "pinyin": "piào",
+    "translation": "билет",
+    "hsk_level": 2,
+    "topic": "транспорт",
+    "example_zh": "我有一张票。",
+    "example_pinyin": "wǒ yǒu yì zhāng piào 。",
+    "example_ru": "У меня есть один/одна: билет.",
+    "classifiers": [
+      "张 (zhāng)"
+    ]
+  },
+  {
+    "id": 232,
+    "hanzi": "妻子",
+    "pinyin": "qī zi",
+    "translation": "жена",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个妻子。",
+    "example_pinyin": "wǒ yǒu yí gè qī zǐ 。",
+    "example_ru": "У меня есть один/одна: жена.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 233,
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "translation": "вставать с кровати",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是起床。",
+    "example_pinyin": "zhè shì qǐ chuáng 。",
+    "example_ru": "Это: вставать с кровати.",
+    "classifiers": []
+  },
+  {
+    "id": 234,
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "translation": "тысяча",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是千。",
+    "example_pinyin": "zhè shì qiān 。",
+    "example_ru": "Это: тысяча.",
+    "classifiers": []
+  },
+  {
+    "id": 235,
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "translation": "ясный, хорошая",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我们晴见面吧。",
+    "example_pinyin": "wǒ men qíng jiàn miàn ba 。",
+    "example_ru": "Давай встретимся ясный, хорошая.",
+    "classifiers": []
+  },
+  {
+    "id": 236,
+    "hanzi": "去年",
+    "pinyin": "qù nián",
+    "translation": "прошлый год",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我们去年见面吧。",
+    "example_pinyin": "wǒ men qù nián jiàn miàn ba 。",
+    "example_ru": "Давай встретимся прошлый год.",
+    "classifiers": []
+  },
+  {
+    "id": 237,
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "translation": "просить",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是让。",
+    "example_pinyin": "zhè shì ràng 。",
+    "example_ru": "Это: просить.",
+    "classifiers": []
+  },
+  {
+    "id": 238,
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "translation": "ходить на работу",
+    "hsk_level": 2,
+    "topic": "работа",
+    "example_zh": "我在公司工作，上班对我很重要。",
+    "example_pinyin": "wǒ zài gōng sī gōng zuò ， shàng bān duì wǒ hěn zhòng yào 。",
+    "example_ru": "Я работаю в компании, и ходить на работу для меня важно.",
+    "classifiers": []
+  },
+  {
+    "id": 239,
+    "hanzi": "身体",
+    "pinyin": "shēn tǐ",
+    "translation": "тело",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个身体。",
+    "example_pinyin": "wǒ yǒu yí gè shēn tǐ 。",
+    "example_ru": "У меня есть один/одна: тело.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 240,
+    "hanzi": "生病",
+    "pinyin": "shēng bìng",
+    "translation": "заболеть",
+    "hsk_level": 2,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要生病。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào shēng bìng 。",
+    "example_ru": "Мне нехорошо, мне нужно: заболеть.",
+    "classifiers": []
+  },
+  {
+    "id": 241,
+    "hanzi": "生日",
+    "pinyin": "shēng rì",
+    "translation": "день рождения",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我有一个生日。",
+    "example_pinyin": "wǒ yǒu yí gè shēng rì 。",
+    "example_ru": "У меня есть один/одна: день рождения.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 242,
+    "hanzi": "时间",
+    "pinyin": "shí jiān",
+    "translation": "время",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我有一段时间。",
+    "example_pinyin": "wǒ yǒu yí duàn shí jiān 。",
+    "example_ru": "У меня есть один/одна: время.",
+    "classifiers": [
+      "段 (duàn)"
+    ]
+  },
+  {
+    "id": 243,
+    "hanzi": "事情",
+    "pinyin": "shì qing",
+    "translation": "случай",
+    "hsk_level": 2,
+    "topic": "образование",
+    "example_zh": "我有一件事情。",
+    "example_pinyin": "wǒ yǒu yí jiàn shì qíng 。",
+    "example_ru": "У меня есть один/одна: случай.",
+    "classifiers": [
+      "件"
+    ]
+  },
+  {
+    "id": 244,
+    "hanzi": "手表",
+    "pinyin": "shǒu biǎo",
+    "translation": "наручные часы",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一块手表。",
+    "example_pinyin": "wǒ yǒu yí kuài shǒu biǎo 。",
+    "example_ru": "У меня есть один/одна: наручные часы.",
+    "classifiers": [
+      "块 (ku)"
+    ]
+  },
+  {
+    "id": 245,
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "translation": "мобильный телефон",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一部手机。",
+    "example_pinyin": "wǒ yǒu yí bù shǒu jī 。",
+    "example_ru": "У меня есть один/одна: мобильный телефон.",
+    "classifiers": [
+      "部"
+    ]
+  },
+  {
+    "id": 246,
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "translation": "посылать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是送。",
+    "example_pinyin": "zhè shì sòng 。",
+    "example_ru": "Это: посылать.",
+    "classifiers": []
+  },
+  {
+    "id": 247,
+    "hanzi": "所以",
+    "pinyin": "suǒ yǐ",
+    "translation": "поэтому",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我很忙，所以没时间。",
+    "example_pinyin": "wǒ hěn máng ， suǒ yǐ méi shí jiān 。",
+    "example_ru": "Я очень занят(а), поэтому нет времени.",
+    "classifiers": []
+  },
+  {
+    "id": 248,
+    "hanzi": "它",
+    "pinyin": "tā",
+    "translation": "оно",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得它很重要。",
+    "example_pinyin": "wǒ jué de tā hěn zhòng yào 。",
+    "example_ru": "Я считаю, что оно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 249,
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "translation": "пинать; ударять ногой",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是踢。",
+    "example_pinyin": "zhè shì tī 。",
+    "example_ru": "Это: пинать; ударять ногой.",
+    "classifiers": []
+  },
+  {
+    "id": 250,
+    "hanzi": "题",
+    "pinyin": "tí",
+    "translation": "тема",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个题。",
+    "example_pinyin": "wǒ yǒu yí gè tí 。",
+    "example_ru": "У меня есть один/одна: тема.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 251,
+    "hanzi": "跳舞",
+    "pinyin": "tiào wǔ",
+    "translation": "танцевать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是跳舞。",
+    "example_pinyin": "zhè shì tiào wǔ 。",
+    "example_ru": "Это: танцевать.",
+    "classifiers": []
+  },
+  {
+    "id": 252,
+    "hanzi": "外",
+    "pinyin": "wài",
+    "translation": "вне",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是外。",
+    "example_pinyin": "zhè shì wài 。",
+    "example_ru": "Это: вне.",
+    "classifiers": []
+  },
+  {
+    "id": 253,
+    "hanzi": "完",
+    "pinyin": "wán",
+    "translation": "заканчивать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是完。",
+    "example_pinyin": "zhè shì wán 。",
+    "example_ru": "Это: заканчивать.",
+    "classifiers": []
+  },
+  {
+    "id": 254,
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "translation": "играть",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是玩。",
+    "example_pinyin": "zhè shì wán 。",
+    "example_ru": "Это: играть.",
+    "classifiers": []
+  },
+  {
+    "id": 255,
+    "hanzi": "晚上",
+    "pinyin": "wǎn shang",
+    "translation": "вечер",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我有一个晚上。",
+    "example_pinyin": "wǒ yǒu yí gè wǎn shàng 。",
+    "example_ru": "У меня есть один/одна: вечер.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 256,
+    "hanzi": "为",
+    "pinyin": "wèi",
+    "translation": "для, из-за, в качестве",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是为。",
+    "example_pinyin": "zhè shì wèi 。",
+    "example_ru": "Это: для, из-за, в качестве.",
+    "classifiers": []
+  },
+  {
+    "id": 257,
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "translation": "спрашивать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是问。",
+    "example_pinyin": "zhè shì wèn 。",
+    "example_ru": "Это: спрашивать.",
+    "classifiers": []
+  },
+  {
+    "id": 258,
+    "hanzi": "问题",
+    "pinyin": "wèn tí",
+    "translation": "вопрос, проблема",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个问题。",
+    "example_pinyin": "wǒ yǒu yí gè wèn tí 。",
+    "example_ru": "У меня есть один/одна: вопрос, проблема.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 259,
+    "hanzi": "西瓜",
+    "pinyin": "xī guā",
+    "translation": "арбуз",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个西瓜。",
+    "example_pinyin": "wǒ yǒu yí gè xī guā 。",
+    "example_ru": "У меня есть один/одна: арбуз.",
+    "classifiers": [
+      "个 (ge)",
+      "块 (ku)",
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 260,
+    "hanzi": "希望",
+    "pinyin": "xī wàng",
+    "translation": "надежда",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个希望。",
+    "example_pinyin": "wǒ yǒu yí gè xī wàng 。",
+    "example_ru": "У меня есть один/одна: надежда.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 261,
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "translation": "мыть",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是洗。",
+    "example_pinyin": "zhè shì xǐ 。",
+    "example_ru": "Это: мыть.",
+    "classifiers": []
+  },
+  {
+    "id": 262,
+    "hanzi": "向",
+    "pinyin": "xiàng",
+    "translation": "направление, в направлении к",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是向。",
+    "example_pinyin": "zhè shì xiàng 。",
+    "example_ru": "Это: направление, в направлении к.",
+    "classifiers": []
+  },
+  {
+    "id": 263,
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "translation": "час",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个小时。",
+    "example_pinyin": "wǒ yǒu yí gè xiǎo shí 。",
+    "example_ru": "У меня есть один/одна: час.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 264,
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "translation": "улыбка",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个笑。",
+    "example_pinyin": "wǒ yǒu yí gè xiào 。",
+    "example_ru": "У меня есть один/одна: улыбка.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 265,
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "translation": "новый",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得新很重要。",
+    "example_pinyin": "wǒ jué de xīn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что новый очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 266,
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "translation": "фамилия",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我有一个姓。",
+    "example_pinyin": "wǒ yǒu yí gè xìng 。",
+    "example_ru": "У меня есть один/одна: фамилия.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 267,
+    "hanzi": "休息",
+    "pinyin": "xiū xi",
+    "translation": "отдых",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是休息。",
+    "example_pinyin": "zhè shì xiū xi 。",
+    "example_ru": "Это: отдых.",
+    "classifiers": []
+  },
+  {
+    "id": 268,
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "translation": "снег",
+    "hsk_level": 2,
+    "topic": "природа",
+    "example_zh": "我有一场雪。",
+    "example_pinyin": "wǒ yǒu yì chǎng xuě 。",
+    "example_ru": "У меня есть один/одна: снег.",
+    "classifiers": [
+      "场 (cháng)"
+    ]
+  },
+  {
+    "id": 269,
+    "hanzi": "颜色",
+    "pinyin": "yán sè",
+    "translation": "цвет",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个颜色。",
+    "example_pinyin": "wǒ yǒu yí gè yán sè 。",
+    "example_ru": "У меня есть один/одна: цвет.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 270,
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jing",
+    "translation": "глаз",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一只眼睛。",
+    "example_pinyin": "wǒ yǒu yì zhī yǎn jīng 。",
+    "example_ru": "У меня есть один/одна: глаз.",
+    "classifiers": [
+      "只 (zh)",
+      "双 (shu)"
+    ]
+  },
+  {
+    "id": 271,
+    "hanzi": "羊肉",
+    "pinyin": "yáng ròu",
+    "translation": "баранина",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是羊肉。",
+    "example_pinyin": "zhè shì yáng ròu 。",
+    "example_ru": "Это: баранина.",
+    "classifiers": []
+  },
+  {
+    "id": 272,
+    "hanzi": "药",
+    "pinyin": "yào",
+    "translation": "лекарство, препарат",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我有一种药。",
+    "example_pinyin": "wǒ yǒu yì zhǒng yào 。",
+    "example_ru": "У меня есть один/одна: лекарство, препарат.",
+    "classifiers": [
+      "种 (zh)"
+    ]
+  },
+  {
+    "id": 273,
+    "hanzi": "要",
+    "pinyin": "yào",
+    "translation": "нужно",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得要很重要。",
+    "example_pinyin": "wǒ jué de yào hěn zhòng yào 。",
+    "example_ru": "Я считаю, что нужно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 274,
+    "hanzi": "也",
+    "pinyin": "yě",
+    "translation": "тоже",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得也很重要。",
+    "example_pinyin": "wǒ jué de yě hěn zhòng yào 。",
+    "example_ru": "Я считаю, что тоже очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 275,
+    "hanzi": "已经",
+    "pinyin": "yǐ jīng",
+    "translation": "уже",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是已经。",
+    "example_pinyin": "zhè shì yǐ jīng 。",
+    "example_ru": "Это: уже.",
+    "classifiers": []
+  },
+  {
+    "id": 276,
+    "hanzi": "一起",
+    "pinyin": "yī qǐ",
+    "translation": "вместе",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是一起。",
+    "example_pinyin": "zhè shì yì qǐ 。",
+    "example_ru": "Это: вместе.",
+    "classifiers": []
+  },
+  {
+    "id": 277,
+    "hanzi": "意思",
+    "pinyin": "yì si",
+    "translation": "идея",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个意思。",
+    "example_pinyin": "wǒ yǒu yí gè yì sī 。",
+    "example_ru": "У меня есть один/одна: идея.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 278,
+    "hanzi": "阴",
+    "pinyin": "yīn",
+    "translation": "инь",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是阴。",
+    "example_pinyin": "zhè shì yīn 。",
+    "example_ru": "Это: инь.",
+    "classifiers": []
+  },
+  {
+    "id": 279,
+    "hanzi": "因为",
+    "pinyin": "yīn wèi",
+    "translation": "так как...",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "因为下雨了，所以我没去。",
+    "example_pinyin": "yīn wèi xià yǔ le ， suǒ yǐ wǒ méi qù 。",
+    "example_ru": "Потому что пошёл дождь, поэтому я не пошёл(а).",
+    "classifiers": []
+  },
+  {
+    "id": 280,
+    "hanzi": "游泳",
+    "pinyin": "yóu yǒng",
+    "translation": "плавать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是游泳。",
+    "example_pinyin": "zhè shì yóu yǒng 。",
+    "example_ru": "Это: плавать.",
+    "classifiers": []
+  },
+  {
+    "id": 281,
+    "hanzi": "右边",
+    "pinyin": "yòu bian",
+    "translation": "справа",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得右边很重要。",
+    "example_pinyin": "wǒ jué de yòu biān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что справа очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 282,
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "translation": "рыба",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一条鱼。",
+    "example_pinyin": "wǒ yǒu yì tiáo yú 。",
+    "example_ru": "У меня есть один/одна: рыба.",
+    "classifiers": [
+      "条 (ti)"
+    ]
+  },
+  {
+    "id": 283,
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "translation": "юань",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是元。",
+    "example_pinyin": "zhè shì yuán 。",
+    "example_ru": "Это: юань.",
+    "classifiers": []
+  },
+  {
+    "id": 284,
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "translation": "далекий",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是远。",
+    "example_pinyin": "zhè shì yuǎn 。",
+    "example_ru": "Это: далекий.",
+    "classifiers": []
+  },
+  {
+    "id": 285,
+    "hanzi": "运动",
+    "pinyin": "yùn dòng",
+    "translation": "спорт",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一场运动。",
+    "example_pinyin": "wǒ yǒu yì chǎng yùn dòng 。",
+    "example_ru": "У меня есть один/одна: спорт.",
+    "classifiers": [
+      "场 (chǎng)"
+    ]
+  },
+  {
+    "id": 286,
+    "hanzi": "再",
+    "pinyin": "zài",
+    "translation": "снова",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "请再说一遍。",
+    "example_pinyin": "qǐng zài shuō yí biàn 。",
+    "example_ru": "Пожалуйста, скажи ещё раз.",
+    "classifiers": []
+  },
+  {
+    "id": 287,
+    "hanzi": "早上",
+    "pinyin": "zǎo shang",
+    "translation": "утро",
+    "hsk_level": 2,
+    "topic": "время",
+    "example_zh": "我有一个早上。",
+    "example_pinyin": "wǒ yǒu yí gè zǎo shàng 。",
+    "example_ru": "У меня есть один/одна: утро.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 288,
+    "hanzi": "张",
+    "pinyin": "zhāng",
+    "translation": "расстилать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "请给我一张纸。",
+    "example_pinyin": "qǐng gěi wǒ yì zhāng zhǐ 。",
+    "example_ru": "Дай мне, пожалуйста, один лист бумаги. (张 — для плоских предметов)",
+    "classifiers": []
+  },
+  {
+    "id": 289,
+    "hanzi": "长",
+    "pinyin": "zhǎng",
+    "translation": "главный",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我喜欢这个长。",
+    "example_pinyin": "wǒ xǐ huan zhè ge cháng 。",
+    "example_ru": "Мне нравится этот/эта: главный.",
+    "classifiers": []
+  },
+  {
+    "id": 290,
+    "hanzi": "丈夫",
+    "pinyin": "zhàng fu",
+    "translation": "муж",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一个丈夫。",
+    "example_pinyin": "wǒ yǒu yí gè zhàng fu 。",
+    "example_ru": "У меня есть один/одна: муж.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 291,
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "translation": "искать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是找。",
+    "example_pinyin": "zhè shì zhǎo 。",
+    "example_ru": "Это: искать.",
+    "classifiers": []
+  },
+  {
+    "id": 292,
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "translation": "частица длительности/сопутствующего состояния",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得着很重要。",
+    "example_pinyin": "wǒ jué de zhe hěn zhòng yào 。",
+    "example_ru": "Я считаю, что частица длительности/сопутствующего состояния очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 293,
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "translation": "правда",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是真。",
+    "example_pinyin": "zhè shì zhēn 。",
+    "example_ru": "Это: правда.",
+    "classifiers": []
+  },
+  {
+    "id": 294,
+    "hanzi": "正在",
+    "pinyin": "zhèng zài",
+    "translation": "сейчас",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得正在很重要。",
+    "example_pinyin": "wǒ jué de zhèng zài hěn zhòng yào 。",
+    "example_ru": "Я считаю, что сейчас очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 295,
+    "hanzi": "知道",
+    "pinyin": "zhī dào",
+    "translation": "знать",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是知道。",
+    "example_pinyin": "zhè shì zhī dào 。",
+    "example_ru": "Это: знать.",
+    "classifiers": []
+  },
+  {
+    "id": 296,
+    "hanzi": "准备",
+    "pinyin": "zhǔn bèi",
+    "translation": "готовиться",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得准备很重要。",
+    "example_pinyin": "wǒ jué de zhǔn bèi hěn zhòng yào 。",
+    "example_ru": "Я считаю, что готовиться очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 297,
+    "hanzi": "自行车",
+    "pinyin": "zì xíng chē",
+    "translation": "велосипед",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我有一辆自行车。",
+    "example_pinyin": "wǒ yǒu yí liàng zì xíng chē 。",
+    "example_ru": "У меня есть один/одна: велосипед.",
+    "classifiers": [
+      "辆 (liàng)"
+    ]
+  },
+  {
+    "id": 298,
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "translation": "ходить",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "这是走。",
+    "example_pinyin": "zhè shì zǒu 。",
+    "example_ru": "Это: ходить.",
+    "classifiers": []
+  },
+  {
+    "id": 299,
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "translation": "самый",
+    "hsk_level": 2,
+    "topic": "бытовое",
+    "example_zh": "我最喜欢春天。",
+    "example_pinyin": "wǒ zuì xǐ huan chūn tiān 。",
+    "example_ru": "Больше всего мне нравится весна.",
+    "classifiers": []
+  },
+  {
+    "id": 300,
+    "hanzi": "左边",
+    "pinyin": "zuǒ bian",
+    "translation": "слева",
+    "hsk_level": 2,
+    "topic": "союзы",
+    "example_zh": "我觉得左边很重要。",
+    "example_pinyin": "wǒ jué de zuǒ biān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что слева очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 301,
+    "hanzi": "阿姨",
+    "pinyin": "ā yí",
+    "translation": "няня",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个阿姨。",
+    "example_pinyin": "wǒ yǒu yí gè ā yí 。",
+    "example_ru": "У меня есть один/одна: няня.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 302,
+    "hanzi": "啊",
+    "pinyin": "a",
+    "translation": "частица",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得啊很重要。",
+    "example_pinyin": "wǒ jué de a hěn zhòng yào 。",
+    "example_ru": "Я считаю, что частица очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 303,
+    "hanzi": "矮",
+    "pinyin": "ǎi",
+    "translation": "низкий, невысокий, короткий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是矮。",
+    "example_pinyin": "zhè shì ǎi 。",
+    "example_ru": "Это: низкий, невысокий, короткий.",
+    "classifiers": []
+  },
+  {
+    "id": 304,
+    "hanzi": "爱好",
+    "pinyin": "ài hào",
+    "translation": "хобби",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个爱好。",
+    "example_pinyin": "wǒ yǒu yí gè ài hào 。",
+    "example_ru": "У меня есть один/одна: хобби.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 305,
+    "hanzi": "安静",
+    "pinyin": "ān jìng",
+    "translation": "тихий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是安静。",
+    "example_pinyin": "zhè shì ān jìng 。",
+    "example_ru": "Это: тихий.",
+    "classifiers": []
+  },
+  {
+    "id": 306,
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "translation": "переводится чаще всего винительным падежом",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "请把门关上。",
+    "example_pinyin": "qǐng bǎ mén guān shàng 。",
+    "example_ru": "Пожалуйста, закрой дверь.",
+    "classifiers": []
+  },
+  {
+    "id": 307,
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "translation": "двигать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是搬。",
+    "example_pinyin": "zhè shì bān 。",
+    "example_ru": "Это: двигать.",
+    "classifiers": []
+  },
+  {
+    "id": 308,
+    "hanzi": "班",
+    "pinyin": "bān",
+    "translation": "группа, рабочая смена, команда",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "我有一个班。",
+    "example_pinyin": "wǒ yǒu yí gè bān 。",
+    "example_ru": "У меня есть один/одна: группа, рабочая смена, команда.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 309,
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "translation": "пол-",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是半。",
+    "example_pinyin": "zhè shì bàn 。",
+    "example_ru": "Это: пол-.",
+    "classifiers": []
+  },
+  {
+    "id": 310,
+    "hanzi": "办法",
+    "pinyin": "bàn fǎ",
+    "translation": "способ, метод, решение",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个办法。",
+    "example_pinyin": "wǒ yǒu yí gè bàn fǎ 。",
+    "example_ru": "У меня есть один/одна: способ, метод, решение.",
+    "classifiers": [
+      "个 (ge)",
+      "条"
+    ]
+  },
+  {
+    "id": 311,
+    "hanzi": "办公室",
+    "pinyin": "bàn gōng shì",
+    "translation": "офис, бюро",
+    "hsk_level": 3,
+    "topic": "работа",
+    "example_zh": "我有一间办公室。",
+    "example_pinyin": "wǒ yǒu yì jiān bàn gōng shì 。",
+    "example_ru": "У меня есть один/одна: офис, бюро.",
+    "classifiers": [
+      "间 (jiān)"
+    ]
+  },
+  {
+    "id": 312,
+    "hanzi": "帮忙",
+    "pinyin": "bāng máng",
+    "translation": "помогать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是帮忙。",
+    "example_pinyin": "zhè shì bāng máng 。",
+    "example_ru": "Это: помогать.",
+    "classifiers": []
+  },
+  {
+    "id": 313,
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "translation": "обертывать, заворачивать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个包。",
+    "example_pinyin": "wǒ yǒu yí gè bāo 。",
+    "example_ru": "У меня есть один/одна: обертывать, заворачивать.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 314,
+    "hanzi": "饱",
+    "pinyin": "bǎo",
+    "translation": "сытый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是饱。",
+    "example_pinyin": "zhè shì bǎo 。",
+    "example_ru": "Это: сытый.",
+    "classifiers": []
+  },
+  {
+    "id": 315,
+    "hanzi": "北方",
+    "pinyin": "běi fāng",
+    "translation": "север",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是北方。",
+    "example_pinyin": "zhè shì běi fāng 。",
+    "example_ru": "Это: север.",
+    "classifiers": []
+  },
+  {
+    "id": 316,
+    "hanzi": "被",
+    "pinyin": "bèi",
+    "translation": "пассивная частица «被»; также: одеяло",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我的手机被人偷了。",
+    "example_pinyin": "wǒ de shǒu jī bèi rén tōu le 。",
+    "example_ru": "Мой телефон украли.",
+    "classifiers": []
+  },
+  {
+    "id": 317,
+    "hanzi": "鼻子",
+    "pinyin": "bí zi",
+    "translation": "нос",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个鼻子。",
+    "example_pinyin": "wǒ yǒu yí gè bí zi 。",
+    "example_ru": "У меня есть один/одна: нос.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 318,
+    "hanzi": "比较",
+    "pinyin": "bǐ jiào",
+    "translation": "сравнивать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这个问题比较难。",
+    "example_pinyin": "zhè ge wèn tí bǐ jiào nán 。",
+    "example_ru": "Этот вопрос довольно сложный.",
+    "classifiers": []
+  },
+  {
+    "id": 319,
+    "hanzi": "比赛",
+    "pinyin": "bǐ sài",
+    "translation": "соревнование",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一场比赛。",
+    "example_pinyin": "wǒ yǒu yì chǎng bǐ sài 。",
+    "example_ru": "У меня есть один/одна: соревнование.",
+    "classifiers": [
+      "场 (ch)"
+    ]
+  },
+  {
+    "id": 320,
+    "hanzi": "必须",
+    "pinyin": "bì xū",
+    "translation": "должен",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是必须。",
+    "example_pinyin": "zhè shì bì xū 。",
+    "example_ru": "Это: должен.",
+    "classifiers": []
+  },
+  {
+    "id": 321,
+    "hanzi": "变化",
+    "pinyin": "biàn huà",
+    "translation": "перемена, менять",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个变化。",
+    "example_pinyin": "wǒ yǒu yí gè biàn huà 。",
+    "example_ru": "У меня есть один/одна: перемена, менять.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 322,
+    "hanzi": "表示",
+    "pinyin": "biǎo shì",
+    "translation": "выражать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是表示。",
+    "example_pinyin": "zhè shì biǎo shì 。",
+    "example_ru": "Это: выражать.",
+    "classifiers": []
+  },
+  {
+    "id": 323,
+    "hanzi": "表演",
+    "pinyin": "biǎo yǎn",
+    "translation": "выступать, играть, выступление, представление",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一场表演。",
+    "example_pinyin": "wǒ yǒu yì chǎng biǎo yǎn 。",
+    "example_ru": "У меня есть один/одна: выступать, играть, выступление, представление.",
+    "classifiers": [
+      "场 (chǎng)"
+    ]
+  },
+  {
+    "id": 324,
+    "hanzi": "别人",
+    "pinyin": "bié ren",
+    "translation": "другие",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "他是别人。",
+    "example_pinyin": "tā shì bié rén 。",
+    "example_ru": "Он: другие.",
+    "classifiers": []
+  },
+  {
+    "id": 325,
+    "hanzi": "宾馆",
+    "pinyin": "bīn guǎn",
+    "translation": "гостиница, постоялый двор",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一家宾馆。",
+    "example_pinyin": "wǒ yǒu yì jiā bīn guǎn 。",
+    "example_ru": "У меня есть один/одна: гостиница, постоялый двор.",
+    "classifiers": [
+      "家 (ji)",
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 326,
+    "hanzi": "冰箱",
+    "pinyin": "bīng xiāng",
+    "translation": "холодильник",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个冰箱。",
+    "example_pinyin": "wǒ yǒu yí gè bīng xiāng 。",
+    "example_ru": "У меня есть один/одна: холодильник.",
+    "classifiers": [
+      "个 (ge)",
+      "台"
+    ]
+  },
+  {
+    "id": 327,
+    "hanzi": "才",
+    "pinyin": "cái",
+    "translation": "то...",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得才很重要。",
+    "example_pinyin": "wǒ jué de cái hěn zhòng yào 。",
+    "example_ru": "Я считаю, что то... очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 328,
+    "hanzi": "菜单",
+    "pinyin": "cài dān",
+    "translation": "меню",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一张菜单。",
+    "example_pinyin": "wǒ yǒu yì zhāng cài dān 。",
+    "example_ru": "У меня есть один/одна: меню.",
+    "classifiers": [
+      "张 (zh)",
+      "份"
+    ]
+  },
+  {
+    "id": 329,
+    "hanzi": "参加",
+    "pinyin": "cān jiā",
+    "translation": "принимать участие",
+    "hsk_level": 3,
+    "topic": "время",
+    "example_zh": "我们参加见面吧。",
+    "example_pinyin": "wǒ men cān jiā jiàn miàn ba 。",
+    "example_ru": "Давай встретимся принимать участие.",
+    "classifiers": []
+  },
+  {
+    "id": 330,
+    "hanzi": "草",
+    "pinyin": "cǎo",
+    "translation": "трава",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一棵草。",
+    "example_pinyin": "wǒ yǒu yì kē cǎo 。",
+    "example_ru": "У меня есть один/одна: трава.",
+    "classifiers": [
+      "棵"
+    ]
+  },
+  {
+    "id": 331,
+    "hanzi": "层",
+    "pinyin": "céng",
+    "translation": "этаж, слой",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是层。",
+    "example_pinyin": "zhè shì céng 。",
+    "example_ru": "Это: этаж, слой.",
+    "classifiers": []
+  },
+  {
+    "id": 332,
+    "hanzi": "差",
+    "pinyin": "chà",
+    "translation": "плохой",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是差。",
+    "example_pinyin": "zhè shì chà 。",
+    "example_ru": "Это: плохой.",
+    "classifiers": []
+  },
+  {
+    "id": 333,
+    "hanzi": "超市",
+    "pinyin": "chāo shì",
+    "translation": "супермаркет",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一家超市。",
+    "example_pinyin": "wǒ yǒu yì jiā chāo shì 。",
+    "example_ru": "У меня есть один/одна: супермаркет.",
+    "classifiers": [
+      "家 (jiā)"
+    ]
+  },
+  {
+    "id": 334,
+    "hanzi": "衬衫",
+    "pinyin": "chèn shān",
+    "translation": "рубашка, блузка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一件衬衫。",
+    "example_pinyin": "wǒ yǒu yí jiàn chèn shān 。",
+    "example_ru": "У меня есть один/одна: рубашка, блузка.",
+    "classifiers": [
+      "件 (jiàn)"
+    ]
+  },
+  {
+    "id": 335,
+    "hanzi": "成绩",
+    "pinyin": "chéng jì",
+    "translation": "успехи",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一项成绩。",
+    "example_pinyin": "wǒ yǒu yí xiàng chéng jì 。",
+    "example_ru": "У меня есть один/одна: успехи.",
+    "classifiers": [
+      "项"
+    ]
+  },
+  {
+    "id": 336,
+    "hanzi": "城市",
+    "pinyin": "chéng shì",
+    "translation": "город",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个城市。",
+    "example_pinyin": "wǒ yǒu yí gè chéng shì 。",
+    "example_ru": "У меня есть один/одна: город.",
+    "classifiers": [
+      "个 (ge)",
+      "所 (su)",
+      "座 (zuò)"
+    ]
+  },
+  {
+    "id": 337,
+    "hanzi": "迟到",
+    "pinyin": "chí dào",
+    "translation": "опаздывать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是迟到。",
+    "example_pinyin": "zhè shì chí dào 。",
+    "example_ru": "Это: опаздывать.",
+    "classifiers": []
+  },
+  {
+    "id": 338,
+    "hanzi": "出现",
+    "pinyin": "chū xiàn",
+    "translation": "появляться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是出现。",
+    "example_pinyin": "zhè shì chū xiàn 。",
+    "example_ru": "Это: появляться.",
+    "classifiers": []
+  },
+  {
+    "id": 339,
+    "hanzi": "除了",
+    "pinyin": "chú le",
+    "translation": "кроме...",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是除了。",
+    "example_pinyin": "zhè shì chú le 。",
+    "example_ru": "Это: кроме....",
+    "classifiers": []
+  },
+  {
+    "id": 340,
+    "hanzi": "厨房",
+    "pinyin": "chú fáng",
+    "translation": "кухня",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一间厨房。",
+    "example_pinyin": "wǒ yǒu yì jiān chú fáng 。",
+    "example_ru": "У меня есть один/одна: кухня.",
+    "classifiers": [
+      "间 (jiān)"
+    ]
+  },
+  {
+    "id": 341,
+    "hanzi": "春",
+    "pinyin": "chūn",
+    "translation": "весна",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是春。",
+    "example_pinyin": "zhè shì chūn 。",
+    "example_ru": "Это: весна.",
+    "classifiers": []
+  },
+  {
+    "id": 342,
+    "hanzi": "词语",
+    "pinyin": "cí yǔ",
+    "translation": "слова",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是词语。",
+    "example_pinyin": "zhè shì cí yǔ 。",
+    "example_ru": "Это: слова.",
+    "classifiers": []
+  },
+  {
+    "id": 343,
+    "hanzi": "聪明",
+    "pinyin": "cōng ming",
+    "translation": "умный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是聪明。",
+    "example_pinyin": "zhè shì cōng ming 。",
+    "example_ru": "Это: умный.",
+    "classifiers": []
+  },
+  {
+    "id": 344,
+    "hanzi": "打扫",
+    "pinyin": "dǎ sǎo",
+    "translation": "убираться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是打扫。",
+    "example_pinyin": "zhè shì dǎ sǎo 。",
+    "example_ru": "Это: убираться.",
+    "classifiers": []
+  },
+  {
+    "id": 345,
+    "hanzi": "打算",
+    "pinyin": "dǎ suàn",
+    "translation": "план",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个打算。",
+    "example_pinyin": "wǒ yǒu yí gè dǎ suàn 。",
+    "example_ru": "У меня есть один/одна: план.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 346,
+    "hanzi": "带",
+    "pinyin": "dài",
+    "translation": "пояс",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一条带。",
+    "example_pinyin": "wǒ yǒu yì tiáo dài 。",
+    "example_ru": "У меня есть один/одна: пояс.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 347,
+    "hanzi": "担心",
+    "pinyin": "dān xīn",
+    "translation": "переживать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是担心。",
+    "example_pinyin": "zhè shì dān xīn 。",
+    "example_ru": "Это: переживать.",
+    "classifiers": []
+  },
+  {
+    "id": 348,
+    "hanzi": "蛋糕",
+    "pinyin": "dàn gāo",
+    "translation": "торт",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个蛋糕。",
+    "example_pinyin": "wǒ yǒu yí gè dàn gāo 。",
+    "example_ru": "У меня есть один/одна: торт.",
+    "classifiers": [
+      "个 (ge)",
+      "块 (ku)"
+    ]
+  },
+  {
+    "id": 349,
+    "hanzi": "当然",
+    "pinyin": "dāng rán",
+    "translation": "конечно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得当然很重要。",
+    "example_pinyin": "wǒ jué dé dàng rán hěn zhòng yào 。",
+    "example_ru": "Я считаю, что конечно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 350,
+    "hanzi": "地",
+    "pinyin": "de",
+    "translation": "служебное слово : -, «…-но»",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得地很重要。",
+    "example_pinyin": "wǒ jué de dì hěn zhòng yào 。",
+    "example_ru": "Я считаю, что служебное слово : -, «…-но» очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 351,
+    "hanzi": "灯",
+    "pinyin": "dēng",
+    "translation": "свет",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一盏灯。",
+    "example_pinyin": "wǒ yǒu yì zhǎn dēng 。",
+    "example_ru": "У меня есть один/одна: свет.",
+    "classifiers": [
+      "盏 (zhǎn)"
+    ]
+  },
+  {
+    "id": 352,
+    "hanzi": "低",
+    "pinyin": "dī",
+    "translation": "низко",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是低。",
+    "example_pinyin": "zhè shì dī 。",
+    "example_ru": "Это: низко.",
+    "classifiers": []
+  },
+  {
+    "id": 353,
+    "hanzi": "地方",
+    "pinyin": "dì fang",
+    "translation": "место",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一处地方。",
+    "example_pinyin": "wǒ yǒu yí chù dì fāng 。",
+    "example_ru": "У меня есть один/одна: место.",
+    "classifiers": [
+      "处"
+    ]
+  },
+  {
+    "id": 354,
+    "hanzi": "地铁",
+    "pinyin": "dì tiě",
+    "translation": "метро",
+    "hsk_level": 3,
+    "topic": "транспорт",
+    "example_zh": "我常常坐地铁去上班。",
+    "example_pinyin": "wǒ cháng cháng zuò dì tiě qù shàng bān 。",
+    "example_ru": "Я часто езжу на метро на работу.",
+    "classifiers": []
+  },
+  {
+    "id": 355,
+    "hanzi": "地图",
+    "pinyin": "dì tú",
+    "translation": "карта",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一张地图。",
+    "example_pinyin": "wǒ yǒu yì zhāng dì tú 。",
+    "example_ru": "У меня есть один/одна: карта.",
+    "classifiers": [
+      "张 (zh)"
+    ]
+  },
+  {
+    "id": 356,
+    "hanzi": "电梯",
+    "pinyin": "diàn tī",
+    "translation": "лифт, эскалатор",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一台电梯。",
+    "example_pinyin": "wǒ yǒu yì tái diàn tī 。",
+    "example_ru": "У меня есть один/одна: лифт, эскалатор.",
+    "classifiers": [
+      "台"
+    ]
+  },
+  {
+    "id": 357,
+    "hanzi": "电子",
+    "pinyin": "diàn zǐ",
+    "translation": "электронный; электро-",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是电子。",
+    "example_pinyin": "zhè shì diàn zǐ 。",
+    "example_ru": "Это: электронный; электро-.",
+    "classifiers": []
+  },
+  {
+    "id": 358,
+    "hanzi": "冬",
+    "pinyin": "dōng",
+    "translation": "зима",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是冬。",
+    "example_pinyin": "zhè shì dōng 。",
+    "example_ru": "Это: зима.",
+    "classifiers": []
+  },
+  {
+    "id": 359,
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "translation": "восток",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得东很重要。",
+    "example_pinyin": "wǒ jué de dōng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что восток очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 360,
+    "hanzi": "动物",
+    "pinyin": "dòng wù",
+    "translation": "животное",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一只动物。",
+    "example_pinyin": "wǒ yǒu yì zhī dòng wù 。",
+    "example_ru": "У меня есть один/одна: животное.",
+    "classifiers": [
+      "只 (zh)"
+    ]
+  },
+  {
+    "id": 361,
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "translation": "короткий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是短。",
+    "example_pinyin": "zhè shì duǎn 。",
+    "example_ru": "Это: короткий.",
+    "classifiers": []
+  },
+  {
+    "id": 362,
+    "hanzi": "段",
+    "pinyin": "duàn",
+    "translation": "параграф, отрезок, период времени, стадия",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是段。",
+    "example_pinyin": "zhè shì duàn 。",
+    "example_ru": "Это: параграф, отрезок, период времени, стадия.",
+    "classifiers": []
+  },
+  {
+    "id": 363,
+    "hanzi": "锻炼",
+    "pinyin": "duàn liàn",
+    "translation": "закаляться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是锻炼。",
+    "example_pinyin": "zhè shì duàn liàn 。",
+    "example_ru": "Это: закаляться.",
+    "classifiers": []
+  },
+  {
+    "id": 364,
+    "hanzi": "多么",
+    "pinyin": "duō me",
+    "translation": "настолько...",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得多么很重要。",
+    "example_pinyin": "wǒ jué de duō me hěn zhòng yào 。",
+    "example_ru": "Я считаю, что настолько... очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 365,
+    "hanzi": "饿",
+    "pinyin": "è",
+    "translation": "голодный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是饿。",
+    "example_pinyin": "zhè shì è 。",
+    "example_ru": "Это: голодный.",
+    "classifiers": []
+  },
+  {
+    "id": 366,
+    "hanzi": "而且",
+    "pinyin": "ér qiě",
+    "translation": "но и...",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得而且很重要。",
+    "example_pinyin": "wǒ jué de ér qiě hěn zhòng yào 。",
+    "example_ru": "Я считаю, что но и... очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 367,
+    "hanzi": "耳朵",
+    "pinyin": "ěr duo",
+    "translation": "уши",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一只耳朵。",
+    "example_pinyin": "wǒ yǒu yì zhī ěr duo 。",
+    "example_ru": "У меня есть один/одна: уши.",
+    "classifiers": [
+      "只"
+    ]
+  },
+  {
+    "id": 368,
+    "hanzi": "发烧",
+    "pinyin": "fā shāo",
+    "translation": "жар",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是发烧。",
+    "example_pinyin": "zhè shì fā shāo 。",
+    "example_ru": "Это: жар.",
+    "classifiers": []
+  },
+  {
+    "id": 369,
+    "hanzi": "发现",
+    "pinyin": "fā xiàn",
+    "translation": "обнаружить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是发现。",
+    "example_pinyin": "zhè shì fā xiàn 。",
+    "example_ru": "Это: обнаружить.",
+    "classifiers": []
+  },
+  {
+    "id": 370,
+    "hanzi": "方便",
+    "pinyin": "fāng biàn",
+    "translation": "удобный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是方便。",
+    "example_pinyin": "zhè shì fāng biàn 。",
+    "example_ru": "Это: удобный.",
+    "classifiers": []
+  },
+  {
+    "id": 371,
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "translation": "класть",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是放。",
+    "example_pinyin": "zhè shì fàng 。",
+    "example_ru": "Это: класть.",
+    "classifiers": []
+  },
+  {
+    "id": 372,
+    "hanzi": "放心",
+    "pinyin": "fàng xīn",
+    "translation": "успокаиваться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是放心。",
+    "example_pinyin": "zhè shì fàng xīn 。",
+    "example_ru": "Это: успокаиваться.",
+    "classifiers": []
+  },
+  {
+    "id": 373,
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "translation": "часть",
+    "hsk_level": 3,
+    "topic": "время",
+    "example_zh": "我们分见面吧。",
+    "example_pinyin": "wǒ men fēn jiàn miàn ba 。",
+    "example_ru": "Давай встретимся часть.",
+    "classifiers": []
+  },
+  {
+    "id": 374,
+    "hanzi": "附近",
+    "pinyin": "fù jìn",
+    "translation": "поблизости",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是附近。",
+    "example_pinyin": "zhè shì fù jìn 。",
+    "example_ru": "Это: поблизости.",
+    "classifiers": []
+  },
+  {
+    "id": 375,
+    "hanzi": "复习",
+    "pinyin": "fù xí",
+    "translation": "повторять",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得复习很重要。",
+    "example_pinyin": "wǒ jué de fù xí hěn zhòng yào 。",
+    "example_ru": "Я считаю, что повторять очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 376,
+    "hanzi": "干净",
+    "pinyin": "gān jìng",
+    "translation": "чистый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是干净。",
+    "example_pinyin": "zhè shì gān jìng 。",
+    "example_ru": "Это: чистый.",
+    "classifiers": []
+  },
+  {
+    "id": 377,
+    "hanzi": "敢",
+    "pinyin": "gǎn",
+    "translation": "мочь",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是敢。",
+    "example_pinyin": "zhè shì gǎn 。",
+    "example_ru": "Это: мочь.",
+    "classifiers": []
+  },
+  {
+    "id": 378,
+    "hanzi": "感冒",
+    "pinyin": "gǎn mào",
+    "translation": "простуда",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一场感冒。",
+    "example_pinyin": "wǒ yǒu yì chǎng gǎn mào 。",
+    "example_ru": "У меня есть один/одна: простуда.",
+    "classifiers": [
+      "场"
+    ]
+  },
+  {
+    "id": 379,
+    "hanzi": "刚才",
+    "pinyin": "gāng cái",
+    "translation": "только что",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得刚才很重要。",
+    "example_pinyin": "wǒ jué de gāng cái hěn zhòng yào 。",
+    "example_ru": "Я считаю, что только что очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 380,
+    "hanzi": "根据",
+    "pinyin": "gēn jù",
+    "translation": "согласно...",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个根据。",
+    "example_pinyin": "wǒ yǒu yí gè gēn jù 。",
+    "example_ru": "У меня есть один/одна: согласно....",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 381,
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "translation": "с",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是跟。",
+    "example_pinyin": "zhè shì gēn 。",
+    "example_ru": "Это: с.",
+    "classifiers": []
+  },
+  {
+    "id": 382,
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "translation": "более",
+    "hsk_level": 3,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要更。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào gèng 。",
+    "example_ru": "Мне нехорошо, мне нужно: более.",
+    "classifiers": []
+  },
+  {
+    "id": 383,
+    "hanzi": "公园",
+    "pinyin": "gōng yuán",
+    "translation": "парк",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一座公园。",
+    "example_pinyin": "wǒ yǒu yí zuò gōng yuán 。",
+    "example_ru": "У меня есть один/одна: парк.",
+    "classifiers": [
+      "座 (zu)",
+      "场 (chǎng)"
+    ]
+  },
+  {
+    "id": 384,
+    "hanzi": "故事",
+    "pinyin": "gù shi",
+    "translation": "история",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得故事很重要。",
+    "example_pinyin": "wǒ jué de gù shì hěn zhòng yào 。",
+    "example_ru": "Я считаю, что история очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 385,
+    "hanzi": "刮",
+    "pinyin": "guā",
+    "translation": "дуть ; скрести/брить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是刮。",
+    "example_pinyin": "zhè shì guā 。",
+    "example_ru": "Это: дуть ; скрести/брить.",
+    "classifiers": []
+  },
+  {
+    "id": 386,
+    "hanzi": "关",
+    "pinyin": "guān",
+    "translation": "закрывать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是关。",
+    "example_pinyin": "zhè shì guān 。",
+    "example_ru": "Это: закрывать.",
+    "classifiers": []
+  },
+  {
+    "id": 387,
+    "hanzi": "关系",
+    "pinyin": "guān xì",
+    "translation": "блат",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是关系。",
+    "example_pinyin": "zhè shì guān xì 。",
+    "example_ru": "Это: блат.",
+    "classifiers": []
+  },
+  {
+    "id": 388,
+    "hanzi": "关心",
+    "pinyin": "guān xīn",
+    "translation": "забота",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很关心。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn guān xīn 。",
+    "example_ru": "Услышав эту новость, я очень забота.",
+    "classifiers": []
+  },
+  {
+    "id": 389,
+    "hanzi": "关于",
+    "pinyin": "guān yú",
+    "translation": "о...",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是关于。",
+    "example_pinyin": "zhè shì guān yú 。",
+    "example_ru": "Это: о....",
+    "classifiers": []
+  },
+  {
+    "id": 390,
+    "hanzi": "国家",
+    "pinyin": "guó jiā",
+    "translation": "страна",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个国家。",
+    "example_pinyin": "wǒ yǒu yí gè guó jiā 。",
+    "example_ru": "У меня есть один/одна: страна.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 391,
+    "hanzi": "果汁",
+    "pinyin": "guǒ zhī",
+    "translation": "фруктовый сок",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得果汁很重要。",
+    "example_pinyin": "wǒ jué de guǒ zhī hěn zhòng yào 。",
+    "example_ru": "Я считаю, что фруктовый сок очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 392,
+    "hanzi": "过去",
+    "pinyin": "guò qu",
+    "translation": "прошлое",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是过去。",
+    "example_pinyin": "zhè shì guò qù 。",
+    "example_ru": "Это: прошлое.",
+    "classifiers": []
+  },
+  {
+    "id": 393,
+    "hanzi": "还是",
+    "pinyin": "hái shi",
+    "translation": "или",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "你想喝茶还是咖啡？",
+    "example_pinyin": "nǐ xiǎng hē chá hái shì kā fēi ？",
+    "example_ru": "Ты хочешь чай или кофе?",
+    "classifiers": []
+  },
+  {
+    "id": 394,
+    "hanzi": "害怕",
+    "pinyin": "hài pà",
+    "translation": "бояться",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很害怕。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn hài pà 。",
+    "example_ru": "Услышав эту новость, я очень бояться.",
+    "classifiers": []
+  },
+  {
+    "id": 395,
+    "hanzi": "河",
+    "pinyin": "hé",
+    "translation": "река",
+    "hsk_level": 3,
+    "topic": "природа",
+    "example_zh": "我有一条河。",
+    "example_pinyin": "wǒ yǒu yì tiáo hé 。",
+    "example_ru": "У меня есть один/одна: река.",
+    "classifiers": [
+      "条"
+    ]
+  },
+  {
+    "id": 396,
+    "hanzi": "黑板",
+    "pinyin": "hēi bǎn",
+    "translation": "доска",
+    "hsk_level": 3,
+    "topic": "образование",
+    "example_zh": "我有一块黑板。",
+    "example_pinyin": "wǒ yǒu yí kuài hēi bǎn 。",
+    "example_ru": "У меня есть один/одна: доска.",
+    "classifiers": [
+      "块 (ku)"
+    ]
+  },
+  {
+    "id": 397,
+    "hanzi": "护照",
+    "pinyin": "hù zhào",
+    "translation": "паспорт",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一本护照。",
+    "example_pinyin": "wǒ yǒu yì běn hù zhào 。",
+    "example_ru": "У меня есть один/одна: паспорт.",
+    "classifiers": [
+      "本"
+    ]
+  },
+  {
+    "id": 398,
+    "hanzi": "花",
+    "pinyin": "huā",
+    "translation": "цветок",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一朵花。",
+    "example_pinyin": "wǒ yǒu yì duǒ huā 。",
+    "example_ru": "У меня есть один/одна: цветок.",
+    "classifiers": [
+      "朵 (du)",
+      "束 (sh)"
+    ]
+  },
+  {
+    "id": 399,
+    "hanzi": "花园",
+    "pinyin": "huā yuán",
+    "translation": "сад",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一座花园。",
+    "example_pinyin": "wǒ yǒu yí zuò huā yuán 。",
+    "example_ru": "У меня есть один/одна: сад.",
+    "classifiers": [
+      "座"
+    ]
+  },
+  {
+    "id": 400,
+    "hanzi": "画",
+    "pinyin": "huà",
+    "translation": "рисовать, картина",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一幅画。",
+    "example_pinyin": "wǒ yǒu yì fú huà 。",
+    "example_ru": "У меня есть один/одна: рисовать, картина.",
+    "classifiers": [
+      "幅"
+    ]
+  },
+  {
+    "id": 401,
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "translation": "плохой",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是坏。",
+    "example_pinyin": "zhè shì huài 。",
+    "example_ru": "Это: плохой.",
+    "classifiers": []
+  },
+  {
+    "id": 402,
+    "hanzi": "环境",
+    "pinyin": "huán jìng",
+    "translation": "положение",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个环境。",
+    "example_pinyin": "wǒ yǒu yí gè huán jìng 。",
+    "example_ru": "У меня есть один/одна: положение.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 403,
+    "hanzi": "换",
+    "pinyin": "huàn",
+    "translation": "менять",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是换。",
+    "example_pinyin": "zhè shì huàn 。",
+    "example_ru": "Это: менять.",
+    "classifiers": []
+  },
+  {
+    "id": 404,
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "translation": "жёлтый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是黄。",
+    "example_pinyin": "zhè shì huáng 。",
+    "example_ru": "Это: жёлтый.",
+    "classifiers": []
+  },
+  {
+    "id": 405,
+    "hanzi": "会议",
+    "pinyin": "huì yì",
+    "translation": "конференция",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一场会议。",
+    "example_pinyin": "wǒ yǒu yì chǎng huì yì 。",
+    "example_ru": "У меня есть один/одна: конференция.",
+    "classifiers": [
+      "场"
+    ]
+  },
+  {
+    "id": 406,
+    "hanzi": "或者",
+    "pinyin": "huò zhě",
+    "translation": "или",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "你今天或者明天来都可以。",
+    "example_pinyin": "nǐ jīn tiān huò zhě míng tiān lái dōu kě yǐ 。",
+    "example_ru": "Ты можешь прийти сегодня или завтра.",
+    "classifiers": []
+  },
+  {
+    "id": 407,
+    "hanzi": "机会",
+    "pinyin": "jī huì",
+    "translation": "шанс",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个机会。",
+    "example_pinyin": "wǒ yǒu yí gè jī huì 。",
+    "example_ru": "У меня есть один/одна: шанс.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 408,
+    "hanzi": "几乎",
+    "pinyin": "jī hū",
+    "translation": "почти",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我去几乎。",
+    "example_pinyin": "wǒ qù jī hū 。",
+    "example_ru": "Я иду в/на: почти.",
+    "classifiers": []
+  },
+  {
+    "id": 409,
+    "hanzi": "极",
+    "pinyin": "jí",
+    "translation": "полюс",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是极。",
+    "example_pinyin": "zhè shì jí 。",
+    "example_ru": "Это: полюс.",
+    "classifiers": []
+  },
+  {
+    "id": 410,
+    "hanzi": "记得",
+    "pinyin": "jì de",
+    "translation": "помнить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是记得。",
+    "example_pinyin": "zhè shì jì de 。",
+    "example_ru": "Это: помнить.",
+    "classifiers": []
+  },
+  {
+    "id": 411,
+    "hanzi": "季节",
+    "pinyin": "jì jié",
+    "translation": "сезон",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个季节。",
+    "example_pinyin": "wǒ yǒu yí gè jì jié 。",
+    "example_ru": "У меня есть один/одна: сезон.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 412,
+    "hanzi": "检查",
+    "pinyin": "jiǎn chá",
+    "translation": "проверка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一次检查。",
+    "example_pinyin": "wǒ yǒu yí cì jiǎn chá 。",
+    "example_ru": "У меня есть один/одна: проверка.",
+    "classifiers": [
+      "次 (cì)"
+    ]
+  },
+  {
+    "id": 413,
+    "hanzi": "简单",
+    "pinyin": "jiǎn dān",
+    "translation": "простой",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得简单很重要。",
+    "example_pinyin": "wǒ jué de jiǎn dān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что простой очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 414,
+    "hanzi": "见面",
+    "pinyin": "jiàn miàn",
+    "translation": "встречаться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一次见面。",
+    "example_pinyin": "wǒ yǒu yí cì jiàn miàn 。",
+    "example_ru": "У меня есть один/одна: встречаться.",
+    "classifiers": [
+      "次 (cì)"
+    ]
+  },
+  {
+    "id": 415,
+    "hanzi": "健康",
+    "pinyin": "jiàn kāng",
+    "translation": "здоровый",
+    "hsk_level": 3,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要健康。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào jiàn kāng 。",
+    "example_ru": "Мне нехорошо, мне нужно: здоровый.",
+    "classifiers": []
+  },
+  {
+    "id": 416,
+    "hanzi": "讲",
+    "pinyin": "jiǎng",
+    "translation": "говорить",
+    "hsk_level": 3,
+    "topic": "действия",
+    "example_zh": "我想讲一下，你等我。",
+    "example_pinyin": "wǒ xiǎng jiǎng yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу говорить немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 417,
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "translation": "учить",
+    "hsk_level": 3,
+    "topic": "образование",
+    "example_zh": "我每天学习中文，也会复习教。",
+    "example_pinyin": "wǒ měi tiān xué xí zhōng wén ， yě huì fù xí jiào 。",
+    "example_ru": "Я каждый день учу китайский и повторяю учить.",
+    "classifiers": []
+  },
+  {
+    "id": 418,
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "translation": "нога",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一双脚。",
+    "example_pinyin": "wǒ yǒu yì shuāng jiǎo 。",
+    "example_ru": "У меня есть один/одна: нога.",
+    "classifiers": [
+      "双"
+    ]
+  },
+  {
+    "id": 419,
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "translation": "рог",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个角。",
+    "example_pinyin": "wǒ yǒu yí gè jiǎo 。",
+    "example_ru": "У меня есть один/одна: рог.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 420,
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "translation": "брать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是接。",
+    "example_pinyin": "zhè shì jiē 。",
+    "example_ru": "Это: брать.",
+    "classifiers": []
+  },
+  {
+    "id": 421,
+    "hanzi": "街道",
+    "pinyin": "jiē dào",
+    "translation": "улица",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一条街道。",
+    "example_pinyin": "wǒ yǒu yì tiáo jiē dào 。",
+    "example_ru": "У меня есть один/одна: улица.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 422,
+    "hanzi": "节目",
+    "pinyin": "jié mù",
+    "translation": "программа",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个节目。",
+    "example_pinyin": "wǒ yǒu yí gè jié mù 。",
+    "example_ru": "У меня есть один/одна: программа.",
+    "classifiers": [
+      "个 (ge)",
+      "台"
+    ]
+  },
+  {
+    "id": 423,
+    "hanzi": "节日",
+    "pinyin": "jié rì",
+    "translation": "праздник",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个节日。",
+    "example_pinyin": "wǒ yǒu yí gè jié rì 。",
+    "example_ru": "У меня есть один/одна: праздник.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 424,
+    "hanzi": "结婚",
+    "pinyin": "jié hūn",
+    "translation": "жениться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一次结婚。",
+    "example_pinyin": "wǒ yǒu yí cì jié hūn 。",
+    "example_ru": "У меня есть один/одна: жениться.",
+    "classifiers": [
+      "次 (cì)"
+    ]
+  },
+  {
+    "id": 425,
+    "hanzi": "结束",
+    "pinyin": "jié shù",
+    "translation": "завершать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是结束。",
+    "example_pinyin": "zhè shì jié shù 。",
+    "example_ru": "Это: завершать.",
+    "classifiers": []
+  },
+  {
+    "id": 426,
+    "hanzi": "解决",
+    "pinyin": "jiě jué",
+    "translation": "уладить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是解决。",
+    "example_pinyin": "zhè shì jiě jué 。",
+    "example_ru": "Это: уладить.",
+    "classifiers": []
+  },
+  {
+    "id": 427,
+    "hanzi": "借",
+    "pinyin": "jiè",
+    "translation": "одалживать, занимать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是借。",
+    "example_pinyin": "zhè shì jiè 。",
+    "example_ru": "Это: одалживать, занимать.",
+    "classifiers": []
+  },
+  {
+    "id": 428,
+    "hanzi": "经常",
+    "pinyin": "jīng cháng",
+    "translation": "часто",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得经常很重要。",
+    "example_pinyin": "wǒ jué de jīng cháng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что часто очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 429,
+    "hanzi": "经过",
+    "pinyin": "jīng guò",
+    "translation": "через",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个经过。",
+    "example_pinyin": "wǒ yǒu yí gè jīng guò 。",
+    "example_ru": "У меня есть один/одна: через.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 430,
+    "hanzi": "经理",
+    "pinyin": "jīng lǐ",
+    "translation": "менеджер, директор",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个经理。",
+    "example_pinyin": "wǒ yǒu yí gè jīng lǐ 。",
+    "example_ru": "У меня есть один/одна: менеджер, директор.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 431,
+    "hanzi": "久",
+    "pinyin": "jiǔ",
+    "translation": "долго",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是久。",
+    "example_pinyin": "zhè shì jiǔ 。",
+    "example_ru": "Это: долго.",
+    "classifiers": []
+  },
+  {
+    "id": 432,
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "translation": "старый, устаревший",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得旧很重要。",
+    "example_pinyin": "wǒ jué de jiù hěn zhòng yào 。",
+    "example_ru": "Я считаю, что старый, устаревший очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 433,
+    "hanzi": "举行",
+    "pinyin": "jǔ xíng",
+    "translation": "проводить, предпринимать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是举行。",
+    "example_pinyin": "zhè shì jǔ xíng 。",
+    "example_ru": "Это: проводить, предпринимать.",
+    "classifiers": []
+  },
+  {
+    "id": 434,
+    "hanzi": "句子",
+    "pinyin": "jù zi",
+    "translation": "предложение",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个句子。",
+    "example_pinyin": "wǒ yǒu yí gè jù zi 。",
+    "example_ru": "У меня есть один/одна: предложение.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 435,
+    "hanzi": "决定",
+    "pinyin": "jué dìng",
+    "translation": "решать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个决定。",
+    "example_pinyin": "wǒ yǒu yí gè jué dìng 。",
+    "example_ru": "У меня есть один/одна: решать.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 436,
+    "hanzi": "渴",
+    "pinyin": "kě",
+    "translation": "испытывать жажду",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是渴。",
+    "example_pinyin": "zhè shì kě 。",
+    "example_ru": "Это: испытывать жажду.",
+    "classifiers": []
+  },
+  {
+    "id": 437,
+    "hanzi": "可爱",
+    "pinyin": "kě ài",
+    "translation": "милый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是可爱。",
+    "example_pinyin": "zhè shì kě ài 。",
+    "example_ru": "Это: милый.",
+    "classifiers": []
+  },
+  {
+    "id": 438,
+    "hanzi": "刻",
+    "pinyin": "kè",
+    "translation": "момент",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是刻。",
+    "example_pinyin": "zhè shì kè 。",
+    "example_ru": "Это: момент.",
+    "classifiers": []
+  },
+  {
+    "id": 439,
+    "hanzi": "客人",
+    "pinyin": "kè rén",
+    "translation": "гость",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一位客人。",
+    "example_pinyin": "wǒ yǒu yí wèi kè rén 。",
+    "example_ru": "У меня есть один/одна: гость.",
+    "classifiers": [
+      "位 (wèi)"
+    ]
+  },
+  {
+    "id": 440,
+    "hanzi": "空调",
+    "pinyin": "kōng tiáo",
+    "translation": "кондиционер",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是空调。",
+    "example_pinyin": "zhè shì kōng tiáo 。",
+    "example_ru": "Это: кондиционер.",
+    "classifiers": []
+  },
+  {
+    "id": 441,
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "translation": "рот",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是口。",
+    "example_pinyin": "zhè shì kǒu 。",
+    "example_ru": "Это: рот.",
+    "classifiers": []
+  },
+  {
+    "id": 442,
+    "hanzi": "哭",
+    "pinyin": "kū",
+    "translation": "плакать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是哭。",
+    "example_pinyin": "zhè shì kū 。",
+    "example_ru": "Это: плакать.",
+    "classifiers": []
+  },
+  {
+    "id": 443,
+    "hanzi": "裤子",
+    "pinyin": "kù zi",
+    "translation": "штаны, брюки",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一条裤子。",
+    "example_pinyin": "wǒ yǒu yì tiáo kù zǐ 。",
+    "example_ru": "У меня есть один/одна: штаны, брюки.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 444,
+    "hanzi": "筷子",
+    "pinyin": "kuài zi",
+    "translation": "палочки",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一双筷子。",
+    "example_pinyin": "wǒ yǒu yì shuāng kuài zi 。",
+    "example_ru": "У меня есть один/одна: палочки.",
+    "classifiers": [
+      "双 (shu)",
+      "支 (zh)",
+      "对"
+    ]
+  },
+  {
+    "id": 445,
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "translation": "синий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是蓝。",
+    "example_pinyin": "zhè shì lán 。",
+    "example_ru": "Это: синий.",
+    "classifiers": []
+  },
+  {
+    "id": 446,
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "translation": "старший",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是老。",
+    "example_pinyin": "zhè shì lǎo 。",
+    "example_ru": "Это: старший.",
+    "classifiers": []
+  },
+  {
+    "id": 447,
+    "hanzi": "离开",
+    "pinyin": "lí kāi",
+    "translation": "уходить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是离开。",
+    "example_pinyin": "zhè shì lí kāi 。",
+    "example_ru": "Это: уходить.",
+    "classifiers": []
+  },
+  {
+    "id": 448,
+    "hanzi": "礼物",
+    "pinyin": "lǐ wù",
+    "translation": "подарок",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一件礼物。",
+    "example_pinyin": "wǒ yǒu yí jiàn lǐ wù 。",
+    "example_ru": "У меня есть один/одна: подарок.",
+    "classifiers": [
+      "件 (ji)",
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 449,
+    "hanzi": "历史",
+    "pinyin": "lì shǐ",
+    "translation": "история",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一段历史。",
+    "example_pinyin": "wǒ yǒu yí duàn lì shǐ 。",
+    "example_ru": "У меня есть один/одна: история.",
+    "classifiers": [
+      "段 (du)",
+      "门"
+    ]
+  },
+  {
+    "id": 450,
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "translation": "лицо",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一张脸。",
+    "example_pinyin": "wǒ yǒu yì zhāng liǎn 。",
+    "example_ru": "У меня есть один/одна: лицо.",
+    "classifiers": [
+      "张 (zh)"
+    ]
+  },
+  {
+    "id": 451,
+    "hanzi": "练习",
+    "pinyin": "liàn xí",
+    "translation": "упражняться, упражнение",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个练习。",
+    "example_pinyin": "wǒ yǒu yí gè liàn xí 。",
+    "example_ru": "У меня есть один/одна: упражняться, упражнение.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 452,
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "translation": "счётное слово для машин/транспорта",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "他有一辆车。",
+    "example_pinyin": "tā yǒu yí liàng chē 。",
+    "example_ru": "У него есть одна машина. (辆 — для транспорта)",
+    "classifiers": []
+  },
+  {
+    "id": 453,
+    "hanzi": "了解",
+    "pinyin": "liǎo jiě",
+    "translation": "понимать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是了解。",
+    "example_pinyin": "zhè shì liǎo jiě 。",
+    "example_ru": "Это: понимать.",
+    "classifiers": []
+  },
+  {
+    "id": 454,
+    "hanzi": "邻居",
+    "pinyin": "lín jū",
+    "translation": "сосед, соседний",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个邻居。",
+    "example_pinyin": "wǒ yǒu yí gè lín jū 。",
+    "example_ru": "У меня есть один/одна: сосед, соседний.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 455,
+    "hanzi": "楼",
+    "pinyin": "lóu",
+    "translation": "этаж",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一层楼。",
+    "example_pinyin": "wǒ yǒu yì céng lóu 。",
+    "example_ru": "У меня есть один/одна: этаж.",
+    "classifiers": [
+      "层"
+    ]
+  },
+  {
+    "id": 456,
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "translation": "зеленый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是绿。",
+    "example_pinyin": "zhè shì lǜ 。",
+    "example_ru": "Это: зеленый.",
+    "classifiers": []
+  },
+  {
+    "id": 457,
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "translation": "сокр. Малайзия",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一匹马。",
+    "example_pinyin": "wǒ yǒu yì pǐ mǎ 。",
+    "example_ru": "У меня есть один/одна: сокр. Малайзия.",
+    "classifiers": [
+      "匹"
+    ]
+  },
+  {
+    "id": 458,
+    "hanzi": "马上",
+    "pinyin": "mǎ shàng",
+    "translation": "сразу, сейчас же",
+    "hsk_level": 3,
+    "topic": "время",
+    "example_zh": "我们马上见面吧。",
+    "example_pinyin": "wǒ men mǎ shàng jiàn miàn ba 。",
+    "example_ru": "Давай встретимся сразу, сейчас же.",
+    "classifiers": []
+  },
+  {
+    "id": 459,
+    "hanzi": "满意",
+    "pinyin": "mǎn yì",
+    "translation": "удовлетворённый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是满意。",
+    "example_pinyin": "zhè shì mǎn yì 。",
+    "example_ru": "Это: удовлетворённый.",
+    "classifiers": []
+  },
+  {
+    "id": 460,
+    "hanzi": "帽子",
+    "pinyin": "mào zi",
+    "translation": "головной убор, шапка",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一顶帽子。",
+    "example_pinyin": "wǒ yǒu yì dǐng mào zi 。",
+    "example_ru": "У меня есть один/одна: головной убор, шапка.",
+    "classifiers": [
+      "顶 (dǐng)"
+    ]
+  },
+  {
+    "id": 461,
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "translation": "рис",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一粒米。",
+    "example_pinyin": "wǒ yǒu yí lì mǐ 。",
+    "example_ru": "У меня есть один/одна: рис.",
+    "classifiers": [
+      "粒 (lì)"
+    ]
+  },
+  {
+    "id": 462,
+    "hanzi": "面包",
+    "pinyin": "miàn bāo",
+    "translation": "хлеб",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个面包。",
+    "example_pinyin": "wǒ yǒu yí gè miàn bāo 。",
+    "example_ru": "У меня есть один/одна: хлеб.",
+    "classifiers": [
+      "个 (ge)",
+      "片"
+    ]
+  },
+  {
+    "id": 463,
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "translation": "лапша",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是面条。",
+    "example_pinyin": "zhè shì miàn tiáo 。",
+    "example_ru": "Это: лапша.",
+    "classifiers": []
+  },
+  {
+    "id": 464,
+    "hanzi": "明白",
+    "pinyin": "míng bai",
+    "translation": "ясно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得明白很重要。",
+    "example_pinyin": "wǒ jué de míng bái hěn zhòng yào 。",
+    "example_ru": "Я считаю, что ясно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 465,
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "translation": "брать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是拿。",
+    "example_pinyin": "zhè shì ná 。",
+    "example_ru": "Это: брать.",
+    "classifiers": []
+  },
+  {
+    "id": 466,
+    "hanzi": "奶奶",
+    "pinyin": "nǎi nai",
+    "translation": "бабушка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一位奶奶。",
+    "example_pinyin": "wǒ yǒu yí wèi nǎi nai 。",
+    "example_ru": "У меня есть один/одна: бабушка.",
+    "classifiers": [
+      "位 (wèi)"
+    ]
+  },
+  {
+    "id": 467,
+    "hanzi": "南",
+    "pinyin": "nán",
+    "translation": "юг",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是南。",
+    "example_pinyin": "zhè shì nán 。",
+    "example_ru": "Это: юг.",
+    "classifiers": []
+  },
+  {
+    "id": 468,
+    "hanzi": "难",
+    "pinyin": "nán",
+    "translation": "трудный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是难。",
+    "example_pinyin": "zhè shì nán 。",
+    "example_ru": "Это: трудный.",
+    "classifiers": []
+  },
+  {
+    "id": 469,
+    "hanzi": "难过",
+    "pinyin": "nán guò",
+    "translation": "грустить",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很难过。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn nán guò 。",
+    "example_ru": "Услышав эту новость, я очень грустить.",
+    "classifiers": []
+  },
+  {
+    "id": 470,
+    "hanzi": "年级",
+    "pinyin": "nián jí",
+    "translation": "курс",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个年级。",
+    "example_pinyin": "wǒ yǒu yí gè nián jí 。",
+    "example_ru": "У меня есть один/одна: курс.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 471,
+    "hanzi": "年轻",
+    "pinyin": "nián qīng",
+    "translation": "молодой",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是年轻。",
+    "example_pinyin": "zhè shì nián qīng 。",
+    "example_ru": "Это: молодой.",
+    "classifiers": []
+  },
+  {
+    "id": 472,
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "translation": "птица",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一只鸟。",
+    "example_pinyin": "wǒ yǒu yì zhī niǎo 。",
+    "example_ru": "У меня есть один/одна: птица.",
+    "classifiers": [
+      "只 (zh)"
+    ]
+  },
+  {
+    "id": 473,
+    "hanzi": "努力",
+    "pinyin": "nǔ lì",
+    "translation": "усердие",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很努力。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn nǔ lì 。",
+    "example_ru": "Услышав эту новость, я очень усердие.",
+    "classifiers": []
+  },
+  {
+    "id": 474,
+    "hanzi": "爬山",
+    "pinyin": "pá shān",
+    "translation": "ходить в горы",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是爬山。",
+    "example_pinyin": "zhè shì pá shān 。",
+    "example_ru": "Это: ходить в горы.",
+    "classifiers": []
+  },
+  {
+    "id": 475,
+    "hanzi": "盘子",
+    "pinyin": "pán zi",
+    "translation": "блюдо",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个盘子。",
+    "example_pinyin": "wǒ yǒu yí gè pán zi 。",
+    "example_ru": "У меня есть один/одна: блюдо.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 476,
+    "hanzi": "胖",
+    "pinyin": "pàng",
+    "translation": "жирный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是胖。",
+    "example_pinyin": "zhè shì pàng 。",
+    "example_ru": "Это: жирный.",
+    "classifiers": []
+  },
+  {
+    "id": 477,
+    "hanzi": "啤酒",
+    "pinyin": "pí jiǔ",
+    "translation": "пиво",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一杯啤酒。",
+    "example_pinyin": "wǒ yǒu yì bēi pí jiǔ 。",
+    "example_ru": "У меня есть один/одна: пиво.",
+    "classifiers": [
+      "杯"
+    ]
+  },
+  {
+    "id": 478,
+    "hanzi": "葡萄",
+    "pinyin": "pú tao",
+    "translation": "виноград",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得葡萄很重要。",
+    "example_pinyin": "wǒ jué de pú táo hěn zhòng yào 。",
+    "example_ru": "Я считаю, что виноград очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 479,
+    "hanzi": "普通话",
+    "pinyin": "pǔ tōng huà",
+    "translation": "путунхуа",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得普通话很重要。",
+    "example_pinyin": "wǒ jué de pǔ tōng huà hěn zhòng yào 。",
+    "example_ru": "Я считаю, что путунхуа очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 480,
+    "hanzi": "骑",
+    "pinyin": "qí",
+    "translation": "ездить верхом",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是骑。",
+    "example_pinyin": "zhè shì qí 。",
+    "example_ru": "Это: ездить верхом.",
+    "classifiers": []
+  },
+  {
+    "id": 481,
+    "hanzi": "其实",
+    "pinyin": "qí shí",
+    "translation": "на самом деле",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是其实。",
+    "example_pinyin": "zhè shì qí shí 。",
+    "example_ru": "Это: на самом деле.",
+    "classifiers": []
+  },
+  {
+    "id": 482,
+    "hanzi": "其他",
+    "pinyin": "qí tā",
+    "translation": "другие",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "他是其他。",
+    "example_pinyin": "tā shì qí tā 。",
+    "example_ru": "Он: другие.",
+    "classifiers": []
+  },
+  {
+    "id": 483,
+    "hanzi": "奇怪",
+    "pinyin": "qí guài",
+    "translation": "странный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是奇怪。",
+    "example_pinyin": "zhè shì qí guài 。",
+    "example_ru": "Это: странный.",
+    "classifiers": []
+  },
+  {
+    "id": 484,
+    "hanzi": "铅笔",
+    "pinyin": "qiān bǐ",
+    "translation": "карандаш",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一支铅笔。",
+    "example_pinyin": "wǒ yǒu yì zhī qiān bǐ 。",
+    "example_ru": "У меня есть один/одна: карандаш.",
+    "classifiers": [
+      "支 (zh)"
+    ]
+  },
+  {
+    "id": 485,
+    "hanzi": "清楚",
+    "pinyin": "qīng chu",
+    "translation": "ясный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是清楚。",
+    "example_pinyin": "zhè shì qīng chǔ 。",
+    "example_ru": "Это: ясный.",
+    "classifiers": []
+  },
+  {
+    "id": 486,
+    "hanzi": "秋",
+    "pinyin": "qiū",
+    "translation": "осень",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是秋。",
+    "example_pinyin": "zhè shì qiū 。",
+    "example_ru": "Это: осень.",
+    "classifiers": []
+  },
+  {
+    "id": 487,
+    "hanzi": "裙子",
+    "pinyin": "qún zi",
+    "translation": "юбка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一条裙子。",
+    "example_pinyin": "wǒ yǒu yì tiáo qún zǐ 。",
+    "example_ru": "У меня есть один/одна: юбка.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 488,
+    "hanzi": "然后",
+    "pinyin": "rán hòu",
+    "translation": "потом",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得然后很重要。",
+    "example_pinyin": "wǒ jué de rán hòu hěn zhòng yào 。",
+    "example_ru": "Я считаю, что потом очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 489,
+    "hanzi": "热情",
+    "pinyin": "rè qíng",
+    "translation": "сердечный",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很热情。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn rè qíng 。",
+    "example_ru": "Услышав эту новость, я очень сердечный.",
+    "classifiers": []
+  },
+  {
+    "id": 490,
+    "hanzi": "认为",
+    "pinyin": "rèn wéi",
+    "translation": "считать",
+    "hsk_level": 3,
+    "topic": "действия",
+    "example_zh": "我想认为一下，你等我。",
+    "example_pinyin": "wǒ xiǎng rèn wéi yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу считать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 491,
+    "hanzi": "认真",
+    "pinyin": "rèn zhēn",
+    "translation": "серьёзный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是认真。",
+    "example_pinyin": "zhè shì rèn zhēn 。",
+    "example_ru": "Это: серьёзный.",
+    "classifiers": []
+  },
+  {
+    "id": 492,
+    "hanzi": "容易",
+    "pinyin": "róng yì",
+    "translation": "легкий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是容易。",
+    "example_pinyin": "zhè shì róng yì 。",
+    "example_ru": "Это: легкий.",
+    "classifiers": []
+  },
+  {
+    "id": 493,
+    "hanzi": "如果",
+    "pinyin": "rú guǒ",
+    "translation": "если",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "如果明天下雨，我们就不去。",
+    "example_pinyin": "rú guǒ míng tiān xià yǔ ， wǒ men jiù bú qù 。",
+    "example_ru": "Если завтра будет дождь, мы не пойдём.",
+    "classifiers": []
+  },
+  {
+    "id": 494,
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "translation": "зонтик",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一把伞。",
+    "example_pinyin": "wǒ yǒu yì bǎ sǎn 。",
+    "example_ru": "У меня есть один/одна: зонтик.",
+    "classifiers": [
+      "把 (bǎ)"
+    ]
+  },
+  {
+    "id": 495,
+    "hanzi": "上网",
+    "pinyin": "shàng wǎng",
+    "translation": "сидеть в интернете",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是上网。",
+    "example_pinyin": "zhè shì shàng wǎng 。",
+    "example_ru": "Это: сидеть в интернете.",
+    "classifiers": []
+  },
+  {
+    "id": 496,
+    "hanzi": "生气",
+    "pinyin": "shēng qì",
+    "translation": "злиться",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很生气。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn shēng qì 。",
+    "example_ru": "Услышав эту новость, я очень злиться.",
+    "classifiers": []
+  },
+  {
+    "id": 497,
+    "hanzi": "声音",
+    "pinyin": "shēng yīn",
+    "translation": "голос, звук",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个声音。",
+    "example_pinyin": "wǒ yǒu yí gè shēng yīn 。",
+    "example_ru": "У меня есть один/одна: голос, звук.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 498,
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "translation": "чтобы",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得使很重要。",
+    "example_pinyin": "wǒ jué de shǐ hěn zhòng yào 。",
+    "example_ru": "Я считаю, что чтобы очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 499,
+    "hanzi": "世界",
+    "pinyin": "shì jiè",
+    "translation": "мир, свет",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个世界。",
+    "example_pinyin": "wǒ yǒu yí gè shì jiè 。",
+    "example_ru": "У меня есть один/одна: мир, свет.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 500,
+    "hanzi": "瘦",
+    "pinyin": "shòu",
+    "translation": "худой",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是瘦。",
+    "example_pinyin": "zhè shì shòu 。",
+    "example_ru": "Это: худой.",
+    "classifiers": []
+  },
+  {
+    "id": 501,
+    "hanzi": "舒服",
+    "pinyin": "shū fu",
+    "translation": "уютный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是舒服。",
+    "example_pinyin": "zhè shì shū fú 。",
+    "example_ru": "Это: уютный.",
+    "classifiers": []
+  },
+  {
+    "id": 502,
+    "hanzi": "叔叔",
+    "pinyin": "shū shu",
+    "translation": "дядя",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个叔叔。",
+    "example_pinyin": "wǒ yǒu yí gè shū shu 。",
+    "example_ru": "У меня есть один/одна: дядя.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 503,
+    "hanzi": "树",
+    "pinyin": "shù",
+    "translation": "дерево",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一棵树。",
+    "example_pinyin": "wǒ yǒu yì kē shù 。",
+    "example_ru": "У меня есть один/одна: дерево.",
+    "classifiers": [
+      "棵 (kē)"
+    ]
+  },
+  {
+    "id": 504,
+    "hanzi": "数学",
+    "pinyin": "shù xué",
+    "translation": "математика",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是数学。",
+    "example_pinyin": "zhè shì shù xué 。",
+    "example_ru": "Это: математика.",
+    "classifiers": []
+  },
+  {
+    "id": 505,
+    "hanzi": "刷",
+    "pinyin": "shuā",
+    "translation": "чистить щёткой;刷牙 чистить зубы",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是刷。",
+    "example_pinyin": "zhè shì shuā 。",
+    "example_ru": "Это: чистить щёткой;刷牙 чистить зубы.",
+    "classifiers": []
+  },
+  {
+    "id": 506,
+    "hanzi": "双",
+    "pinyin": "shuāng",
+    "translation": "пара",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是双。",
+    "example_pinyin": "zhè shì shuāng 。",
+    "example_ru": "Это: пара.",
+    "classifiers": []
+  },
+  {
+    "id": 507,
+    "hanzi": "水平",
+    "pinyin": "shuǐ píng",
+    "translation": "уровень",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是水平。",
+    "example_pinyin": "zhè shì shuǐ píng 。",
+    "example_ru": "Это: уровень.",
+    "classifiers": []
+  },
+  {
+    "id": 508,
+    "hanzi": "司机",
+    "pinyin": "sī jī",
+    "translation": "шофер",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个司机。",
+    "example_pinyin": "wǒ yǒu yí gè sī jī 。",
+    "example_ru": "У меня есть один/одна: шофер.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 509,
+    "hanzi": "虽然",
+    "pinyin": "suī rán",
+    "translation": "хотя",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "虽然很累，但是我还是要学习。",
+    "example_pinyin": "suī rán hěn lèi ， dàn shì wǒ hái shì yào xué xí 。",
+    "example_ru": "Хотя очень устал(а), я всё равно буду учиться.",
+    "classifiers": []
+  },
+  {
+    "id": 510,
+    "hanzi": "太阳",
+    "pinyin": "tài yáng",
+    "translation": "солнце",
+    "hsk_level": 3,
+    "topic": "природа",
+    "example_zh": "我有一个太阳。",
+    "example_pinyin": "wǒ yǒu yí gè tài yáng 。",
+    "example_ru": "У меня есть один/одна: солнце.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 511,
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "translation": "сахар",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一颗糖。",
+    "example_pinyin": "wǒ yǒu yì kē táng 。",
+    "example_ru": "У меня есть один/одна: сахар.",
+    "classifiers": [
+      "颗"
+    ]
+  },
+  {
+    "id": 512,
+    "hanzi": "特别",
+    "pinyin": "tè bié",
+    "translation": "особенно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得特别很重要。",
+    "example_pinyin": "wǒ jué de tè bié hěn zhòng yào 。",
+    "example_ru": "Я считаю, что особенно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 513,
+    "hanzi": "疼",
+    "pinyin": "téng",
+    "translation": "больно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得疼很重要。",
+    "example_pinyin": "wǒ jué de téng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что больно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 514,
+    "hanzi": "提高",
+    "pinyin": "tí gāo",
+    "translation": "повышать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是提高。",
+    "example_pinyin": "zhè shì tí gāo 。",
+    "example_ru": "Это: повышать.",
+    "classifiers": []
+  },
+  {
+    "id": 515,
+    "hanzi": "体育",
+    "pinyin": "tǐ yù",
+    "translation": "спорт",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是体育。",
+    "example_pinyin": "zhè shì tǐ yù 。",
+    "example_ru": "Это: спорт.",
+    "classifiers": []
+  },
+  {
+    "id": 516,
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "translation": "сладкий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是甜。",
+    "example_pinyin": "zhè shì tián 。",
+    "example_ru": "Это: сладкий.",
+    "classifiers": []
+  },
+  {
+    "id": 517,
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "translation": "линия, лоскут",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是条。",
+    "example_pinyin": "zhè shì tiáo 。",
+    "example_ru": "Это: линия, лоскут.",
+    "classifiers": []
+  },
+  {
+    "id": 518,
+    "hanzi": "同事",
+    "pinyin": "tóng shì",
+    "translation": "коллега",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个同事。",
+    "example_pinyin": "wǒ yǒu yí gè tóng shì 。",
+    "example_ru": "У меня есть один/одна: коллега.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 519,
+    "hanzi": "同意",
+    "pinyin": "tóng yì",
+    "translation": "соглашаться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是同意。",
+    "example_pinyin": "zhè shì tóng yì 。",
+    "example_ru": "Это: соглашаться.",
+    "classifiers": []
+  },
+  {
+    "id": 520,
+    "hanzi": "头发",
+    "pinyin": "tóu fa",
+    "translation": "волосы",
+    "hsk_level": 3,
+    "topic": "здоровье",
+    "example_zh": "我不舒服，需要头发。",
+    "example_pinyin": "wǒ bù shū fú ， xū yào tóu fa 。",
+    "example_ru": "Мне нехорошо, мне нужно: волосы.",
+    "classifiers": []
+  },
+  {
+    "id": 521,
+    "hanzi": "突然",
+    "pinyin": "tū rán",
+    "translation": "вдруг",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "他是突然。",
+    "example_pinyin": "tā shì tū rán 。",
+    "example_ru": "Он: вдруг.",
+    "classifiers": []
+  },
+  {
+    "id": 522,
+    "hanzi": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "translation": "библиотека",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一家图书馆。",
+    "example_pinyin": "wǒ yǒu yì jiā tú shū guǎn 。",
+    "example_ru": "У меня есть один/одна: библиотека.",
+    "classifiers": [
+      "家 (ji)"
+    ]
+  },
+  {
+    "id": 523,
+    "hanzi": "腿",
+    "pinyin": "tuǐ",
+    "translation": "нога",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一条腿。",
+    "example_pinyin": "wǒ yǒu yì tiáo tuǐ 。",
+    "example_ru": "У меня есть один/одна: нога.",
+    "classifiers": [
+      "条 (tiáo)"
+    ]
+  },
+  {
+    "id": 524,
+    "hanzi": "完成",
+    "pinyin": "wán chéng",
+    "translation": "завершать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是完成。",
+    "example_pinyin": "zhè shì wán chéng 。",
+    "example_ru": "Это: завершать.",
+    "classifiers": []
+  },
+  {
+    "id": 525,
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "translation": "плошка, пиала",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一只碗。",
+    "example_pinyin": "wǒ yǒu yì zhī wǎn 。",
+    "example_ru": "У меня есть один/одна: плошка, пиала.",
+    "classifiers": [
+      "只"
+    ]
+  },
+  {
+    "id": 526,
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "translation": "десять тысяц",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是万。",
+    "example_pinyin": "zhè shì wàn 。",
+    "example_ru": "Это: десять тысяц.",
+    "classifiers": []
+  },
+  {
+    "id": 527,
+    "hanzi": "忘记",
+    "pinyin": "wàng jì",
+    "translation": "забывать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是忘记。",
+    "example_pinyin": "zhè shì wàng jì 。",
+    "example_ru": "Это: забывать.",
+    "classifiers": []
+  },
+  {
+    "id": 528,
+    "hanzi": "为了",
+    "pinyin": "wèi le",
+    "translation": "для",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是为了。",
+    "example_pinyin": "zhè shì wèi le 。",
+    "example_ru": "Это: для.",
+    "classifiers": []
+  },
+  {
+    "id": 529,
+    "hanzi": "为什么",
+    "pinyin": "wèi shén me",
+    "translation": "почему? зачем?",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是为什么。",
+    "example_pinyin": "zhè shì wèi shén me 。",
+    "example_ru": "Это: почему? зачем?.",
+    "classifiers": []
+  },
+  {
+    "id": 530,
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "translation": "позиция, положение",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是位。",
+    "example_pinyin": "zhè shì wèi 。",
+    "example_ru": "Это: позиция, положение.",
+    "classifiers": []
+  },
+  {
+    "id": 531,
+    "hanzi": "文化",
+    "pinyin": "wén huà",
+    "translation": "культура",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一种文化。",
+    "example_pinyin": "wǒ yǒu yì zhǒng wén huà 。",
+    "example_ru": "У меня есть один/одна: культура.",
+    "classifiers": [
+      "种 (zh)",
+      "个"
+    ]
+  },
+  {
+    "id": 532,
+    "hanzi": "西",
+    "pinyin": "xī",
+    "translation": "запад",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是西。",
+    "example_pinyin": "zhè shì xī 。",
+    "example_ru": "Это: запад.",
+    "classifiers": []
+  },
+  {
+    "id": 533,
+    "hanzi": "习惯",
+    "pinyin": "xí guàn",
+    "translation": "привыкать, привычка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个习惯。",
+    "example_pinyin": "wǒ yǒu yí gè xí guàn 。",
+    "example_ru": "У меня есть один/одна: привыкать, привычка.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 534,
+    "hanzi": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "translation": "уборная, туалет",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很洗手间。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn xǐ shǒu jiān 。",
+    "example_ru": "Услышав эту новость, я очень уборная, туалет.",
+    "classifiers": []
+  },
+  {
+    "id": 535,
+    "hanzi": "洗澡",
+    "pinyin": "xǐ zǎo",
+    "translation": "мыться",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是洗澡。",
+    "example_pinyin": "zhè shì xǐ zǎo 。",
+    "example_ru": "Это: мыться.",
+    "classifiers": []
+  },
+  {
+    "id": 536,
+    "hanzi": "夏",
+    "pinyin": "xià",
+    "translation": "лето",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得夏很重要。",
+    "example_pinyin": "wǒ jué de xià hěn zhòng yào 。",
+    "example_ru": "Я считаю, что лето очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 537,
+    "hanzi": "先",
+    "pinyin": "xiān",
+    "translation": "сперва",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是先。",
+    "example_pinyin": "zhè shì xiān 。",
+    "example_ru": "Это: сперва.",
+    "classifiers": []
+  },
+  {
+    "id": 538,
+    "hanzi": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "translation": "банан",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一枝香蕉。",
+    "example_pinyin": "wǒ yǒu yì zhī xiāng jiāo 。",
+    "example_ru": "У меня есть один/одна: банан.",
+    "classifiers": [
+      "枝"
+    ]
+  },
+  {
+    "id": 539,
+    "hanzi": "相同",
+    "pinyin": "xiāng tóng",
+    "translation": "одинаковый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是相同。",
+    "example_pinyin": "zhè shì xiāng tóng 。",
+    "example_ru": "Это: одинаковый.",
+    "classifiers": []
+  },
+  {
+    "id": 540,
+    "hanzi": "相信",
+    "pinyin": "xiāng xìn",
+    "translation": "верить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是相信。",
+    "example_pinyin": "zhè shì xiāng xìn 。",
+    "example_ru": "Это: верить.",
+    "classifiers": []
+  },
+  {
+    "id": 541,
+    "hanzi": "像",
+    "pinyin": "xiàng",
+    "translation": "вид",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是像。",
+    "example_pinyin": "zhè shì xiàng 。",
+    "example_ru": "Это: вид.",
+    "classifiers": []
+  },
+  {
+    "id": 542,
+    "hanzi": "小心",
+    "pinyin": "xiǎo xīn",
+    "translation": "осторожно, быть осторожным",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得小心很重要。",
+    "example_pinyin": "wǒ jué de xiǎo xīn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что осторожно, быть осторожным очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 543,
+    "hanzi": "校长",
+    "pinyin": "xiào zhǎng",
+    "translation": "директор школы, учебного заведения",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一个校长。",
+    "example_pinyin": "wǒ yǒu yí gè xiào zhǎng 。",
+    "example_ru": "У меня есть один/одна: директор школы, учебного заведения.",
+    "classifiers": [
+      "个 (ge)"
+    ]
+  },
+  {
+    "id": 544,
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "translation": "обувь; ботинок/туфля",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一双鞋。",
+    "example_pinyin": "wǒ yǒu yì shuāng xié 。",
+    "example_ru": "У меня есть один/одна: обувь; ботинок/туфля.",
+    "classifiers": [
+      "双"
+    ]
+  },
+  {
+    "id": 545,
+    "hanzi": "新闻",
+    "pinyin": "xīn wén",
+    "translation": "новости",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一条新闻。",
+    "example_pinyin": "wǒ yǒu yì tiáo xīn wén 。",
+    "example_ru": "У меня есть один/одна: новости.",
+    "classifiers": [
+      "条 (ti)"
+    ]
+  },
+  {
+    "id": 546,
+    "hanzi": "新鲜",
+    "pinyin": "xīn xiān",
+    "translation": "свежий",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是新鲜。",
+    "example_pinyin": "zhè shì xīn xiān 。",
+    "example_ru": "Это: свежий.",
+    "classifiers": []
+  },
+  {
+    "id": 547,
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "translation": "письмо; верить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一封信。",
+    "example_pinyin": "wǒ yǒu yì fēng xìn 。",
+    "example_ru": "У меня есть один/одна: письмо; верить.",
+    "classifiers": [
+      "封 (fēng)"
+    ]
+  },
+  {
+    "id": 548,
+    "hanzi": "行李箱",
+    "pinyin": "xíng li xiāng",
+    "translation": "чемодан",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是行李箱。",
+    "example_pinyin": "zhè shì xíng li xiāng 。",
+    "example_ru": "Это: чемодан.",
+    "classifiers": []
+  },
+  {
+    "id": 549,
+    "hanzi": "兴趣",
+    "pinyin": "xìng qù",
+    "translation": "интерес к ч-л",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个兴趣。",
+    "example_pinyin": "wǒ yǒu yí gè xìng qù 。",
+    "example_ru": "У меня есть один/одна: интерес к ч-л.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 550,
+    "hanzi": "熊猫",
+    "pinyin": "xióng māo",
+    "translation": "панда",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一只熊猫。",
+    "example_pinyin": "wǒ yǒu yì zhī xióng māo 。",
+    "example_ru": "У меня есть один/одна: панда.",
+    "classifiers": [
+      "只 (zhī)"
+    ]
+  },
+  {
+    "id": 551,
+    "hanzi": "需要",
+    "pinyin": "xū yào",
+    "translation": "нужно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得需要很重要。",
+    "example_pinyin": "wǒ jué de xū yào hěn zhòng yào 。",
+    "example_ru": "Я считаю, что нужно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 552,
+    "hanzi": "选择",
+    "pinyin": "xuǎn zé",
+    "translation": "выбор",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很选择。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn xuǎn zé 。",
+    "example_ru": "Услышав эту новость, я очень выбор.",
+    "classifiers": []
+  },
+  {
+    "id": 553,
+    "hanzi": "眼镜",
+    "pinyin": "yǎn jìng",
+    "translation": "очки",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一副眼镜。",
+    "example_pinyin": "wǒ yǒu yí fù yǎn jìng 。",
+    "example_ru": "У меня есть один/одна: очки.",
+    "classifiers": [
+      "副 (fù)"
+    ]
+  },
+  {
+    "id": 554,
+    "hanzi": "要求",
+    "pinyin": "yāo qiú",
+    "translation": "просить",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一点要求。",
+    "example_pinyin": "wǒ yǒu yì diǎn yāo qiú 。",
+    "example_ru": "У меня есть один/одна: просить.",
+    "classifiers": [
+      "点 (diǎn)"
+    ]
+  },
+  {
+    "id": 555,
+    "hanzi": "爷爷",
+    "pinyin": "yé ye",
+    "translation": "дедушка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个爷爷。",
+    "example_pinyin": "wǒ yǒu yí gè yé ye 。",
+    "example_ru": "У меня есть один/одна: дедушка.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 556,
+    "hanzi": "一定",
+    "pinyin": "yī dìng",
+    "translation": "точно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得一定很重要。",
+    "example_pinyin": "wǒ jué de yí dìng hěn zhòng yào 。",
+    "example_ru": "Я считаю, что точно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 557,
+    "hanzi": "一共",
+    "pinyin": "yī gòng",
+    "translation": "всего",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是一共。",
+    "example_pinyin": "zhè shì yí gòng 。",
+    "example_ru": "Это: всего.",
+    "classifiers": []
+  },
+  {
+    "id": 558,
+    "hanzi": "一会儿",
+    "pinyin": "yī huì r",
+    "translation": "чуть-чуть, немного",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得一会儿很重要。",
+    "example_pinyin": "wǒ jué de yí huì er hěn zhòng yào 。",
+    "example_ru": "Я считаю, что чуть-чуть, немного очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 559,
+    "hanzi": "一样",
+    "pinyin": "yī yàng",
+    "translation": "одинаковый",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是一样。",
+    "example_pinyin": "zhè shì yí yàng 。",
+    "example_ru": "Это: одинаковый.",
+    "classifiers": []
+  },
+  {
+    "id": 560,
+    "hanzi": "以后",
+    "pinyin": "yǐ hòu",
+    "translation": "после; потом; в будущем",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是以后。",
+    "example_pinyin": "zhè shì yǐ hòu 。",
+    "example_ru": "Это: после; потом; в будущем.",
+    "classifiers": []
+  },
+  {
+    "id": 561,
+    "hanzi": "以前",
+    "pinyin": "yǐ qián",
+    "translation": "до",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是以前。",
+    "example_pinyin": "zhè shì yǐ qián 。",
+    "example_ru": "Это: до.",
+    "classifiers": []
+  },
+  {
+    "id": 562,
+    "hanzi": "以为",
+    "pinyin": "yǐ wéi",
+    "translation": "считать",
+    "hsk_level": 3,
+    "topic": "действия",
+    "example_zh": "我想以为一下，你等我。",
+    "example_pinyin": "wǒ xiǎng yǐ wéi yí xià ， nǐ děng wǒ 。",
+    "example_ru": "Я хочу считать немного, подожди меня.",
+    "classifiers": []
+  },
+  {
+    "id": 563,
+    "hanzi": "一般",
+    "pinyin": "yī bān",
+    "translation": "обычно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得一般很重要。",
+    "example_pinyin": "wǒ jué de yì bān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что обычно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 564,
+    "hanzi": "一边",
+    "pinyin": "yī biān",
+    "translation": "с одной стороны",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得一边很重要。",
+    "example_pinyin": "wǒ jué de yì biān hěn zhòng yào 。",
+    "example_ru": "Я считаю, что с одной стороны очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 565,
+    "hanzi": "一直",
+    "pinyin": "yī zhí",
+    "translation": "прямо",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是一直。",
+    "example_pinyin": "zhè shì yì zhí 。",
+    "example_ru": "Это: прямо.",
+    "classifiers": []
+  },
+  {
+    "id": 566,
+    "hanzi": "音乐",
+    "pinyin": "yīn yuè",
+    "translation": "музыка",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一张音乐。",
+    "example_pinyin": "wǒ yǒu yì zhāng yīn yuè 。",
+    "example_ru": "У меня есть один/одна: музыка.",
+    "classifiers": [
+      "张"
+    ]
+  },
+  {
+    "id": 567,
+    "hanzi": "银行",
+    "pinyin": "yín háng",
+    "translation": "банк",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一家银行。",
+    "example_pinyin": "wǒ yǒu yì jiā yín háng 。",
+    "example_ru": "У меня есть один/одна: банк.",
+    "classifiers": [
+      "家 (ji)"
+    ]
+  },
+  {
+    "id": 568,
+    "hanzi": "应该",
+    "pinyin": "yīng gāi",
+    "translation": "должен",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是应该。",
+    "example_pinyin": "zhè shì yīng gāi 。",
+    "example_ru": "Это: должен.",
+    "classifiers": []
+  },
+  {
+    "id": 569,
+    "hanzi": "影响",
+    "pinyin": "yǐng xiǎng",
+    "translation": "влиять",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一股影响。",
+    "example_pinyin": "wǒ yǒu yì gǔ yǐng xiǎng 。",
+    "example_ru": "У меня есть один/одна: влиять.",
+    "classifiers": [
+      "股 (gǔ)"
+    ]
+  },
+  {
+    "id": 570,
+    "hanzi": "用",
+    "pinyin": "yòng",
+    "translation": "применять",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是用。",
+    "example_pinyin": "zhè shì yòng 。",
+    "example_ru": "Это: применять.",
+    "classifiers": []
+  },
+  {
+    "id": 571,
+    "hanzi": "游戏",
+    "pinyin": "yóu xì",
+    "translation": "игра, забава",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一场游戏。",
+    "example_pinyin": "wǒ yǒu yì chǎng yóu xì 。",
+    "example_ru": "У меня есть один/одна: игра, забава.",
+    "classifiers": [
+      "场 (chǎng)"
+    ]
+  },
+  {
+    "id": 572,
+    "hanzi": "有名",
+    "pinyin": "yǒu míng",
+    "translation": "известный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是有名。",
+    "example_pinyin": "zhè shì yǒu míng 。",
+    "example_ru": "Это: известный.",
+    "classifiers": []
+  },
+  {
+    "id": 573,
+    "hanzi": "又",
+    "pinyin": "yòu",
+    "translation": "снова",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "他又迟到了。",
+    "example_pinyin": "tā yòu chí dào le 。",
+    "example_ru": "Он снова опоздал.",
+    "classifiers": []
+  },
+  {
+    "id": 574,
+    "hanzi": "遇到",
+    "pinyin": "yù dào",
+    "translation": "столкнуться с...",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得遇到很重要。",
+    "example_pinyin": "wǒ jué de yù dào hěn zhòng yào 。",
+    "example_ru": "Я считаю, что столкнуться с... очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 575,
+    "hanzi": "愿意",
+    "pinyin": "yuàn yì",
+    "translation": "желать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是愿意。",
+    "example_pinyin": "zhè shì yuàn yì 。",
+    "example_ru": "Это: желать.",
+    "classifiers": []
+  },
+  {
+    "id": 576,
+    "hanzi": "越",
+    "pinyin": "yuè",
+    "translation": "перейти через",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是越。",
+    "example_pinyin": "zhè shì yuè 。",
+    "example_ru": "Это: перейти через.",
+    "classifiers": []
+  },
+  {
+    "id": 577,
+    "hanzi": "月亮",
+    "pinyin": "yuè liang",
+    "translation": "луна",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是月亮。",
+    "example_pinyin": "zhè shì yuè liàng 。",
+    "example_ru": "Это: луна.",
+    "classifiers": []
+  },
+  {
+    "id": 578,
+    "hanzi": "云",
+    "pinyin": "yún",
+    "translation": "облако",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一朵云。",
+    "example_pinyin": "wǒ yǒu yì duǒ yún 。",
+    "example_ru": "У меня есть один/одна: облако.",
+    "classifiers": [
+      "朵 (duǒ)"
+    ]
+  },
+  {
+    "id": 579,
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "translation": "стоять",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得站很重要。",
+    "example_pinyin": "wǒ jué de zhàn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что стоять очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 580,
+    "hanzi": "着急",
+    "pinyin": "zháo jí",
+    "translation": "торопиться",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得着急很重要。",
+    "example_pinyin": "wǒ jué de zháo jí hěn zhòng yào 。",
+    "example_ru": "Я считаю, что торопиться очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 581,
+    "hanzi": "照顾",
+    "pinyin": "zhào gu",
+    "translation": "заботиться",
+    "hsk_level": 3,
+    "topic": "эмоции",
+    "example_zh": "听到这个消息，我很照顾。",
+    "example_pinyin": "tīng dào zhè ge xiāo xī ， wǒ hěn zhào gù 。",
+    "example_ru": "Услышав эту новость, я очень заботиться.",
+    "classifiers": []
+  },
+  {
+    "id": 582,
+    "hanzi": "照片",
+    "pinyin": "zhào piàn",
+    "translation": "фотография",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我有一张照片。",
+    "example_pinyin": "wǒ yǒu yì zhāng zhào piàn 。",
+    "example_ru": "У меня есть один/одна: фотография.",
+    "classifiers": [
+      "张 (zh)"
+    ]
+  },
+  {
+    "id": 583,
+    "hanzi": "照相机",
+    "pinyin": "zhào xiàng jī",
+    "translation": "фотоаппарат",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个照相机。",
+    "example_pinyin": "wǒ yǒu yí gè zhào xiàng jī 。",
+    "example_ru": "У меня есть один/одна: фотоаппарат.",
+    "classifiers": [
+      "个"
+    ]
+  },
+  {
+    "id": 584,
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "translation": "только; всего лишь",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得只很重要。",
+    "example_pinyin": "wǒ jué de zhī hěn zhòng yào 。",
+    "example_ru": "Я считаю, что только; всего лишь очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 585,
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "translation": "только; всего лишь",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我不太明白只。",
+    "example_pinyin": "wǒ bú tài míng bái zhī 。",
+    "example_ru": "Я не очень понимаю: только; всего лишь.",
+    "classifiers": []
+  },
+  {
+    "id": 586,
+    "hanzi": "终于",
+    "pinyin": "zhōng yú",
+    "translation": "наконец",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是终于。",
+    "example_pinyin": "zhè shì zhōng yú 。",
+    "example_ru": "Это: наконец.",
+    "classifiers": []
+  },
+  {
+    "id": 587,
+    "hanzi": "中间",
+    "pinyin": "zhōng jiān",
+    "translation": "среди",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是中间。",
+    "example_pinyin": "zhè shì zhōng jiān 。",
+    "example_ru": "Это: среди.",
+    "classifiers": []
+  },
+  {
+    "id": 588,
+    "hanzi": "种",
+    "pinyin": "zhǒng",
+    "translation": "тип",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是种。",
+    "example_pinyin": "zhè shì zhǒng 。",
+    "example_ru": "Это: тип.",
+    "classifiers": []
+  },
+  {
+    "id": 589,
+    "hanzi": "重要",
+    "pinyin": "zhòng yào",
+    "translation": "важный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是重要。",
+    "example_pinyin": "zhè shì zhòng yào 。",
+    "example_ru": "Это: важный.",
+    "classifiers": []
+  },
+  {
+    "id": 590,
+    "hanzi": "周末",
+    "pinyin": "zhōu mò",
+    "translation": "выходные",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是周末。",
+    "example_pinyin": "zhè shì zhōu mò 。",
+    "example_ru": "Это: выходные.",
+    "classifiers": []
+  },
+  {
+    "id": 591,
+    "hanzi": "主要",
+    "pinyin": "zhǔ yào",
+    "translation": "главный",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是主要。",
+    "example_pinyin": "zhè shì zhǔ yào 。",
+    "example_ru": "Это: главный.",
+    "classifiers": []
+  },
+  {
+    "id": 592,
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "translation": "поздравлять; желать",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是祝。",
+    "example_pinyin": "zhè shì zhù 。",
+    "example_ru": "Это: поздравлять; желать.",
+    "classifiers": []
+  },
+  {
+    "id": 593,
+    "hanzi": "注意",
+    "pinyin": "zhù yì",
+    "translation": "принимать во внимание",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是注意。",
+    "example_pinyin": "zhè shì zhù yì 。",
+    "example_ru": "Это: принимать во внимание.",
+    "classifiers": []
+  },
+  {
+    "id": 594,
+    "hanzi": "字典",
+    "pinyin": "zì diǎn",
+    "translation": "словарь",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一本字典。",
+    "example_pinyin": "wǒ yǒu yì běn zì diǎn 。",
+    "example_ru": "У меня есть один/одна: словарь.",
+    "classifiers": [
+      "本 (běn)"
+    ]
+  },
+  {
+    "id": 595,
+    "hanzi": "自己",
+    "pinyin": "zì jǐ",
+    "translation": "сам",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是自己。",
+    "example_pinyin": "zhè shì zì jǐ 。",
+    "example_ru": "Это: сам.",
+    "classifiers": []
+  },
+  {
+    "id": 596,
+    "hanzi": "总是",
+    "pinyin": "zǒng shì",
+    "translation": "всегда",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是总是。",
+    "example_pinyin": "zhè shì zǒng shì 。",
+    "example_ru": "Это: всегда.",
+    "classifiers": []
+  },
+  {
+    "id": 597,
+    "hanzi": "最近",
+    "pinyin": "zuì jìn",
+    "translation": "недавно",
+    "hsk_level": 3,
+    "topic": "союзы",
+    "example_zh": "我觉得最近很重要。",
+    "example_pinyin": "wǒ jué de zuì jìn hěn zhòng yào 。",
+    "example_ru": "Я считаю, что недавно очень важно.",
+    "classifiers": []
+  },
+  {
+    "id": 598,
+    "hanzi": "作业",
+    "pinyin": "zuò yè",
+    "translation": "работа",
+    "hsk_level": 3,
+    "topic": "работа",
+    "example_zh": "我有一个作业。",
+    "example_pinyin": "wǒ yǒu yí gè zuò yè 。",
+    "example_ru": "У меня есть один/одна: работа.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 599,
+    "hanzi": "作用",
+    "pinyin": "zuò yòng",
+    "translation": "роль",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "我有一个作用。",
+    "example_pinyin": "wǒ yǒu yí gè zuò yòng 。",
+    "example_ru": "У меня есть один/одна: роль.",
+    "classifiers": [
+      "个 (gè)"
+    ]
+  },
+  {
+    "id": 600,
+    "hanzi": "例如",
+    "pinyin": "lì rú",
+    "translation": "например",
+    "hsk_level": 3,
+    "topic": "бытовое",
+    "example_zh": "这是例如。",
+    "example_pinyin": "zhè shì lì rú 。",
+    "example_ru": "Это: например.",
+    "classifiers": []
+  }
+]

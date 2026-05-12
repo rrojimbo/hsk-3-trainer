@@ -1,0 +1,195 @@
+.grid {
+  display: grid;
+  gap: 12px;
+}
+
+.hero {
+  padding: 14px;
+}
+
+.heroTop {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.hTitle {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.days {
+  margin-top: 2px;
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.daysNum {
+  font-size: 42px;
+  line-height: 1;
+  font-weight: 850;
+  letter-spacing: -0.7px;
+}
+
+.daysUnit {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.streak {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  min-width: 220px;
+}
+
+.streakNum {
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 1.1;
+}
+
+.streakLabel {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.streakMeta {
+  margin-top: 6px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.examRow {
+  margin-top: 12px;
+  display: flex;
+  gap: 12px;
+  align-items: end;
+  flex-wrap: wrap;
+}
+
+.label {
+  display: grid;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.input {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+}
+
+.panel {
+  padding: 14px;
+}
+
+.panelTitle {
+  font-weight: 800;
+  letter-spacing: -0.2px;
+  margin-bottom: 8px;
+}
+
+.rings {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 4px 0 8px;
+}
+
+.hint {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.quickStart {
+  display: grid;
+  gap: 10px;
+}
+
+.quickTitle {
+  font-weight: 800;
+  letter-spacing: -0.2px;
+}
+
+.challenge {
+  padding: 14px;
+  display: grid;
+  gap: 8px;
+}
+
+.challengeTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.challengeText {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.challengeActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.quickAction {
+  text-decoration: none;
+  border-radius: 12px;
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 800;
+  color: #fff;
+  background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 70%, #9f8aff));
+}
+
+.quickGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 860px) {
+  .quickGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .quickGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.quickCard {
+  padding: 14px;
+  text-decoration: none;
+  display: grid;
+  gap: 6px;
+  transition: transform 0.06s ease;
+}
+
+.quickCard:hover {
+  transform: translateY(-1px);
+}
+
+.quickCardTitle {
+  font-weight: 850;
+}
+
+.quickCardDesc {
+  font-size: 13px;
+  color: var(--muted);
+}
+

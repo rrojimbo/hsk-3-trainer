@@ -1,0 +1,270 @@
+.wrap {
+  display: grid;
+  gap: 12px;
+}
+
+.top {
+  display: grid;
+  gap: 10px;
+}
+
+.titleRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.3px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.controls {
+  padding: 12px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 900px) {
+  .row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.label {
+  display: grid;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.select {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+}
+
+.hintBox {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+}
+
+.hintTitle {
+  font-weight: 850;
+  font-size: 13px;
+}
+
+.hintText {
+  margin-top: 6px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.card {
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.cardTop {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.badge {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 90%, var(--primary-weak));
+}
+
+.block {
+  display: grid;
+  gap: 10px;
+}
+
+.promptTitle {
+  font-weight: 900;
+  letter-spacing: -0.2px;
+}
+
+.translation {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.builder {
+  min-height: 46px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 10px;
+  background: var(--card);
+}
+
+.builderHint {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.hints {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.chip,
+.chipPicked {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 10px;
+  background: var(--card);
+  cursor: pointer;
+}
+
+.chipPicked {
+  background: color-mix(in oklab, var(--primary-weak) 70%, var(--card));
+  border-color: color-mix(in oklab, var(--primary) 35%, var(--border));
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.feedbackOk,
+.feedbackBad {
+  border-radius: 16px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  font-size: 14px;
+  display: grid;
+  gap: 6px;
+}
+
+.feedbackOk {
+  border-color: color-mix(in oklab, var(--good) 55%, var(--border));
+  background: color-mix(in oklab, var(--good) 10%, var(--card));
+}
+
+.feedbackBad {
+  border-color: color-mix(in oklab, var(--bad) 55%, var(--border));
+  background: color-mix(in oklab, var(--bad) 10%, var(--card));
+}
+
+.feedbackMeta {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.sentencePinyin {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.sub {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.inputRow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+}
+
+.charInput {
+  height: 44px;
+  padding: 0 12px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+  font-size: 18px;
+}
+
+.hintPanel {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  display: grid;
+  gap: 8px;
+}
+
+.hintTitle2 {
+  font-weight: 850;
+}
+
+.hintChar {
+  font-size: 48px;
+  line-height: 1;
+  font-weight: 900;
+}
+
+.hintText2 {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.answerPanel {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  background: color-mix(in oklab, var(--card) 92%, var(--primary-weak));
+  font-size: 14px;
+}
+
+.answerBig {
+  font-size: 22px;
+}
+
+.nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.empty {
+  color: var(--muted);
+  font-size: 13px;
+}
+

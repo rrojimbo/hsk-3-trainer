@@ -1,0 +1,99 @@
+:root {
+  /* ── Фон и текст ── */
+  --bg:      #f5f7ff;
+  --fg:      #17192b;
+  --muted:   #63688a;
+  --card:    #ffffff;
+  --border:  #e4e8ff;
+  --shadow:  0 10px 35px rgba(38, 56, 120, 0.10), 0 2px 8px rgba(38, 56, 120, 0.06);
+
+  /* ── Основной акцент — неоново-фиолетовый ── */
+  --primary:       #6d4aff;
+  --primary-weak:  rgba(109, 74, 255, 0.14);
+  --primary-hover: #5a38e8;
+
+  /* ── Вторичный акцент — бирюзовый ── */
+  --gold:          #1dc7b6;
+  --gold-light:    #7ef7ea;
+  --gold-weak:     rgba(29, 199, 182, 0.16);
+
+  /* ── Семантические цвета ── */
+  --good:  #23a35f;
+  --bad:   #e14a69;
+  --warn:  #ff9f40;
+
+  /* ── Шрифты ── */
+  --sans: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  --mono: ui-monospace, Consolas, "SFMono-Regular", Menlo, monospace;
+
+  color-scheme: light;
+  font: 16px/1.55 var(--sans);
+  color: var(--fg);
+  background: var(--bg);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:      #0d1024;
+    --fg:      #eef1ff;
+    --muted:   #a6acd8;
+    --card:    #141938;
+    --border:  #2a336a;
+    --shadow:  0 8px 32px rgba(0, 0, 0, 0.50);
+
+    --primary:       #8f78ff;
+    --primary-weak:  rgba(143, 120, 255, 0.20);
+    --primary-hover: #7b61ff;
+
+    --gold:          #26e2cf;
+    --gold-light:    #8cfff2;
+    --gold-weak:     rgba(38, 226, 207, 0.18);
+
+    --good:  #3ecf79;
+    --bad:   #ff6588;
+    --warn:  #ffb454;
+
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 700px at 0% -10%, rgba(109, 74, 255, 0.10), transparent 55%),
+    radial-gradient(1000px 600px at 100% 0%, rgba(29, 199, 182, 0.10), transparent 55%),
+    var(--bg);
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid color-mix(in oklab, var(--primary) 70%, white);
+  outline-offset: 2px;
+}
+
+.hanzi {
+  font-size: 28px;
+  line-height: 1.15;
+  letter-spacing: 0.2px;
+}
+
+.pinyin {
+  font-size: 14px;
+  color: var(--muted);
+}

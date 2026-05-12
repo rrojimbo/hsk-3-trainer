@@ -1,0 +1,2922 @@
+[
+  {
+    "id": 1,
+    "type": "match_response",
+    "statement": "你吃饭了吗？",
+    "options": [
+      "还没有呢。",
+      "我很好。",
+      "明天见。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "type": "insert_sentence",
+    "text_with_blank": "今天是我的生日。___我很开心。",
+    "options": [
+      "所以",
+      "但是",
+      "虽然",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "type": "reading_comprehension",
+    "text_zh": "张明每天早上六点起床，吃完早饭就去上班。他坐地铁去公司，路上大概三十分钟。晚上他常常加班，所以回家很晚。",
+    "question_zh": "张明几点起床？",
+    "options_zh": [
+      "五点",
+      "六点",
+      "七点",
+      "八点"
+    ],
+    "options_ru": [
+      "в 5",
+      "в 6",
+      "в 7",
+      "в 8"
+    ],
+    "answer": 1,
+    "explanation_ru": "В тексте сказано: 每天早上六点起床."
+  },
+  {
+    "id": 4,
+    "type": "match_response",
+    "statement": "你怎么来学校的？",
+    "options": [
+      "我坐公交车来的。",
+      "我叫王明。",
+      "因为下雨了。",
+      "在桌子上。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "type": "match_response",
+    "statement": "这件衣服多少钱？",
+    "options": [
+      "一百块。",
+      "我不舒服。",
+      "我在家。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "type": "match_response",
+    "statement": "周末我们去哪里？",
+    "options": [
+      "去公园吧。",
+      "我叫小李。",
+      "在办公室。",
+      "已经吃饱了。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "type": "match_response",
+    "statement": "你会说中文吗？",
+    "options": [
+      "会一点儿。",
+      "我很高。",
+      "在商店。",
+      "因为堵车。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "type": "match_response",
+    "statement": "你为什么不高兴？",
+    "options": [
+      "我的手机丢了。",
+      "我在看书。",
+      "今天星期三。",
+      "这是我的。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然他很忙，___每天都运动。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "因为"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "type": "insert_sentence",
+    "text_with_blank": "如果明天下雨，___我们不去爬山。",
+    "options": [
+      "就",
+      "最",
+      "又",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "type": "insert_sentence",
+    "text_with_blank": "对我来说，这个考试___难。",
+    "options": [
+      "比较",
+      "或者",
+      "再",
+      "先"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "type": "insert_sentence",
+    "text_with_blank": "这家店的东西不但便宜，___质量也很好。",
+    "options": [
+      "而且",
+      "所以",
+      "还是",
+      "因为"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "type": "insert_sentence",
+    "text_with_blank": "你___多休息，少熬夜。",
+    "options": [
+      "应该",
+      "可能",
+      "已经",
+      "连"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去超市买东西。因为打折，所以人很多。我买了水果、牛奶和面包。回家的路上，天空越来越黑，后来下雨了。",
+    "question_zh": "为什么超市里人很多？",
+    "options_zh": [
+      "因为下雨了",
+      "因为打折",
+      "因为关门了",
+      "因为很早"
+    ],
+    "options_ru": [
+      "потому что пошёл дождь",
+      "потому что скидки",
+      "потому что закрывалось",
+      "потому что было рано"
+    ],
+    "answer": 1,
+    "explanation_ru": "В тексте: 因为打折，所以人很多."
+  },
+  {
+    "id": 17,
+    "type": "reading_comprehension",
+    "text_zh": "小王生病了，今天没去上课。他在家里休息，还喝了很多热水。老师说：只有好好休息，才会快点儿好。",
+    "question_zh": "小王今天为什么没去上课？",
+    "options_zh": [
+      "因为生病了",
+      "因为下雨了",
+      "因为太忙了",
+      "因为去旅行了"
+    ],
+    "options_ru": [
+      "потому что заболел",
+      "потому что дождь",
+      "потому что очень занят",
+      "потому что поехал в поездку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 生病了，今天没去上课."
+  },
+  {
+    "id": 18,
+    "type": "reading_comprehension",
+    "text_zh": "我昨天把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "因为门坏了",
+      "因为没带钥匙",
+      "因为太晚了",
+      "因为下雪了"
+    ],
+    "options_ru": [
+      "потому что дверь сломалась",
+      "потому что не было ключей",
+      "потому что было слишком поздно",
+      "потому что пошёл снег"
+    ],
+    "answer": 1,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了."
+  },
+  {
+    "id": 19,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站不远，走路十分钟就到了。坐地铁去学校很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "三十分钟"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "30 минут"
+    ],
+    "answer": 1,
+    "explanation_ru": "В тексте: 走路十分钟就到了."
+  },
+  {
+    "id": 20,
+    "type": "reading_comprehension",
+    "text_zh": "今天的作业有点儿多，我写到十一点才写完。写完以后我又复习了一会儿，最后才睡觉。",
+    "question_zh": "我几点写完作业？",
+    "options_zh": [
+      "九点",
+      "十点",
+      "十一点",
+      "十二点"
+    ],
+    "options_ru": [
+      "в 9",
+      "в 10",
+      "в 11",
+      "в 12"
+    ],
+    "answer": 2,
+    "explanation_ru": "В тексте: 写到十一点才写完."
+  },
+  {
+    "id": 21,
+    "type": "match_response",
+    "statement": "你想喝茶还是咖啡？",
+    "options": [
+      "我想喝茶。",
+      "我在银行。",
+      "因为我累。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小张。",
+      "在桌子上。",
+      "很贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "type": "match_response",
+    "statement": "请把门关上。",
+    "options": [
+      "好的。",
+      "不舒服。",
+      "星期天。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "type": "match_response",
+    "statement": "你再说一遍好吗？",
+    "options": [
+      "好的，我再说一遍。",
+      "我不去。",
+      "我很忙。",
+      "我买了。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "type": "insert_sentence",
+    "text_with_blank": "这本书我___在网上买的。",
+    "options": [
+      "是",
+      "把",
+      "被",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "type": "insert_sentence",
+    "text_with_blank": "连我___不知道他在哪儿。",
+    "options": [
+      "也",
+      "才",
+      "再",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "type": "insert_sentence",
+    "text_with_blank": "今天我___迟到了，因为堵车。",
+    "options": [
+      "又",
+      "最",
+      "把",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "type": "reading_comprehension",
+    "text_zh": "我最喜欢的季节是春天。春天天气不冷也不热，花也开了。周末我常常和朋友去公园散步、拍照。",
+    "question_zh": "我最喜欢哪个季节？",
+    "options_zh": [
+      "春天",
+      "夏天",
+      "秋天",
+      "冬天"
+    ],
+    "options_ru": [
+      "весну",
+      "лето",
+      "осень",
+      "зиму"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 我最喜欢的季节是春天."
+  },
+  {
+    "id": 29,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店离我家很近。我一出门就能看见它。虽然地方不大，但是服务很好，菜也很新鲜。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "很远",
+      "服务不好",
+      "地方不大但很好",
+      "菜不新鲜"
+    ],
+    "options_ru": [
+      "очень далеко",
+      "плохой сервис",
+      "место небольшое, но хорошее",
+      "еда несвежая"
+    ],
+    "answer": 2,
+    "explanation_ru": "В тексте: 虽然地方不大，但是服务很好，菜也很新鲜."
+  },
+  {
+    "id": 30,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去银行办事。人比较多，我等了半个小时才轮到我。办完以后我又去了邮局寄包裹。",
+    "question_zh": "我在银行等了多久？",
+    "options_zh": [
+      "十分钟",
+      "二十分钟",
+      "半个小时",
+      "一个小时"
+    ],
+    "options_ru": [
+      "10 минут",
+      "20 минут",
+      "полчаса",
+      "час"
+    ],
+    "answer": 2,
+    "explanation_ru": "В тексте: 我等了半个小时才轮到我."
+  },
+  {
+    "id": 31,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "type": "match_response",
+    "statement": "今天你为什么迟到？",
+    "options": [
+      "因为堵车了。",
+      "我在学校。",
+      "我买了。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 36,
+    "type": "reading_comprehension",
+    "text_zh": "因为堵车了，所以他迟到了。老师说：下次早点儿出门，不要再迟到了。",
+    "question_zh": "他为什么迟到了？",
+    "options_zh": [
+      "因为堵车",
+      "因为生病",
+      "因为下雨",
+      "因为没睡好"
+    ],
+    "options_ru": [
+      "из-за пробок",
+      "из-за болезни",
+      "из-за дождя",
+      "плохо спал"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 因为堵车了，所以他迟到了。"
+  },
+  {
+    "id": 37,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 39,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 46,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 48,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "type": "insert_sentence",
+    "text_with_blank": "他不但会唱歌，___会跳舞。",
+    "options": [
+      "而且",
+      "所以",
+      "或者",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "type": "reading_comprehension",
+    "text_zh": "李明每天早上七点起床，吃完早饭就去学校。他坐公交车去学校，大概二十分钟。放学以后他常常去图书馆学习。",
+    "question_zh": "李明怎么去学校？",
+    "options_zh": [
+      "坐公交车",
+      "坐地铁",
+      "走路",
+      "坐出租车"
+    ],
+    "options_ru": [
+      "на автобусе",
+      "на метро",
+      "пешком",
+      "на такси"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 他坐公交车去学校。"
+  },
+  {
+    "id": 55,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 58,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "type": "insert_sentence",
+    "text_with_blank": "他不但会唱歌，___会跳舞。",
+    "options": [
+      "而且",
+      "所以",
+      "或者",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站很近，走路五分钟就到。坐地铁去市中心很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "半个小时"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "полчаса"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 走路五分钟就到。"
+  },
+  {
+    "id": 61,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 62,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站很近，走路五分钟就到。坐地铁去市中心很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "半个小时"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "полчаса"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 走路五分钟就到。"
+  },
+  {
+    "id": 63,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 65,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 66,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 68,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小李。",
+      "很远。",
+      "不贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去商店买衣服。虽然有点儿贵，但是很好看。我买了一件外套，还买了一双鞋。",
+    "question_zh": "我买了什么？",
+    "options_zh": [
+      "外套和鞋",
+      "水果和牛奶",
+      "手机和电脑",
+      "书和笔"
+    ],
+    "options_ru": [
+      "куртку и обувь",
+      "фрукты и молоко",
+      "телефон и компьютер",
+      "книгу и ручку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 买了一件外套…买了一双鞋。"
+  },
+  {
+    "id": 72,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 78,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站很近，走路五分钟就到。坐地铁去市中心很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "半个小时"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "полчаса"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 走路五分钟就到。"
+  },
+  {
+    "id": 79,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 80,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 81,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 85,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 86,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "type": "match_response",
+    "statement": "你觉得这个地方怎么样？",
+    "options": [
+      "对我来说太吵了。",
+      "我住在这儿。",
+      "我看见了。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "type": "insert_sentence",
+    "text_with_blank": "这件衣服有点儿贵，___很好看。",
+    "options": [
+      "但是",
+      "所以",
+      "最",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 91,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 92,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "type": "match_response",
+    "statement": "你觉得这个地方怎么样？",
+    "options": [
+      "对我来说太吵了。",
+      "我住在这儿。",
+      "我看见了。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小李。",
+      "很远。",
+      "不贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 96,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "type": "match_response",
+    "statement": "你觉得这个地方怎么样？",
+    "options": [
+      "对我来说太吵了。",
+      "我住在这儿。",
+      "我看见了。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 99,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 100,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "type": "match_response",
+    "statement": "你觉得这个地方怎么样？",
+    "options": [
+      "对我来说太吵了。",
+      "我住在这儿。",
+      "我看见了。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "type": "insert_sentence",
+    "text_with_blank": "这件衣服有点儿贵，___很好看。",
+    "options": [
+      "但是",
+      "所以",
+      "最",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 107,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小李。",
+      "很远。",
+      "不贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "type": "insert_sentence",
+    "text_with_blank": "他不但会唱歌，___会跳舞。",
+    "options": [
+      "而且",
+      "所以",
+      "或者",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去商店买衣服。虽然有点儿贵，但是很好看。我买了一件外套，还买了一双鞋。",
+    "question_zh": "我买了什么？",
+    "options_zh": [
+      "外套和鞋",
+      "水果和牛奶",
+      "手机和电脑",
+      "书和笔"
+    ],
+    "options_ru": [
+      "куртку и обувь",
+      "фрукты и молоко",
+      "телефон и компьютер",
+      "книгу и ручку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 买了一件外套…买了一双鞋。"
+  },
+  {
+    "id": 113,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 114,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "type": "match_response",
+    "statement": "现在几点？",
+    "options": [
+      "八点半。",
+      "在学校。",
+      "很贵。",
+      "我不去。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "type": "insert_sentence",
+    "text_with_blank": "他不但会唱歌，___会跳舞。",
+    "options": [
+      "而且",
+      "所以",
+      "或者",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去商店买衣服。虽然有点儿贵，但是很好看。我买了一件外套，还买了一双鞋。",
+    "question_zh": "我买了什么？",
+    "options_zh": [
+      "外套和鞋",
+      "水果和牛奶",
+      "手机和电脑",
+      "书和笔"
+    ],
+    "options_ru": [
+      "куртку и обувь",
+      "фрукты и молоко",
+      "телефон и компьютер",
+      "книгу и ручку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 买了一件外套…买了一双鞋。"
+  },
+  {
+    "id": 120,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 122,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 123,
+    "type": "match_response",
+    "statement": "今天你为什么迟到？",
+    "options": [
+      "因为堵车了。",
+      "我在学校。",
+      "我买了。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 125,
+    "type": "insert_sentence",
+    "text_with_blank": "这件衣服有点儿贵，___很好看。",
+    "options": [
+      "但是",
+      "所以",
+      "最",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "type": "match_response",
+    "statement": "你去哪儿？",
+    "options": [
+      "我去银行办事。",
+      "我叫小王。",
+      "我很高。",
+      "谢谢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 127,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "type": "reading_comprehension",
+    "text_zh": "李明每天早上七点起床，吃完早饭就去学校。他坐公交车去学校，大概二十分钟。放学以后他常常去图书馆学习。",
+    "question_zh": "李明怎么去学校？",
+    "options_zh": [
+      "坐公交车",
+      "坐地铁",
+      "走路",
+      "坐出租车"
+    ],
+    "options_ru": [
+      "на автобусе",
+      "на метро",
+      "пешком",
+      "на такси"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 他坐公交车去学校。"
+  },
+  {
+    "id": 130,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 131,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "type": "insert_sentence",
+    "text_with_blank": "今天下雨了，___我们不去公园。",
+    "options": [
+      "所以",
+      "但是",
+      "或者",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 133,
+    "type": "match_response",
+    "statement": "今天你为什么迟到？",
+    "options": [
+      "因为堵车了。",
+      "我在学校。",
+      "我买了。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "type": "reading_comprehension",
+    "text_zh": "因为堵车了，所以他迟到了。老师说：下次早点儿出门，不要再迟到了。",
+    "question_zh": "他为什么迟到了？",
+    "options_zh": [
+      "因为堵车",
+      "因为生病",
+      "因为下雨",
+      "因为没睡好"
+    ],
+    "options_ru": [
+      "из-за пробок",
+      "из-за болезни",
+      "из-за дождя",
+      "плохо спал"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 因为堵车了，所以他迟到了。"
+  },
+  {
+    "id": 135,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小李。",
+      "很远。",
+      "不贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 137,
+    "type": "reading_comprehension",
+    "text_zh": "因为堵车了，所以他迟到了。老师说：下次早点儿出门，不要再迟到了。",
+    "question_zh": "他为什么迟到了？",
+    "options_zh": [
+      "因为堵车",
+      "因为生病",
+      "因为下雨",
+      "因为没睡好"
+    ],
+    "options_ru": [
+      "из-за пробок",
+      "из-за болезни",
+      "из-за дождя",
+      "плохо спал"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 因为堵车了，所以他迟到了。"
+  },
+  {
+    "id": 138,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 139,
+    "type": "insert_sentence",
+    "text_with_blank": "这件衣服有点儿贵，___很好看。",
+    "options": [
+      "但是",
+      "所以",
+      "最",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 140,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 142,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 143,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 145,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 146,
+    "type": "match_response",
+    "statement": "今天你为什么迟到？",
+    "options": [
+      "因为堵车了。",
+      "我在学校。",
+      "我买了。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 147,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 149,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 150,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去商店买衣服。虽然有点儿贵，但是很好看。我买了一件外套，还买了一双鞋。",
+    "question_zh": "我买了什么？",
+    "options_zh": [
+      "外套和鞋",
+      "水果和牛奶",
+      "手机和电脑",
+      "书和笔"
+    ],
+    "options_ru": [
+      "куртку и обувь",
+      "фрукты и молоко",
+      "телефон и компьютер",
+      "книгу и ручку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 买了一件外套…买了一双鞋。"
+  },
+  {
+    "id": 151,
+    "type": "reading_comprehension",
+    "text_zh": "李明每天早上七点起床，吃完早饭就去学校。他坐公交车去学校，大概二十分钟。放学以后他常常去图书馆学习。",
+    "question_zh": "李明怎么去学校？",
+    "options_zh": [
+      "坐公交车",
+      "坐地铁",
+      "走路",
+      "坐出租车"
+    ],
+    "options_ru": [
+      "на автобусе",
+      "на метро",
+      "пешком",
+      "на такси"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 他坐公交车去学校。"
+  },
+  {
+    "id": 152,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 153,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 154,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 155,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 156,
+    "type": "reading_comprehension",
+    "text_zh": "小张不舒服，去医院看医生。医生让他多休息，少熬夜，还要多喝水。",
+    "question_zh": "医生让小张做什么？",
+    "options_zh": [
+      "多休息多喝水",
+      "多运动少吃",
+      "早点儿上班",
+      "每天看电影"
+    ],
+    "options_ru": [
+      "больше отдыхать и пить воду",
+      "больше спорт и меньше есть",
+      "пораньше на работу",
+      "каждый день кино"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 多休息…多喝水。"
+  },
+  {
+    "id": 157,
+    "type": "match_response",
+    "statement": "我们先做什么？",
+    "options": [
+      "先吃饭，然后去看电影。",
+      "我叫小李。",
+      "很远。",
+      "不贵。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 158,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 159,
+    "type": "reading_comprehension",
+    "text_zh": "因为堵车了，所以他迟到了。老师说：下次早点儿出门，不要再迟到了。",
+    "question_zh": "他为什么迟到了？",
+    "options_zh": [
+      "因为堵车",
+      "因为生病",
+      "因为下雨",
+      "因为没睡好"
+    ],
+    "options_ru": [
+      "из-за пробок",
+      "из-за болезни",
+      "из-за дождя",
+      "плохо спал"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 因为堵车了，所以他迟到了。"
+  },
+  {
+    "id": 160,
+    "type": "reading_comprehension",
+    "text_zh": "因为堵车了，所以他迟到了。老师说：下次早点儿出门，不要再迟到了。",
+    "question_zh": "他为什么迟到了？",
+    "options_zh": [
+      "因为堵车",
+      "因为生病",
+      "因为下雨",
+      "因为没睡好"
+    ],
+    "options_ru": [
+      "из-за пробок",
+      "из-за болезни",
+      "из-за дождя",
+      "плохо спал"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 因为堵车了，所以他迟到了。"
+  },
+  {
+    "id": 161,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站很近，走路五分钟就到。坐地铁去市中心很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "半个小时"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "полчаса"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 走路五分钟就到。"
+  },
+  {
+    "id": 162,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "type": "reading_comprehension",
+    "text_zh": "李明每天早上七点起床，吃完早饭就去学校。他坐公交车去学校，大概二十分钟。放学以后他常常去图书馆学习。",
+    "question_zh": "李明怎么去学校？",
+    "options_zh": [
+      "坐公交车",
+      "坐地铁",
+      "走路",
+      "坐出租车"
+    ],
+    "options_ru": [
+      "на автобусе",
+      "на метро",
+      "пешком",
+      "на такси"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 他坐公交车去学校。"
+  },
+  {
+    "id": 164,
+    "type": "insert_sentence",
+    "text_with_blank": "我一到家___开始做饭。",
+    "options": [
+      "就",
+      "才",
+      "被",
+      "除了"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 166,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 167,
+    "type": "insert_sentence",
+    "text_with_blank": "___你有时间，就来我家吧。",
+    "options": [
+      "如果",
+      "最",
+      "又",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 169,
+    "type": "match_response",
+    "statement": "今天你为什么迟到？",
+    "options": [
+      "因为堵车了。",
+      "我在学校。",
+      "我买了。",
+      "我最喜欢。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 170,
+    "type": "reading_comprehension",
+    "text_zh": "周末我打算先写作业，然后去公园散步。如果下雨，就在家看书。",
+    "question_zh": "如果下雨，我会做什么？",
+    "options_zh": [
+      "在家看书",
+      "去公园散步",
+      "去银行办事",
+      "去看医生"
+    ],
+    "options_ru": [
+      "читать дома",
+      "гулять в парке",
+      "идти в банк",
+      "идти к врачу"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 如果下雨，就在家看书。"
+  },
+  {
+    "id": 171,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 172,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 173,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 174,
+    "type": "insert_sentence",
+    "text_with_blank": "我们吃完饭___去买东西。",
+    "options": [
+      "再",
+      "最",
+      "被",
+      "虽然"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 175,
+    "type": "reading_comprehension",
+    "text_zh": "我们家离地铁站很近，走路五分钟就到。坐地铁去市中心很方便，但是早上人比较多。",
+    "question_zh": "从家到地铁站走路要多久？",
+    "options_zh": [
+      "五分钟",
+      "十分钟",
+      "二十分钟",
+      "半个小时"
+    ],
+    "options_ru": [
+      "5 минут",
+      "10 минут",
+      "20 минут",
+      "полчаса"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 走路五分钟就到。"
+  },
+  {
+    "id": 176,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 177,
+    "type": "match_response",
+    "statement": "你觉得这个地方怎么样？",
+    "options": [
+      "对我来说太吵了。",
+      "我住在这儿。",
+      "我看见了。",
+      "明天再说。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 178,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 179,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 180,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 181,
+    "type": "reading_comprehension",
+    "text_zh": "今天我去商店买衣服。虽然有点儿贵，但是很好看。我买了一件外套，还买了一双鞋。",
+    "question_zh": "我买了什么？",
+    "options_zh": [
+      "外套和鞋",
+      "水果和牛奶",
+      "手机和电脑",
+      "书和笔"
+    ],
+    "options_ru": [
+      "куртку и обувь",
+      "фрукты и молоко",
+      "телефон и компьютер",
+      "книгу и ручку"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 买了一件外套…买了一双鞋。"
+  },
+  {
+    "id": 182,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 183,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 184,
+    "type": "insert_sentence",
+    "text_with_blank": "除了中文以外，他___会说英语。",
+    "options": [
+      "还",
+      "最",
+      "再",
+      "把"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 185,
+    "type": "match_response",
+    "statement": "你要不要喝点儿水？",
+    "options": [
+      "不用了，谢谢。",
+      "我不懂。",
+      "我买了。",
+      "在这里。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 186,
+    "type": "match_response",
+    "statement": "你忙不忙？",
+    "options": [
+      "有点儿忙。",
+      "在桌子上。",
+      "去公园吧。",
+      "谢谢你。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 187,
+    "type": "reading_comprehension",
+    "text_zh": "我把钥匙忘在办公室了，所以晚上进不了家。后来同事帮忙把钥匙送来，我才回家。",
+    "question_zh": "我为什么进不了家？",
+    "options_zh": [
+      "没带钥匙",
+      "门坏了",
+      "太晚了",
+      "下雨了"
+    ],
+    "options_ru": [
+      "не было ключей",
+      "дверь сломалась",
+      "было поздно",
+      "шёл дождь"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 把钥匙忘在办公室了。"
+  },
+  {
+    "id": 188,
+    "type": "reading_comprehension",
+    "text_zh": "李明每天早上七点起床，吃完早饭就去学校。他坐公交车去学校，大概二十分钟。放学以后他常常去图书馆学习。",
+    "question_zh": "李明怎么去学校？",
+    "options_zh": [
+      "坐公交车",
+      "坐地铁",
+      "走路",
+      "坐出租车"
+    ],
+    "options_ru": [
+      "на автобусе",
+      "на метро",
+      "пешком",
+      "на такси"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 他坐公交车去学校。"
+  },
+  {
+    "id": 189,
+    "type": "insert_sentence",
+    "text_with_blank": "只有努力学习，___会进步。",
+    "options": [
+      "才",
+      "就",
+      "又",
+      "最"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 190,
+    "type": "insert_sentence",
+    "text_with_blank": "他不但会唱歌，___会跳舞。",
+    "options": [
+      "而且",
+      "所以",
+      "或者",
+      "如果"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 192,
+    "type": "reading_comprehension",
+    "text_zh": "这家饭店不但服务很好，而且菜也很新鲜。虽然地方不大，但是人很多。",
+    "question_zh": "这家饭店怎么样？",
+    "options_zh": [
+      "服务好，菜新鲜",
+      "很贵不好吃",
+      "很远不方便",
+      "很安静没人"
+    ],
+    "options_ru": [
+      "хороший сервис и свежая еда",
+      "дорого и невкусно",
+      "далеко и неудобно",
+      "тихо и никого"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 服务很好…菜也很新鲜。"
+  },
+  {
+    "id": 193,
+    "type": "reading_comprehension",
+    "text_zh": "今天是我的生日。朋友给我买了蛋糕，我们一起吃饭、拍照，我很开心。",
+    "question_zh": "为什么我很开心？",
+    "options_zh": [
+      "因为过生日",
+      "因为下雨",
+      "因为加班",
+      "因为生病"
+    ],
+    "options_ru": [
+      "потому что день рождения",
+      "потому что дождь",
+      "потому что переработки",
+      "потому что заболел"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 今天是我的生日…我很开心。"
+  },
+  {
+    "id": 194,
+    "type": "match_response",
+    "statement": "你会游泳吗？",
+    "options": [
+      "会一点儿。",
+      "我在医院。",
+      "因为下雨。",
+      "明天见。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 195,
+    "type": "insert_sentence",
+    "text_with_blank": "你想喝茶___咖啡？",
+    "options": [
+      "还是",
+      "所以",
+      "但是",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 196,
+    "type": "insert_sentence",
+    "text_with_blank": "虽然很累，___我还是继续学习。",
+    "options": [
+      "但是",
+      "所以",
+      "或者",
+      "再"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 197,
+    "type": "match_response",
+    "statement": "你怎么了？",
+    "options": [
+      "我有点儿不舒服。",
+      "我坐地铁来。",
+      "我最喜欢。",
+      "在家。"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 198,
+    "type": "reading_comprehension",
+    "text_zh": "我最近越来越忙，常常加班，所以回家很晚。虽然很累，但是我还是每天复习中文。",
+    "question_zh": "我为什么回家很晚？",
+    "options_zh": [
+      "因为加班",
+      "因为堵车",
+      "因为下雨",
+      "因为去超市"
+    ],
+    "options_ru": [
+      "из-за переработок",
+      "из-за пробок",
+      "из-за дождя",
+      "из-за супермаркета"
+    ],
+    "answer": 0,
+    "explanation_ru": "В тексте: 常常加班，所以回家很晚。"
+  },
+  {
+    "id": 199,
+    "type": "insert_sentence",
+    "text_with_blank": "这件衣服有点儿贵，___很好看。",
+    "options": [
+      "但是",
+      "所以",
+      "最",
+      "被"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 200,
+    "type": "match_response",
+    "statement": "周末见面可以吗？",
+    "options": [
+      "可以，星期天吧。",
+      "我不舒服。",
+      "因为堵车。",
+      "在公园。"
+    ],
+    "answer": 0
+  }
+]

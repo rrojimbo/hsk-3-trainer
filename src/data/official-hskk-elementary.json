@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-04-21T12:01:20.996Z",
+  "items": [
+    {
+      "code": "H71001",
+      "pdf_main": "/official/HSKK%20Elementary/H71001/H71001%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSKK%20Elementary/H71001/H71001%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71001/H71001%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71001/H71001_HSK%20Elementarstufe%20mit%20Beep.mp3"
+      ],
+      "files_count": 3
+    },
+    {
+      "code": "H71002",
+      "pdf_main": "/official/HSKK%20Elementary/H71002/H71002%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_test": "/official/HSKK%20Elementary/H71002/H71002%E8%AF%95%E5%8D%B7.pdf",
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71002/H71002%E8%AF%95%E5%8D%B7.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71002/H71002_HSK%20Elementarstufe%20mit%20Beep.mp3"
+      ],
+      "files_count": 3
+    },
+    {
+      "code": "H71003",
+      "pdf_main": "/official/HSKK%20Elementary/H71003/H71003.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71003/H71003.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71003/H71003_HSK%20Elementarstufe%20mit%20Beep.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71004",
+      "pdf_main": "/official/HSKK%20Elementary/H71004/H71004.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71004/H71004.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71004/H71004.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71105",
+      "pdf_main": "/official/HSKK%20Elementary/H71105/H71105.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71105/H71105.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71105/H71105.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71106",
+      "pdf_main": "/official/HSKK%20Elementary/H71106/H71106.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71106/H71106.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71106/H71106.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71107",
+      "pdf_main": "/official/HSKK%20Elementary/H71107/H71107.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71107/H71107.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71107/H71107.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71311",
+      "pdf_main": "/official/HSKK%20Elementary/H71311/H71311.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": "/official/HSKK%20Elementary/H71311/H71311_Transkript%20Audiodatei.pdf",
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71311/H71311.pdf",
+        "/official/HSKK%20Elementary/H71311/H71311_Transkript%20Audiodatei.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71311/H71311.mp3"
+      ],
+      "files_count": 3
+    },
+    {
+      "code": "H71312",
+      "pdf_main": "/official/HSKK%20Elementary/H71312/H71312.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71312/H71312.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71312/H71312.mp3"
+      ],
+      "files_count": 2
+    },
+    {
+      "code": "H71416",
+      "pdf_main": "/official/HSKK%20Elementary/H71416/H71416.pdf",
+      "pdf_test": null,
+      "pdf_listening_material": null,
+      "pdf_answers": null,
+      "pdf_transcript": null,
+      "pdf_all": [
+        "/official/HSKK%20Elementary/H71416/H71416.pdf"
+      ],
+      "audio": [
+        "/official/HSKK%20Elementary/H71416/H71416.mp3"
+      ],
+      "files_count": 4
+    }
+  ]
+}
