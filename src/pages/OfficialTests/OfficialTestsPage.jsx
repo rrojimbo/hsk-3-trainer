@@ -4,6 +4,16 @@ import { Card } from '../../components/shared/Card'
 import { Button } from '../../components/shared/Button'
 import styles from './OfficialTestsPage.module.css'
 
+const mediaBase = (import.meta.env.VITE_MEDIA_BASE_URL ?? '').replace(/\/$/, '')
+
+function withMediaBase(url) {
+  if (!url) return null
+  if (!mediaBase) return url
+  if (/^https?:\/\//i.test(url)) return url
+  if (url.startsWith('/')) return `${mediaBase}${url}`
+  return `${mediaBase}/${url}`
+}
+
 export function OfficialTestsPage() {
   const items = hsk3.items ?? []
   const [selected, setSelected] = useState(() => items[0]?.code ?? '')
@@ -11,10 +21,11 @@ export function OfficialTestsPage() {
   const cur = useMemo(() => items.find((x) => x.code === selected) ?? items[0] ?? null, [items, selected])
 
   const audioList = cur?.audio ?? []
-  const pdf = cur?.pdf_main ?? null
-  const transcript = cur?.pdf_transcript ?? null
-  const answers = cur?.pdf_answers ?? null
-  const listeningMat = cur?.pdf_listening_material ?? null
+  const pdf = withMediaBase(cur?.pdf_main ?? null)
+  const transcript = withMediaBase(cur?.pdf_transcript ?? null)
+  const answers = withMediaBase(cur?.pdf_answers ?? null)
+  const listeningMat = withMediaBase(cur?.pdf_listening_material ?? null)
+  const resolvedAudioList = audioList.map((a) => withMediaBase(a)).filter(Boolean)
 
   return (
     <div className={styles.layout}>
@@ -70,10 +81,10 @@ export function OfficialTestsPage() {
             </div>
           </div>
 
-          {audioList.length ? (
+          {resolvedAudioList.length ? (
             <div className={styles.audioBlock}>
               <div className={styles.audioTitle}>Аудио</div>
-              {audioList.map((a) => (
+              {resolvedAudioList.map((a) => (
                 <div key={a} className={styles.audioRow}>
                   <audio controls preload="none" src={a} className={styles.audio} />
                   <a className={styles.dl} href={a} download>
