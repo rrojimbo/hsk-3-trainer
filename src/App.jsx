@@ -19,8 +19,6 @@ const nav = [
   { to: '/reading', label: 'Чтение' },
   { to: '/writing', label: 'Письмо' },
   { to: '/mock', label: 'Полный тест' },
-  { to: '/official', label: 'HSK 3 Tests' },
-  { to: '/hskk', label: 'HSKK' },
   { to: '/progress', label: 'Прогресс' },
 ]
 
@@ -37,7 +35,7 @@ export default function App() {
       <header className={styles.header}>
         <div className={styles.brand}>
           <div className={styles.title}>HSK 3 — тренажёр</div>
-          <div className={styles.subtitle}>Онлайн • бесплатно • прогресс в браузере</div>
+          <div className={styles.subtitle}>只要功夫深，铁杵磨成针</div>
         </div>
         <nav className={styles.nav} aria-label="Навигация">
           {nav.map((i) => (

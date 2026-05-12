@@ -92,7 +92,7 @@ export function DashboardPage() {
           </div>
           <div className={styles.challengeActions}>
             <QuickAction to="/words" label="Начать слова" />
-            <QuickAction to="/listening" label="Врубить аудио" />
+            <QuickAction to="/listening" label="Тренировать аудио" />
             <QuickAction to="/mock" label="Пройти тест" />
           </div>
         </Card>
